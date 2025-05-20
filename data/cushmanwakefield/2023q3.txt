@@ -1,0 +1,458 @@
+Cushman & Wakefield
+Third Quarter 2023 Earnings Conference Call
+October 30, 2023
+
+Cushman & Wakefield – Third Quarter 2023 Earnings Conference Call, October 30, 2023
+
+CORPORATE PARTICIPANTS
+Megan McGrath, Senior Vice President, Investor Relations
+Michelle MacKay, Chief Executive Officer
+Neil Johnston, Executive Vice President and Chief Financial Officer
+
+CONFERENCE CALL PARTICIPANTS
+Anthony Paolone, JPMorgan
+Alex Kramm, UBS
+Ronald Kamdem, Morgan Stanley
+Michael Griffin, Citi
+Pat McIlwee, William Blair
+Patrick O’Shaughnessy, Raymond James
+
+PRESENTATION
+Operator
+Welcome to Cushman & Wakefield Third Quarter 2023 Earnings Conference Call.
+All lines have been placed on mute to prevent any background noise. After the speakers’ remarks there will
+be a question-and-answer session. (Operator instructions). Please note, this event is being recorded.
+It is now my pleasure to introduce Megan McGrath, Head of Investor Relations for Cushman & Wakefield.
+Ms McGrath, you may begin the conference.
+Megan McGrath
+Thank you, and welcome to Cushman & Wakefield's Third Quarter 2023 Earnings Conference Call. Earlier
+today, we issued a press release announcing our financial results for the period. This release, along with
+today's presentation, can be found on our Investor Relations website at ir.cushmanwakefield.com.
+Please turn to the page in our presentation labeled Cautionary Note on Forward-Looking Statements.
+Today's presentation contains forward-looking statements based on our current forecasts and estimates of
+future events. These statements should be considered estimates only, and actual results may differ
+materially.
+1
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.
+1-888-562-0262 1-604-929-1352 www.viavid.com
+
+Cushman & Wakefield – Third Quarter 2023 Earnings Conference Call, October 30, 2023
+During today's call, we will refer to non-GAAP financial measures as outlined by SEC guidelines.
+Reconciliations of GAAP to non-GAAP financial measures, definitions of non-GAAP financial measures and
+other related information are found within the financial tables of our earnings release and the appendix of
+today's presentation.
+Also, please note that throughout the presentation comparisons and growth rates are to the comparable
+periods of 2022 and in local currency unless otherwise stated.
+With that, I'd like to turn the call over to our CEO, Michelle MacKay.
+Michelle MacKay
+Thank you, Megan, and thank you everyone for joining us this afternoon. I’m excited to kick off my second
+earnings call as CEO.
+Before we get into the numbers, I've often been asked what differentiates me as a leader. The answer is
+simple: I have a bias to action. You can see that in what we've accomplished during the third quarter.
+We made significant progress transforming our capital stack as we refinanced $1.4 billion of our 2025 term
+loan. This initial move has pushed out our maturities and will reduce the Company's leverage by
+approximately $200 million in 2025. There was strong interest in the offering; it was well oversubscribed
+with more than 100 lenders in our term loan and more than 125 lenders in our bond. Additionally, we are
+ahead of schedule on our $130 million cost-out target for this year. The strong execution contributed to the
+sequential increase in our Q3 Adjusted EBITDA margin of 9.4%. Our Q3 Adjusted EBITDA performance of
+$150 million outpaced our Q2 performance despite softening market conditions as we continue to make
+choices that are in the Company's long-term interest regardless of the macro environment.
+It's true, uncertainties remain, and we saw the transaction markets take another pause in mid-August when
+rates moved higher. But even as transactional markets were idle during the quarter, we were not. We stayed
+focused, taking the deliberate actions I just discussed to improve our balance sheet and reduce our cost
+structure. What's really clear is that we have the right people, processes and capabilities to deliver for our
+clients, employees and investors. We've done the things that we need to do to stabilize the business, which
+puts us in the seat to make prudent and disciplined investments to ensure that we can capitalize on
+opportunities as they arise for the future.
+Now let me share some more detail on where we are in our strategic review and, more importantly, our goforward strategy.
+As I previewed on our last earnings call, over the past several months we have completed a very thorough
+assessment of our business segments, including detailed financial and capital allocation reviews, rigorous
+scenario planning, and long-term secular and industry analysis. These activities were part of a strategic
+road map we have created, and I'll share a bit more of that road map with you today.
+The debt financing, cost-out efforts and strategic reviews that we executed on during the third quarter
+comprise of the first phase of our strategic road map: strengthening our core. I feel very good about what
+we've accomplished in a very short period of time, enabling us to move to the next stage: creating flexibility
+and optionality. This means putting our company in the best possible position, both operationally and from
+a balance sheet perspective, to make investments at the right time in the cycle. To this end, we are focused
+on reducing our absolute level of leverage. As I noted earlier, we announced our intention to pay down the
+remaining balance of the term loan of $193 million, and we are developing a plan for further incremental
+debt reduction over the next several years. At the same time, we will also invest in compelling organic
+growth opportunities in both Services and Brokerage. As part of this plan, we remain committed to hiring
+2
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.
+1-888-562-0262 1-604-929-1352 www.viavid.com
+
+Cushman & Wakefield – Third Quarter 2023 Earnings Conference Call, October 30, 2023
+and retaining with the ability to flex our spending, as appropriate. This will help ensure we're properly
+staffed, both now and as the markets recover, so that we capitalize on future growth opportunities. We
+expect to achieve these balance sheet and investment goals by improving our internally generated free
+cash flow, which Neil will expand on in a moment, and by identifying and monetizing small noncore assets.
+We believe that this sharpened focus on the optimal balance between reducing debt and accelerating
+growth will be a long-term driver for shareholder value.
+The final stage in our road map is all about sustainable long-term growth. We intend to achieve this by
+continuing to diversify our revenue and drive market share gains through a differentiated, agile and clientcentric strategy. This means further partnering with our clients to help drive their business forward. We're
+not just hiring brokers but arming these brokers with proprietary data, analytics and insights.
+One example of how we've recently levered the power of the Cushman platform is a mandate that we've
+won with a large global EV company by creating a cross-functional team from Advisory Services,
+Technology and Business Development. We brought the client a bespoke solution informed by our unique
+expertise and perspective and the knowledge of a full spectrum of professionals. When we do that, I'll bet
+on our team against anyone else's.
+We are also using our analytical capabilities to develop a view on where this company and our clients
+should be positioned 5, 10 and even 20 years down the road. We are looking closely at mega trends in the
+built world, factors such as technology, urbanization, geopolitics, climate change and demographics, and
+layering these mega trends into distinct real estate subsectors across the stages of a typical real estate
+cycle. This helps us to understand where in each cycle each sector sits and identify segments that we
+believe will be disproportionately benefiting in terms of both growth and resiliency. This valuable proprietary
+analysis led by our independent research team is only one example of how we are positioning the Company
+to be opportunistic while continuing to provide independent, data-driven and highly tailored advice and
+solutions for our clients.
+It's clear to me that companies who will win in today's complex built world are those that can provide owners
+and occupiers expert data-driven advice and solutions, as well as flawless execution. Our best-in-class
+analytics, and the strength of our newly integrated team, positions us not only to uniquely meet that need
+but also to gain share in a highly fragmented market.
+As you can see, over the past several months, we have made significant strides in fine-tuning and beginning
+to execute on our plan. We are pushing hard to create a more agile, resilient and efficient Cushman &
+Wakefield that anticipates market trends and captures first-mover advantage where and when it really
+matters. We will share more details each quarter as we pursue these goals. I view this process as an
+ongoing evolution of the Company as we solidify our position as a premier global adviser in the built world.
+As I finish, I'd like to thank all of our employees for their continued hard work as we navigate through this
+uncertain operational environment. You impress me every day with your drive and dedication to go the
+extra mile for our clients.
+And now I'd like to hand the call over to Neil for a review of our third quarter financial results.
+Neil Johnston
+Thanks Michelle, and good afternoon everyone.
+For the third quarter, we reported a sequential increase in both Adjusted EBITDA and Adjusted EBITDA
+margin despite a sequential decline in revenue. This demonstrates our commitment to enhancing
+profitability through our continued focus on driving cost efficiencies in our business. During the quarter, we
+3
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.
+1-888-562-0262 1-604-929-1352 www.viavid.com
+
+Cushman & Wakefield – Third Quarter 2023 Earnings Conference Call, October 30, 2023
+also made significant progress on improving the strength and flexibility of our balance sheet, and saw
+improvement in free cash flow with enhanced working capital efficiency.
+Moving on to the details of the quarter, on the top line, while transactional markets remain challenged, we
+saw an improvement in year-over-year Brokerage trends as we began to lap the difficult market conditions,
+which began in late summer 2022. Third quarter fee revenue of $1.6 billion declined 11% versus the prior
+year with Capital Markets revenue down 33%, Leasing revenue down 16% and PM/FM revenue down 1%.
+We mentioned on our first quarter earnings call that due to a change in the gross contract reimbursables at
+one of our facility services contracts, our PM/FM fee revenue would be reduced by roughly $90 million on
+an annualized basis with no impact on total revenue or Adjusted EBITDA. Excluding the impact of this
+change, PM/FM revenue was up roughly 2% in the quarter. Valuation and Other declined 18% in the third
+quarter as the slowdown in transactions continue to result in lower valuation activity.
+Adjusted EBITDA for the third quarter of $150 million was down 27% versus prior year, and our third quarter
+Adjusted EBITDA margin was 9.4%.
+During the quarter, we continued to benefit from our previously announced cost savings programs. We
+have realized $98 million of gross savings year-to-date and expect to end the year slightly ahead of our
+previously communicated $130 million target. We believe we've taken the appropriate level of cost-cutting
+actions to rightsize the business for the current environment and the near-term recovery period. I'm pleased
+with our team's execution on these actions, and we will continually pursue ways to operate more efficiently
+and profitably regardless of the operating landscape.
+Adjusted earnings per share for the quarter was $0.21, a decrease of $0.22 versus prior year.
+Turning to our segments for the quarter, in the Americas, we saw a 26% year-over-year decline in
+Brokerage revenues and a 1% decline in PM/FM. Excluding a contract change, PM/FM revenues in the
+Americas grew 2.5%. The declines in Brokerage were across most asset types, principally due to the higher
+interest rate environment and macroeconomic headwinds.
+EMEA experienced a 14% year-over-year decline in Brokerage revenues. Leasing revenue was down 5%,
+but year-over-year trends improved sequentially as our teams were able to successfully execute several
+large deals during the quarter. Capital Markets revenue remained under pressure, down 32%, and EMEA
+PM/FM revenue was up 4%.
+Our APAC region reported a solid quarter with Brokerage revenue up 15% year-over-year as we
+experienced growth in several countries, including Australia, India and Japan. Our PM/FM business in
+APAC was down 2% primarily due to lower project management activity.
+Adjusted EBITDA declined in the Americas and EMEA, principally driven by the lower Brokerage activity,
+while EBITDA in APAC grew 44% driven by the improvements in Capital Markets.
+As previously mentioned, we saw a significant improvement in free cash flow. Free cash flow for the third
+quarter was $174 million versus $38 million in the third quarter of 2022. On a trailing 12-month basis, we
+generated $152 million of free cash flow compared with $40 million a year ago.
+During the third quarter, we refinanced the majority of the remaining $1.6 billion of our Term Loan B due
+2025 with a combination of $1 billion of new Term Loan B due 2030 and $400 million of secured notes due
+2031. We expect to repay the approximately $200 million of remaining Term Loan B due 2025 with cash
+on hand. This moves our nearest significant funded debt maturity to 2028. The refinancing did not
+meaningfully increase our overall borrowing cost and our debt remains approximately 93% fixed.
+4
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.
+1-888-562-0262 1-604-929-1352 www.viavid.com
+
+Cushman & Wakefield – Third Quarter 2023 Earnings Conference Call, October 30, 2023
+Overall, our financial position remains strong with $1.7 billion of liquidity, consisting of cash on hand of $588
+million and availability on our revolving credit facility of $1.1 billion. We had no outstanding borrowings on
+our revolver and net leverage was 4.5x at the end of the third quarter.
+Finally, moving on to our outlook, for the full year 2023, we anticipate our PM/FM revenues to grow in the
+low single digits. We expect Brokerage revenues for the full year 2023 to be down 20% to 25% compared
+to our previous guidance of down 20%. Due to this reduced expectations for Brokerage revenues, we now
+expect to be near the low end of our previous Adjusted EBITDA margin guidance range of 9% to 10% for
+the full year 2023.
+Looking ahead into next year, given the recent move higher in interest rates and continued uncertainty
+around Fed actions, we expect that a market recovery in Brokerage may be delayed until the second half
+of 2024.
+Despite current market conditions, we believe the work we've done throughout 2023 on driving free cash
+flow, achieving cost efficiencies, and strengthening our balance sheet, positions us extremely well
+financially navigate the upcoming year.
+That concludes the financial review, and now I'll turn the call back to Michelle.
+Michelle MacKay
+Thanks, Neil. I'm proud of what we've accomplished during the third quarter and the work we are doing to
+position the Company for the future. We will continue to control what's within our reach with a focus on
+creating flexibility and optionality in this next stage. I am confident that our go-forward strategy will position
+the Company for long-term sustainable growth, and I look forward to sharing our progress with you each
+quarter.
+Now I'll turn the call over to the operator to take your questions. Operator?
+Operator
+We will now begin the question-and-answer session. (Operator instructions).
+Our first question today is from Anthony Paolone with JP Morgan. Please go ahead.
+Anthony Paolone
+Great. Thank you. I guess my first question relates to the plan you outlined to find incremental cash to
+reduce debt over the next few years. I'm wondering if you could expand on that a bit and just maybe put
+some brackets around order of magnitude and what sort of assets do you see CWK having right now that
+could be monetized. Are these businesses? Are there investments on the balance sheet that could be sold?
+Just wondering if you can give a little more detail on all that.
+Michelle MacKay
+Sure. I think the best way to think about our long-term target for leverage is between the 2% to 3% range,
+and we plan to get that through a combination of debt paydown and EBITDA growth. Our goal is to
+demonstrate a balance between the two and the way that we're allocating capital. So we want to both be
+reducing debt and investing in growth, right? This is not an either/or conversation. I think what's important
+for everybody to understand is that we're committed to reducing our debt level over time as we grow the
+business because we believe this is the optimum path to generating strong shareholder returns.
+5
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.
+1-888-562-0262 1-604-929-1352 www.viavid.com
+
+Cushman & Wakefield – Third Quarter 2023 Earnings Conference Call, October 30, 2023
+
+In terms of monetization, I think before I talk about that, I just want to speak to the fact that monetization
+can take place in a variety of forms. It's not always an all-out sale of a business or an entity. What I can say
+about that is, because of the way the company was built through a series of mergers and acquisitions, there
+are components that were brought into the entity that are not necessarily strategic or core. We're not going
+to outline or speak what they are or to them directly today, but I can tell you that they are small in size and
+they wouldn't necessarily meet the long-term growth profile of the Company.
+Anthony Paolone
+Okay. Thanks for that. Then just my second question is, Neil, I think you mentioned coming in at or a little
+bit above $130 million cost-saving target for '23, and you felt like that is kind of where you'd end up and felt
+good about that. But just wondering, if the business stays challenged into '24 or maybe goes longer before
+we see much recovery, do you have other levers you could pull there? Are there other cost saves that could
+be contemplated?
+Neil Johnston
+Tony, at this point, we feel like the $130 million that we're targeting is the appropriate level to not only
+ensure our margins in this year, 2023, but also through 2024 in terms of what we are forecasting, and that
+contemplates a marked recession. We are always focused on efficiencies, so there are always additional
+levers that we can pull. We always are improving the operating ability of the business. I think the easiest
+way to think about it is in that $130 million of savings, about 20% are temporary costs which we took out of
+the business in 2023 – things like travel, marketing, those types of costs. If we did see the market continue
+to run at the same sort of levels all the way through to next year, then obviously, we would hold back on
+allowing any of those costs to come back into the business and then that cost savings on a permanent
+basis would increase from about $130 million to about $160 million for the year.
+Operator
+The next question comes from Alex Kramm of UBS. Please go ahead.
+Alex Kramm
+Yes. Hey, good evening everyone. Maybe starting first on the PM/FM business, maybe it's a little nitty-gritty
+here; I know you had the contract change, but if I look at your updated outlook, Neil, I don't think you
+mentioned it, but I think the low single-digit expectation is a downgrade to your prior expectation from, I
+think, low to mid. Just curious what else has changed in that business. Is churn increasing? Are the sales
+cycles just longer? Maybe just talk about that business because it seems like you lowered expectations
+there slightly.
+Michelle MacKay
+This is Michelle. I’m going to let Neil talk you through some of the numbers and then I’ll address our Services
+strategy.
+Neil Johnston
+Sure. Hey, Alex, I think the best way to think about our Services business is really considering three different
+things. As you say, the first one is the fact that we had that contract change. That takes the growth from
+negative 1% to a positive 2%, which is in line with our low to mid but arguably at low end. The second thing
+is, in the prior year, we saw very strong Services growth. In fact, that growth was double digit all the way
+6
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.
+1-888-562-0262 1-604-929-1352 www.viavid.com
+
+Cushman & Wakefield – Third Quarter 2023 Earnings Conference Call, October 30, 2023
+through the first three quarters of the year, so as we came into this year, we really would have slightly
+tougher comps, and you're seeing that in the numbers that we showed in the third quarter.
+Then finally, in Asia Pacific, it really was our Project Management business which was slightly lower than
+expected. That business does tend to be fairly lumpy. We did see very strong activity a year ago. If one
+looks on a year-to-date basis, APAC services was actually up around 6%, and so that sort of smoothed
+some of the lumpiness.
+Michelle MacKay
+Mm-hmm. I want to make it clear that while there's a few unique items this quarter impacting the results,
+we aren't satisfied with the low level of organic growth that we reported in our Services business. This
+business is a big priority for us and a key area to invest in. There's a lot of opportunity for us to grow our
+Services businesses organically and we will be focusing on driving accelerated growth in this business
+specifically.
+Alex Kramm
+All right. Fair enough. Thank you.
+Then maybe secondarily, I don't know if this is a follow-up to an earlier question on 2024, but obviously,
+you are looking for a second half recovery next year. But if we stay in this environment here—and I'm not
+so much focused on expenses but more for the growth outlook—do you still think there's growth in the
+business from these kind of levels? Again, you have a large portion are kind of like recurring businesses
+and then I think, again, on the Sales side, Capital Markets side, were pretty soft already; hard to see it go
+a lot lower. Then on the Leasing side, I think renewals are actually supposed to be down next year, but
+maybe you're still getting market share. Maybe a little bit of an early question about 2024, but in an
+unchanged environment do you actually think you can grow from here, or would there still be some
+headwinds here?
+Michelle MacKay
+Okay. There's a couple of things to unpack, so let's just start with Leasing, and we'll give you our experience
+here.
+This year, we've got a couple of large leases this quarter for occupiers, but we're also seeing them holding
+off on decision-making. How you can translate that is they're going to have to make a decision eventually.
+Occupiers have taken a defensive posture this year because of higher cost of capital, right? And they've
+been very careful with expenditures, which obviously impacts their decision-making, but it's really unusual
+for Leasing to dip ahead of a downturn. Typically, Leasing moves in line with GDP and job growth—if that's
+what you're getting at—but what we think is happening is perhaps some of the weakness that would have
+been in 2024 is actually getting pulled forward this year. So we expect Leasing volume to hold through next
+year and hopefully improve over time. But as you've said, if that were not to be the case, we're well prepared,
+as Neil has spoken to, in both our cost structure and the fact that we have a Services business.
+When you talk about Capital Markets, predicting the timing of cap mark, the rebound is really difficult, but
+we know it's going to come. If you look behind on the surface, the preconditions that will lead to the recovery
+are starting to form in here. Inflation is coming in, right? We've got the Fed this week. We think that there's
+going to be a pause in there. We're starting to see some of the shoots around stressed and distressed asset
+trading, valuations and other indicators in that sector.
+Operator
+7
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.
+1-888-562-0262 1-604-929-1352 www.viavid.com
+
+Cushman & Wakefield – Third Quarter 2023 Earnings Conference Call, October 30, 2023
+
+The next question comes from Michael Griffin of Citi. Please go ahead.
+Michael Griffin
+Great. Thanks. Maybe just piggybacking off of your previous response there, Michelle, on the PM/FM
+business. You talked about organic growth initiatives you're going to undertake. Is there any chance you
+can quantify some of those initiatives for us? Any color around that would be helpful.
+Michelle MacKay
+Yes. I mean I'm not going to quantify it for you today, but I will tell you that you're always going to see a
+toggle between us deleveraging and investing for growth. Right? We're not just pushing on one pedal; we're
+going to push on both pedals at the same time. Services, the duration, the nature of that particular business
+for us is really valuable in relationship to our other business. And when you think of it in pockets, think about
+GOS, think about asset, and think about CW Services, and those are going to be key areas that we target
+for investment.
+Michael Griffin
+Got you. That's helpful. Then maybe just on the Capital Markets business, for the deals that are trading, I
+mean, can you give us a sense of what's out there, what buyers are expecting, if anything, where buyers
+and sellers are? Anything there would be helpful.
+Michelle MacKay
+I mean I think there's a lot of friction in the surface still with regard to clearing levels and trading. You clearly
+have movement of cash flow flight to quality in the assets as well. 60% to 65% of the deals we actually see
+getting done are still in industrial and multifamily and those are the two sectors that buyers, sellers and
+lenders have the most confidence in. There's strong buildup in capital for opportunistic, right? There's a lot
+of dry powder out there, and investors are also getting anxious to deploy it. We don't think it's a matter of is
+it going to happen. Right? It's going to happen, but we probably have a couple more months before we
+really start to see volume in terms of clearing in the stressed and distressed markets.
+Operator
+The next question is from Ronald Kamdem of Morgan Stanley. Please go ahead.
+Ronald Kamdem
+Yes, just two quick ones. One on the Capital Markets recovery, I think a lot of the peers have talked about
+sort of a second half '24, which obviously is probably a year later than we all expected. How is that being
+determined? Is it just sort of, “Hey, the macro is going to be better, so therefore, people have to transact”?
+Or is there something more that we should be looking for, for those deals to unwind? I'm just trying to figure
+out like how are we pinning down the dates for a recovery, or is it just based on the macro?
+Michelle MacKay
+Okay. Yes. I mean I think rate stabilization is the key. Right? That leads to cap rate stabilization, that leads
+to stronger transaction activity. So I think when we're all taking a point of view that leans toward the second
+half of next year, a lot of it has to do with what the curve looks like. Right? You want to have a normalized
+curve. The real estate markets have functioned for 50 years, right, when the 10-year was above 5% and
+8
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.
+1-888-562-0262 1-604-929-1352 www.viavid.com
+
+Cushman & Wakefield – Third Quarter 2023 Earnings Conference Call, October 30, 2023
+functioned well, so we're waiting for the timing to happen so that we have a normalized curve and people
+can start to transact around that versus waiting for when is the Fed going to come out next.
+Ronald Kamdem
+Got it. My next question, just going back to the cash flow statement, it looks like there was a lot of cash that
+flowed through this quarter. Just any sort of one-timers and, as we're thinking about the back half of the
+year, any other sort of one-off that we should think about as we're translating EBITDA to cash flow?
+Neil Johnston
+No, Ron. Generally, what we're seeing is, with the lower earnings, we're seeing the lower earnings being
+offset by the release of working capital. Our teams in the field have done a phenomenal job really focused
+on working capital and so we are seeing the benefits of that. We're also seeing lower cash taxes as a result
+of the lower earnings. Those are sort of the items that are driving the free cash flow. There’s nothing specific
+and one-time. We do think cash flow this year is going to be very strong.
+Operator
+(Operator instructions).
+The next question comes from Stephen Sheldon of William Blair. Please go ahead.
+Pat McIlwee
+Hi Neil and Michelle. You’ve got Pat McIlwee on from William Blair.
+My first question is, with U.S. office vacancy near 20% now, how much do occupancy trends in that space
+impact the demand you see for outsourcing services in your PM/FM business? Has that been or would you
+expect that to begin weighing more on growth in the business at all?
+Michelle MacKay
+Let me just come back to you with that question. Do you mean the vacancy in office buildings impacting
+our Services business?
+Pat McIlwee
+Correct. Yes, demand for the outsourcing services.
+Michelle MacKay
+Yes. I think the way that we're thinking about it now is that we think we're nearing the end of the remote
+work impact, so we've seen a lot of it happen already, right? Something to keep in mind is that the average
+lease in the U.S. is about six or seven years long, and most businesses have already made their decisions
+on space. So either they signed a new lease, likely for less space, or they're still in their existing space or
+they listed their space to sublease. So a lot of this has already played through the system. We did have
+some impact over the course of 2023 in the office portfolios that we manage, but I wouldn't anticipate a
+material change in that over 2024.
+Pat McIlwee
+9
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.
+1-888-562-0262 1-604-929-1352 www.viavid.com
+
+Cushman & Wakefield – Third Quarter 2023 Earnings Conference Call, October 30, 2023
+Understood. Thanks. Then just as a follow-up, a little bit further on the cost-saving initiatives. We've heard
+peers say that they're looking a bit more at producer head count given the longer expected downturn. I'm
+just curious if or how your strategy has changed on that front in terms of maintaining capacity for recovery
+versus supporting margins until we do see that recovery.
+Neil Johnston
+I think we've always been very focused on the return of any investment we're making in producers. And so
+I think we've been very prudent with our capital allocation. We feel good about the investment we're making
+in growing in our recruiting and our retention and I don't see that changing as we move forward either in
+either direction. We feel very good about our production capacity and how that sets us up for any potential
+recovery in 2024.
+Michelle MacKay
+Yes. Just to give you a little bit of our philosophy around it, we look at talent much like we look at our
+portfolio of businesses. Right? And like in any business, we question is that team or individual focused on
+what we consider core strategy, an area that we're really focused on? Do the economics of that make
+sense, right? What do we want in new talent that we're bringing in? And so we're always paring and pruning
+our talent so that we have advisers in the shop that really drive the future of the company. So I think that
+when you think about it, movement for us, meaning people leaving and people coming in, is going to be a
+normal course of business at Cushman.
+Operator
+The next question is from Patrick O’Shaughnessy of Raymond James. Please go ahead.
+Patrick O’Shaughnessy
+Hey, good evening. What would the implications of a potential WeWork bankruptcy be on your strategic
+relationship with WeWork? Are there any tangible risks to any revenue streams?
+Neil Johnston
+There are not. The investment as a whole, we've already taken the mark-to-market there. Then in terms of
+our relationship with them, we do do a lot of work for them, but it's not material to the overall company. So
+I would anticipate that if there was a bankruptcy, many of those spaces still need to get serviced, still need
+to get managed, still need to get cleaned. It's an essential service, so we don't see it as a material impact
+to the Company.
+Patrick O’Shaughnessy
+Great. Thank you. Can we get your updated thoughts on Greystone? In particular, do you consider
+Graystone to be a core asset and a core part of your strategy? Or would they maybe fit into the noncore
+bucket?
+Neil Johnston
+We view our investment in Greystone for he long term. We remain very constructive on the multifamily
+platform, and we believe the underlying long-term fundamentals in their business are strong. While we did
+see a decline in Greystone primarily due to a reduction in lending volumes, we're actually quite pleased in
+the quarter on a relative basis in terms of our performance. We took share in all three of the agencies. We
+10
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.
+1-888-562-0262 1-604-929-1352 www.viavid.com
+
+Cushman & Wakefield – Third Quarter 2023 Earnings Conference Call, October 30, 2023
+remain the number one FHA partner or lender. We're number two with Fannie, number five with Freddie.
+So we continue to take share and view that as very strategic as we move forward.
+Operator
+This concludes our question-and-answer session and the conference has also now concluded. Thank you
+for participating in today’s presentation. You may now disconnect.
+
+11
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.
+1-888-562-0262 1-604-929-1352 www.viavid.com
+
+

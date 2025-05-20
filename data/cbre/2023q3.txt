@@ -1,0 +1,1032 @@
+﻿Corrected Transcript 
+ 
+
+  
+
+27-Oct-2023 
+
+CBRE Group, Inc. (CBRE) 
+
+Q3 2023 Earnings Call 
+
+ Total Pages: 18 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+ 
+
+CORPORATE PARTICIPANTS 
+ 
+Brad Burke Emma E. Giamartino 
+Head-Investor Relations and Treasurer, CBRE Group, Inc. Chief Financial Officer, CBRE Group, Inc. 
+
+Robert E. Sulentic 
+President, Chief Executive Officer & Director, CBRE Group, Inc. 
+
+ .....................................................................................................................................................................................................................................................................  
+ 
+
+OTHER PARTICIPANTS 
+ 
+Anthony Paolone Patrick Joseph O'Shaughnessy 
+Analyst, JPMorgan Securities LLC Analyst, Raymond James & Associates, Inc. 
+
+Steve Sakwa Alex Kramm 
+Analyst, Evercore ISI Analyst, UBS Securities LLC 
+
+Jade Rahmani Michael A. Griffin 
+Analyst, Keefe, Bruyette & Woods, Inc. Analyst, Citigroup 
+
+Stephen Sheldon 
+Analyst, William Blair & Co. LLC 
+
+ .....................................................................................................................................................................................................................................................................  
+ 
+
+MANAGEMENT DISCUSSION SECTION 
+ 
+ 
+Operator: Greetings and welcome to the CBRE Group, Inc. Q3 2023 Earnings Conference Call. At this time, all 
+participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. 
+[Operator Instructions] As a reminder, this conference is being recorded. 
+ 
+It is now my pleasure to introduce your host, Mr. Brad Burke, Head of Investor Relations and Treasurer. Thank 
+you, Mr. Burke. You may begin. 
+ .....................................................................................................................................................................................................................................................................  
+
+Brad Burke 
+Head-Investor Relations and Treasurer, CBRE Group, Inc. 
+
+Good morning, everyone, and welcome to CBRE's third quarter 2023 earnings conference call. Earlier today, we 
+posted a presentation deck on our website that you can use to follow along with our prepared remarks and an 
+Excel file that contains additional supplemental materials. 
+ 
+Before we kick off today's call, I'll remind you that today's presentation contains forward-looking statements, 
+including without limitation statements concerning our economic outlook, our business plans, and our financial 
+outlook. Forward-looking statements are predictions, projections, or other statements about future events. These 
+statements involve risks and uncertainties that may cause actual results and trends to differ materially from those 
+projected. 
+ 
+For a full discussion of the risks and other factors that may impact these forward-looking statements, please refer 
+to this morning's earnings release and our SEC filings. We have provided reconciliations of the non-GAAP 
+
+  2 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+financial measures discussed on our call to the most directly comparable GAAP measures, together with 
+explanations of these measures in our presentation deck appendix. 
+ 
+I am joined on today's call by Bob Sulentic, our President and CEO; and Emma Giamartino, our Chief Financial 
+Officer. 
+ 
+Now, please turn to slide 5, as I turn the call over to Bob. 
+ .....................................................................................................................................................................................................................................................................  
+
+Robert E. Sulentic 
+President, Chief Executive Officer & Director, CBRE Group, Inc. 
+
+Thank you, Brad. And good morning, everyone. Commercial real estate capital markets remained under 
+significant pressure in the third quarter. As a result, we experienced a sustained slowdown in property sales and 
+debt financing activity, which drove the decline in core EPS. This decline was exacerbated by delays in harvesting 
+development assets, which we will sell when market conditions improve. 
+ 
+Over the last several quarters, we have detailed the increased importance of our resilient and secularly favored 
+businesses. These businesses saw continued solid growth in the third quarter, led by Global Workplace Solutions. 
+ 
+Interest rates have increased more than 100 basis points since we – since we reported second quarter results 90 
+days ago, continuing the sharpest rise in rates in nearly 40 years. The unexpected jump in rates has pushed back 
+the capital markets recovery. 
+ 
+Property prices are gradually declining, and we believe this process won't complete and transaction activity won't 
+rebound materially until investors are confident that interest rates have peaked and credit becomes readily 
+available. We now believe this rebound is unlikely to occur until the second half of next year at the earliest. 
+ 
+In the meantime, as we discussed last quarter, pockets of opportunity exist and the breadth and depth of our 
+market presence gives us visibility into where we want to be positioned for the long-term. For example, year-to-
+date, we've committed more than $350 million in co-investments to value-add opportunistic and development 
+strategies and believe these investments are positioned to deliver quite attractive returns as market conditions 
+improve. 
+ 
+This is the time in the market cycle when well-positioned investors can secure opportunities that deliver outsized 
+returns. We expect to identify and act on more opportunities to deploy capital, especially in co-investments and 
+M&A while the market is depressed. In light of continuing challenges in the real estate capital markets, we have 
+lowered our expectations for 2023 core EPS to a mid-30% decrease from the 20% to 25% decline we anticipated 
+90 days ago. 
+ 
+The reduced outlook is almost entirely attributable to our interest rate sensitive businesses. While it's difficult to 
+forecast the timing of the capital markets recovery, the resilient and secularly favored businesses we mentioned 
+earlier have generated over $1.5 billion of SOP over the last 12 months and we expect them to represent over 
+60% of CBRE's SOP for full year 2023. We further expect SOP from these businesses to increase by double-
+digits next year. 
+ 
+Emma will walk you through our outlook after she reviews the quarter. Emma? 
+ .....................................................................................................................................................................................................................................................................  
+
+  3 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+Emma E. Giamartino 
+Chief Financial Officer, CBRE Group, Inc. 
+
+Thanks, Bob. Please turn to slide 6 for a review of Advisory Services results. This segment's net revenue fell 17% 
+and SOP declined to 35% versus the prior year's Q3. 
+ 
+Across geographies, APAC showed the best relative performance, with revenue up 3%, led by continued strong 
+growth in Japan. Revenue was weak across EMEA, declining 18%, slightly better than the Americas, where 
+revenue fell 21%. 
+ 
+The revenue decline was most pronounced in property sales, which decreased 38%, with both buyers and sellers 
+pausing amid the sharp and unexpected interest rate increases over the past 90 days. EMEA sales revenue saw 
+the greatest decline at 47%, while APAC sales revenue fell only 12%. 
+ 
+In the Americas, property sales revenue dropped 41%. Ironically, compared with other major property types, also 
+saw the least severe decline due to weak prior year comps and seller capitulation. 
+ 
+Industrial sales were largely limited to properties under 300,000 square feet, and multifamily sales were 
+concentrated in core and core-plus properties as investors focus on the highest quality properties to mitigate risk. 
+ 
+Commercial mortgage origination revenue fell less than property sales, down 18%. The decline was tempered by 
+our significant business with the GSEs, which have taken share amid the broader pullback in lending. 
+ 
+Beyond capital markets, our leasing revenue declined by 16%, a few percentage points below what we had 
+anticipated going into the quarter. Significant growth in several APAC countries was offset by lower revenue in 
+both EMEA and the Americas. 
+ 
+Economic uncertainty continues to delay occupier decision making, particularly for large office and industrial 
+deals. For example, leasing revenue declined by 23% in the US, but the number of leases completed was only 
+down 10%. The remaining lines of business in our Advisory segment were relatively flat, with growth in both loan 
+servicing and property management offsetting weaker valuations revenue, which is tied to sales and financing 
+activity. 
+ 
+Please turn to slide 7, as I discuss the GWS segment. GWS posted another strong quarter with net revenue and 
+SOP increasing by 14% and 15% respectively. Both Facilities Management and Project Management generated 
+mid-teens net revenue growth. Our business continues to benefit from our focus on industry sectors that allow us 
+to meet the unique needs of our diversified client base. 
+ 
+Growth year-to-date has been notable in three sectors. Healthcare due to our enhanced capabilities to meet client 
+needs. Energy spurred by strong expansion with existing clients, along with growth in renewable energy. And 
+industrial & logistics, an industry that is increasingly embracing outsourcing in their manufacturing plants to 
+reduce costs. 
+ 
+We are also seeing continued strong revenue growth in our GWS local business, driven by a mix of new and 
+existing clients. Investment in our US local business, which I discussed last quarter, resulted in several new wins 
+and accelerated revenue growth. 
+ 
+In addition, our Turner & Townsend project management business continues to outperform expectations, most 
+notably through their expansion in the US. 
+
+  4 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+ 
+Our GWS pipeline reached a new record in the quarter, with one-third of our pipeline coming from first-generation 
+outsourcing clients. That is clients who have not previously outsourced their real estate operations. The growth in 
+first-generation pursuits reflects corporations increased interest in reducing occupancy costs among the uncertain 
+economic environment. 
+ 
+Our remaining pipeline is filled with occupiers that are looking to either expand their scope of services with CBRE 
+or switch their service provider to CBRE because of our ability to provide more integrated global solutions. 
+ 
+Margins improved slightly in Q3 due to strong revenue growth that offset the investments made earlier this year, 
+allowing us to achieve operating leverage. We anticipate further margin expansion next quarter. 
+ 
+Now turn to slide 8, for a discussion of the REI segment. Overall, SOP totaled just $7 million, reflecting few US 
+development asset sales and lower operating profit in our Investment Management business. Within Investment 
+Management, the decline in operating profit was primarily driven by negative marks in our more than $330 million 
+co-investment portfolio compared with positive marks last year, as well as lower incentive fees. 
+ 
+AUM declined sequentially to $144 billion, primarily due to lower property valuations and negative foreign 
+currency effects, which offset modest net inflows. While fundraising has decelerated materially across the sector, 
+including for CBRE, investors remain keenly interested in higher target return strategies to take advantage of 
+current market stress and dislocation, such as opportunistic secondaries and value-add real estate strategies. 
+ 
+And we have committed almost $200 million year-to-date in co-investment capital in support of these strategies. 
+This is a record level of co-investment across our funds and a substantial increase in our commitment to higher 
+return strategies. We have focused on follow-on funds with strong track records and led by experienced portfolio 
+management teams. 
+ 
+Development results were below expectations due to deals slipping into 2024. Historically, we've covered the US 
+development business as operating costs with project fees, and we expect this to be the case going forward. 
+ 
+Our in-process portfolio was flat with last quarter as we added few new projects, but also did not have any 
+meaningful asset sales. Note that we have refined our development portfolio definitions to better reflect projects 
+that are actively under construction. The primary change is that the definition of in-process now only includes 
+projects that have started construction, whereas the prior definition included projects that are under our control 
+with construction expected to start within 12 months. 
+ 
+The environment for harvesting development projects and recognizing the related gains has become increasingly 
+challenging. The project sale process is progressing more slowly than we typically see, driven by increased 
+caution from buyers. This has been elongating the sale process rather than impacting pricing. However, we're 
+reaching a point where pricing will be impacted and in that case, we will proactively decide to hold well capitalized 
+assets until market conditions improve. 
+ 
+As Bob noted earlier, these circumstances, which put downward pressure on our business in the short run, create 
+opportunities to secure assets that will lead to substantial future profits. 
+ 
+Looking forward, we have continued to invest in development with more than $150 million committed year-to-date. 
+These investments are focused on securing multifamily and industrial projects at a time of capital markets 
+dislocation that we expect to deliver historically attractive returns. 
+
+  5 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+ 
+Please turn to slide 9. As we've noted, the current environment is providing opportunities to deploy capital 
+strategically. With respect to M&A, we continue to evaluate many opportunities across our lines of business. 
+However, we are being disciplined about pricing and thorough in our due diligence. Just as the rise in interest 
+rates and increased uncertainty impacts real estate transactions, it also affects M&A deals. 
+ 
+We have passed on otherwise attractive deals where we could not close the gap in pricing with sellers. Our hurdle 
+rates to achieve returns above our risk adjusted cost of capital have increased along with interest rates. The seller 
+pricing expectations for the most part have adjusted more slowly. 
+ 
+In the meantime, we've completed over $500 million of share repurchases during the quarter, bringing our year-to-
+date total to $630 million. Volatility during the third quarter allowed us to get close to our share repurchase target 
+for the full year. 
+ 
+I want to reiterate that while we are looking to take advantage of this period of investment opportunity, we remain 
+highly disciplined around pricing and we are fully committed to maintaining an investment grade balance sheet 
+with a leverage ratio below two turns. 
+ 
+Next, I'll briefly touch on cash flow and cost reductions. Full year free cash flow is tracking below our prior 
+expectations, primarily due to lower earnings. In addition, several large uses of cash, mostly timing related items 
+such as cash compensation tied to last year's results do not flex down with this year's lower earnings. As a result, 
+these items are a headwind to free cash flow this year. As these timing impacts reverse next year, we anticipate a 
+significant improvement in our 2024 free cash flow generation. 
+ 
+We discussed earlier this year that we were prepared to cut costs further if the market environment deteriorated. 
+The time has come and we will be reducing costs across our lines of business. We have already targeted $150 
+million of reductions in our run rate operating costs, primarily focused on our transactional lines of business that 
+have been most negatively impacted by the market downturn. We expect to provide more detail on the benefit of 
+our cost savings actions when we provide 2024 guidance next quarter. 
+ 
+Turning to our outlook, as Bob noted earlier, we now expect core EPS for the full year to decline by mid-30%. Our 
+expectations for double-digit revenue and SOP growth in our GWS segment are more than offset by capital 
+markets driven SOP declines in Advisory and REI segments. 
+ 
+Looking to next year, while the recovery of transaction activity, particularly in capital markets, will take longer than 
+initially anticipated, we expect double-digit growth of our resilient and secularly favored lines of business, which 
+combined have exceeded $1.5 billion of SOP on a trailing 12-month basis. 
+ 
+In addition, we will continue to benefit from strategic deployment of capital and our cost reduction initiatives. 
+Taking into account all of these circumstances, we believe this year will be the trough for our earnings and 
+anticipate meaningful growth next year. However, our return to record earnings will likely be delayed a year 
+relative to our earlier expectations. 
+ 
+With that, operator, we'll open the line for questions. 
+  
+
+  6 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+ 
+
+QUESTION AND ANSWER SECTION 
+ 
+ 
+Operator: Thank you. We will be conducting a question-and-answer session. [Operator Instructions] Thank you. 
+Our first question comes from the line of Anthony Paolone with JPMorgan. Please proceed with your question. 
+ .....................................................................................................................................................................................................................................................................  
+
+Anthony Paolone 
+Analyst, JPMorgan Securities LLC Q 
+Great. Thank you and good morning. My first question relates to leasing and the hesitancy by occupiers to make 
+some decisions there, dial down just the size of deals. Do you think that's on the front-end at this point where that 
+hesitancy is just starting? Or do you think that's been happening for a while now. I'm trying to get a sense as to 
+how we should think about leasing as we look to next few quarters? 
+ .....................................................................................................................................................................................................................................................................  
+
+Robert E. Sulentic 
+President, Chief Executive Officer & Director, CBRE Group, Inc. A 
+Tony, it's been happening for a while. It's become a little more pronounced and we think it's going to go into next 
+year. What's causing it is, we don't have a recession. Everybody knows that. We don't have the kind of financial 
+problems we've had in prior cycles, but we have a lot of uncertainty. And we have uncertainty around the cost of 
+capital, which causes companies of all types to be careful about their expenditures that would run through their 
+income statement. Of course, the minute that happens, they're cautious about leasing. 
+ 
+We don't think it's going to become materially more pronounced than it is now. And as we've said, we think now 
+when we get to the back half of next year, things will recover. That's where we are. 
+ 
+I think what's notable is the slowdown on behalf of big absorbers of industrial space. We went through an 
+extended period where not only were they taking space to support their growth, some of them were taking space 
+to hedge against future growth. They're now burning through that space. And when that's done, we'll start to see 
+leasing come back by those big industrial users. 
+ 
+It is notable that we still only have 4% vacancy in industrial space, so they'll get back to being careful and make 
+sure they have adequate inventory. 
+ .....................................................................................................................................................................................................................................................................  
+
+Anthony Paolone 
+Analyst, JPMorgan Securities LLC Q 
+Okay. Thanks. And then, you called out Investment Management as a focus area on the M&A side, are you 
+seeing specific deals that are making more sense there? Or is that just an area that thematically you like? 
+ .....................................................................................................................................................................................................................................................................  
+
+Emma E. Giamartino 
+Chief Financial Officer, CBRE Group, Inc. A 
+I think, Tony, you're talking about maybe prior remarks that we made. We're looking broad-based across the 
+company at M&A, and we've been focused on the areas of our business that are resilient and [ph] in fact 
+(00:18:33) really favored, but those are the types of larger deals we've done in the past and those are the type of 
+deals that we're looking at now. 
+ 
+
+  7 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+One of the things that's happening right now is we are looking at a number of deals and we've talked about deals 
+on the larger end of the range that we've typically looked at in the past, or that we've typically executed in the 
+past. But pricing has become more of a challenge than it was a year ago or even six months ago. 
+ 
+Similar to what's happening in the real estate market, with the gap between buyer and seller valuations remaining 
+high or even increasing as interest rates are increasing, a similar impact is happening to M&A. So, for us, our cost 
+of capital is increasing slightly, our risk appetite is reducing slightly, and so, we need seller prices to come down 
+for us to be able to execute some of these deals – many of these deals. 
+ .....................................................................................................................................................................................................................................................................  
+
+Anthony Paolone 
+Analyst, JPMorgan Securities LLC Q 
+Okay. And then just Emma, one last clarifying item if I can. Did you mention you thought the recurring businesses 
+like GWS were going to grow double-digits in 2024 or was that just for 2023? I didn't catch that. 
+ .....................................................................................................................................................................................................................................................................  
+
+Emma E. Giamartino 
+Chief Financial Officer, CBRE Group, Inc. A 
+We expect our resilient lines of business in aggregate, which for the year is to generate $1.6 billion of SOP, to 
+grow in the low double-digit range going forward into the future. And GWS specifically of that SOP for this year is 
+going to grow in the mid-double-digit range, so low-teens range and should continue going forward. 
+ .....................................................................................................................................................................................................................................................................  
+
+Anthony Paolone 
+Analyst, JPMorgan Securities LLC Q 
+Okay. So, you feel comfortable with that double-digit number, around GWS, for instance, for 2024 as well? 
+ .....................................................................................................................................................................................................................................................................  
+
+Emma E. Giamartino 
+Chief Financial Officer, CBRE Group, Inc. A 
+Yeah. Absolutely. 
+ .....................................................................................................................................................................................................................................................................  
+
+Anthony Paolone 
+Analyst, JPMorgan Securities LLC Q 
+Okay. Thank you. 
+ .....................................................................................................................................................................................................................................................................  
+ 
+
+Operator: Thank you. Our next question comes from the line of Steve Sakwa with Evercore ISI. Please proceed 
+with your question. 
+ .....................................................................................................................................................................................................................................................................  
+
+Steve Sakwa 
+Analyst, Evercore ISI Q 
+Yeah. Thanks. Emma, just on the share buybacks, I know in the last call you had talked, I think, about doing $600 
+million, you guys did, a little north of $500 million this quarter. So, I guess, are you still, still sticking with that $600 
+million number for the back half, kind of implying a fairly low fourth quarter number? I know that kind of ties in 
+maybe with the lack or less free cash flow. So, just any thoughts around buybacks for the rest of the year? 
+ .....................................................................................................................................................................................................................................................................  
+
+Emma E. Giamartino 
+Chief Financial Officer, CBRE Group, Inc. A 
+
+  8 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+Yeah, Steve, that's the right way to think about it. We were going into the latter half of the year, where our 
+expectation was for $600 million, and as you said, we did $500 million in this quarter, so we are on track to deliver 
+the same amount we were thinking last quarter. 
+ .....................................................................................................................................................................................................................................................................  
+
+Steve Sakwa 
+Analyst, Evercore ISI Q 
+Okay. And, look, I know everybody is highly focused on the sales environment that really seems to kind of be the 
+linchpin for the company. Bob, you've obviously talked about maybe a second half recovery, just sort of trying to 
+think through kind of the timing and is it more the economy that you think is driving people uncertainty? Is it the 
+absolute level of interest rates? Is it the fact that the banks and insurance companies aren't really lending money? 
+I know all of it impacts it. But is there one factor that you think is more pronounced than another? 
+ .....................................................................................................................................................................................................................................................................  
+
+Robert E. Sulentic 
+President, Chief Executive Officer & Director, CBRE Group, Inc. A 
+Uncertainty around interest rates is one really prominent fact and the expectation that they're now going to come 
+down later than we previously thought. 
+ 
+Number two, there's still a view that values are going to come down some, that privately held assets haven't come 
+into line yet. And maybe another 5% to 10% decline in asset values. But, Steve, I really think it's important to 
+remember this about our business. Those assets are real, and they're held by investors. And there's buyers with 
+massive amounts of capital waiting to make trades when those two things sort out. We will get back to an active 
+trading environment. It's not like some things that go away and never come back, right. The assets are there. 
+ 
+The base of assets is actually growing and the people that hold the assets, there's a significant number of them 
+and a significant volume of them that want to trade those assets with buyers ready to go. And buyers are 
+watching closely the interest rates and watching closely the valuations. And things are starting to come in line to 
+the point where we think there will be trading again in the second half of next year. 
+ .....................................................................................................................................................................................................................................................................  
+
+Steve Sakwa 
+Analyst, Evercore ISI Q 
+Okay. And then one just small technical one, I guess we noticed that the tax rate Emma in the quarter came in 
+much lower than expected. I think that might have helped kind of EPS. Just kind of what are your thoughts and 
+what drove that in the quarter? And I guess, is that sort of a sustainable lower tax rate or is that more of a one-off 
+issue in the quarter? 
+ .....................................................................................................................................................................................................................................................................  
+
+Emma E. Giamartino 
+Chief Financial Officer, CBRE Group, Inc. A 
+That is a one-time tax planning benefit that we had this quarter. For the full year, we're expecting our tax rate to 
+come in at about 21%. And excluding that benefit this quarter, our tax rate is about 20% in Q3. 
+ .....................................................................................................................................................................................................................................................................  
+
+Steve Sakwa 
+Analyst, Evercore ISI Q 
+Great. Thank you. 
+ .....................................................................................................................................................................................................................................................................  
+ 
+
+Operator: Thank you. Our next question comes from the line of Jade Rahmani with KBW. Please proceed with 
+your question. 
+
+  9 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+Jade Rahmani 
+Analyst, Keefe, Bruyette & Woods, Inc. Q 
+Thank you very much. On leasing, if new tenants are taking 10% to 20% less space and there's some pressure 
+on net effective rents on the office side, as well as the overall uncertainty around demand for office space, and 
+then you mentioned some of the slowdown in industrial and then I would characterize retail as mixed. Do you 
+think that leasing would be negative in 2024? 
+ .....................................................................................................................................................................................................................................................................  
+
+Robert E. Sulentic 
+President, Chief Executive Officer & Director, CBRE Group, Inc. A 
+It could be in some areas, Jade, but we think that what's going on with office spaces has kind of settled out, right? 
+Rents have come way down, users of office space have backed off, people that want premium office space for the 
+experience side of things for their employees are going after it and we think they'll continue to go after it into next 
+year. We think industrial has slowed down for the time being, it will come back the back half of next year. And I 
+think you commented already, retail is mixed. But there's a lot of retail activity in the economy now and there is 
+reason to believe that, that will kind of sustain the way it is now. 
+ .....................................................................................................................................................................................................................................................................  
+
+Jade Rahmani 
+Analyst, Keefe, Bruyette & Woods, Inc. Q 
+And then on GWS, I understand the long-term opportunity and gaining the penetration rates by passing on cost 
+savings to those that don't currently outsource. But there are friction costs associated with this as well as 
+execution, complexity and uncertainty, would not the macro backdrop create headwinds in GWS as well and 
+thereby put some pressure on the double-digit growth. I mean, if the economy is slowing down, it seems – that 
+business' double-digit growth profile could be at risk. Can you give some reasons why that's not the case? 
+ .....................................................................................................................................................................................................................................................................  
+
+Robert E. Sulentic 
+President, Chief Executive Officer & Director, CBRE Group, Inc. A 
+Well, when the economy slows down, companies focus intensely on cost. And when they focus on cost, they think 
+about having somebody like us, us more than anybody else, handle their real estate facilities for them because 
+we save them money. That is absolute front and center dimension of that business. Where you see things slow 
+down is capital expenditures, which can hit project management. But there's so much momentum around various 
+parts of our project management business related to enhancing the experience for clients in the office space that 
+companies have, which is a big deal for them now. We think that's going to continue to be a big deal. We think 
+that will offset the focus on reducing capital expenditures. 
+ 
+Also that project management business, as you know, does a lot of stuff in the infrastructure, green energy, et 
+cetera areas. And so, we think that there's offsetting factors there that will allow that business to continue to grow 
+at a double-digit rate. So, the bottom line is, I don't think what we're seeing in the economy and the uncertainty in 
+the economy would push that down below being a double-digit grower next year. 
+ .....................................................................................................................................................................................................................................................................  
+
+Jade Rahmani 
+Analyst, Keefe, Bruyette & Woods, Inc. Q 
+Thank you very much. Finally, just on REI, have you changed CBRE's underwriting toward the capitalization and 
+acquisition of new projects to account for potentially rates remaining at current levels? And does the outlook for 
+asset sales depend more on timing or a moderation in interest rates in order to refinance those deals and sell at 
+attractive cap rates? 
+ .....................................................................................................................................................................................................................................................................  
+
+  10 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+Robert E. Sulentic 
+President, Chief Executive Officer & Director, CBRE Group, Inc. A 
+Yeah. Our underwriting that we do across our REI business for the acquisition of existing assets and for the 
+investment, and the co-investment in development deals is all driven by interest rates that we think will be 
+available to us when we capitalize those projects. There's great attention paid to that. I mean a lot of study around 
+that by our research people and our chief economist's office, et cetera. So, what's in those underwritings is 
+reflective of that view. 
+ 
+What's going to – we come in a little earlier, what's going to drive the sale of assets is the stabilization or decline 
+in interest rates and the general view that values have bottomed out. And again, we now think that timing is 
+second half of next year, and we do think prices are going to come down a bit more, maybe as much as 10%. 
+ .....................................................................................................................................................................................................................................................................  
+
+Jade Rahmani 
+Analyst, Keefe, Bruyette & Woods, Inc. Q 
+Thank you for taking the questions. 
+ .....................................................................................................................................................................................................................................................................  
+
+Robert E. Sulentic 
+President, Chief Executive Officer & Director, CBRE Group, Inc. A 
+Thank you. 
+ .....................................................................................................................................................................................................................................................................  
+ 
+
+Operator: Thank you. Our next question comes from the line of Stephen Sheldon with William Blair. Please 
+proceed with your question. 
+ .....................................................................................................................................................................................................................................................................  
+
+Stephen Sheldon 
+Analyst, William Blair & Co. LLC Q 
+Hey, good morning. Thanks. I wanted to ask another question on the advisory leasing side. Curious how different 
+the revenue trends may look between office versus industrial, is one side there holding up better than the other as 
+we think about growth so far this year? And then maybe how you're thinking about it heading into the next year? 
+ .....................................................................................................................................................................................................................................................................  
+
+Emma E. Giamartino 
+Chief Financial Officer, CBRE Group, Inc. A 
+So, office leasing this year has been performing in line with our expectations. There's been some – we noted 
+some drop off in the larger office deals, but we were anticipating a decline – a mid-15% decline across office 
+leasing. 
+ 
+On the industrial side, that is industrial leasing is performing slightly below expectations. But as Bob alluded to, 
+that is primarily driven by the largest industrial transaction and the largest occupiers of industrial space who took 
+on a lot of space over the past couple of years and are resetting. So, we don't expect that to be a continued trend 
+going into next year. 
+ 
+And in terms of mix, I think our leasing has grown – industrial has grown as a percentage of our overall leasing. 
+And office has declined, [ph] but that isn't – that isn't (00:30:16) out of what we were expecting going into the year 
+and into the quarter. 
+ .....................................................................................................................................................................................................................................................................  
+
+Stephen Sheldon 
+Analyst, William Blair & Co. LLC Q 
+
+  11 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+Okay. Great. Thank you. And then just on capital, it sounds like you're ramping investments into IM and 
+development. So, can you give more detail on the opportunities you're seeing there and why this could be the 
+right time to make those investments? 
+ .....................................................................................................................................................................................................................................................................  
+
+Robert E. Sulentic 
+President, Chief Executive Officer & Director, CBRE Group, Inc. A 
+Well, what typically happens in an environment like this and what is definitively happening now on the 
+development side, where the investments we make are largely acquiring land for future development landholders, 
+often landholders that bought that land to develop it can't develop it because they can't get the capital to develop 
+it, or they don't have the capital themselves to make the co-investment needed to develop it. 
+ 
+And so good land sites that otherwise wouldn't have been available become available. And because of our 
+position in two ways, our balance sheet plus the stable of really strong developers we have in local markets, we 
+identify opportunities of this nature. We're in the market all the time, up and down cycles, and we know the land 
+sites that are good. We know the land sites that we would have liked to have gotten that we didn't get. And what 
+we do is we go back because we now have the capital to take those land sites down. We go back and try to 
+secure some of those sites. 
+ 
+And cycle after cycle, what you see is that it's the acquisition of those land sites and the development deals that 
+result from those land sites that become your best profit deals. And as Emma said earlier, we're focused on 
+multifamily and industrial there. 
+ 
+On the Investment Management side, we think this is a good point in the cycle to look at value-add and 
+opportunistic. So we have an opportunistic fund run out of the UK that's got a very, very strong track record that 
+we've made a significant commitment to with our own balance sheet to raise the next fund to do investments in 
+real estate secondaries. And we're very excited about that opportunity. 
+ 
+And then we have three value-add businesses, one in each region of the world, US, EMEA and Asia-Pacific, all of 
+which we're providing co-investment to do our next fund, and all of which we see lots of opportunity in. So, that's 
+our co-investment strategy. That's what when we talk about $370 million year-to-date, that's where we've 
+invested, and we're well positioned to continue to invest. 
+ .....................................................................................................................................................................................................................................................................  
+
+Stephen Sheldon 
+Analyst, William Blair & Co. LLC Q 
+Very helpful. Thank you. 
+ .....................................................................................................................................................................................................................................................................  
+ 
+
+Operator: Thank you. Our next question comes from the line of Patrick O'Shaughnessy with Raymond James. 
+Please proceed with your question. 
+ .....................................................................................................................................................................................................................................................................  
+
+Patrick Joseph O'Shaughnessy 
+Analyst, Raymond James & Associates, Inc. Q 
+Hey. Good morning. What are you hearing from asset owners in terms of allocating capital towards commercial 
+real estate in a higher interest rate world as opposed to allocating capital towards asset classes with perceived 
+lower risk? 
+ .....................................................................................................................................................................................................................................................................  
+
+Robert E. Sulentic 
+President, Chief Executive Officer & Director, CBRE Group, Inc. A 
+
+  12 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+Well, clearly there is movement into cash and cash return – you can get returns on that that you couldn't get 
+previously. So, secure debt, et cetera, there's no doubt that that's – that dynamic is a play in what's going on with 
+the non-traded REITs, et cetera and core assets. But people are ready to get back into real estate when things 
+sort out. There's just no doubt about it. The amount of capital that's on the sidelines that wants to get into 
+commercial real estate is enormous. 
+ 
+And what's going to have to happen, as we said, is interest rates are going to have to stabilize. And the belief that 
+valuations have come down is going to have be there. There is an increasing interest and I just walked through 
+what we're doing on the development side and opportunistic investment side. There is an increased interest in 
+people getting into those areas that have a longer horizon for returns on their capital and have a higher risk 
+appetite. And there's always, of course, a big chunk of capital with that orientation. So, that's what's going on. 
+ .....................................................................................................................................................................................................................................................................  
+
+Patrick Joseph O'Shaughnessy 
+Analyst, Raymond James & Associates, Inc. Q 
+Got it. Helpful. Thank you. And then circling back to your earlier comments on leasing, so if I'm understanding it 
+correctly, your view is that even if there's an economic slowdown in 2024, there's really little incremental downside 
+risk to leasing revenues going forward? 
+ .....................................................................................................................................................................................................................................................................  
+
+Emma E. Giamartino 
+Chief Financial Officer, CBRE Group, Inc. A 
+There's potentially some, but we're not expecting the decline next year to be greater than what we saw this year. 
+And I think what's important to note, we provided some high-level remarks around what we're expecting over the 
+next couple of years, and that's not to provide any sort of guidance around what we will expect, because we all 
+know that it's very difficult to anticipate how the broader external factors will impact the company. 
+ 
+But to put context around it, we are very confident that our GWS business will continue to deliver double-digit 
+growth and if it delivers double-digit SOP growth over the next couple of years and the remainder of our segments 
+remain flat in 2024 and get back to – don't even need to get back to 2019 levels of earnings. We will get back to 
+our record levels of EPS. 
+ .....................................................................................................................................................................................................................................................................  
+
+Patrick Joseph O'Shaughnessy 
+Analyst, Raymond James & Associates, Inc. Q 
+Great. Thanks. 
+ .....................................................................................................................................................................................................................................................................  
+
+Emma E. Giamartino 
+Chief Financial Officer, CBRE Group, Inc. A 
+So, in terms leasing, I just want to emphasize that even if there is a slight decline next year, we still have a path to 
+growth over the next two years. 
+ .....................................................................................................................................................................................................................................................................  
+
+Patrick Joseph O'Shaughnessy 
+Analyst, Raymond James & Associates, Inc. Q 
+Understood. Thank you. 
+ .....................................................................................................................................................................................................................................................................  
+ 
+
+Operator: Thank you. Our next question comes from the line of Alex Kramm with UBS. Please proceed with 
+your question. 
+ .....................................................................................................................................................................................................................................................................  
+
+  13 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+Alex Kramm 
+Analyst, UBS Securities LLC Q 
+Yes. Hey, good morning, everyone. Maybe starting with a little bit of a housekeeping question, but, Emma, I think, 
+this quarter you didn't give any specific outlook anymore for – by segment. So, given how important the fourth 
+quarter is, maybe you can give us a little bit more color in terms of the various business lines of what we should 
+be expecting. I know, it's kind of implied, but more color would be appreciated. 
+ .....................................................................................................................................................................................................................................................................  
+
+Emma E. Giamartino 
+Chief Financial Officer, CBRE Group, Inc. A 
+Yeah. So, for the full year, we're expecting within GWS that our SOP growth will be in line with that low double-
+digit that we've been talking about throughout the year. Advisory overall will be down about in the 30% range and 
+then REI, as you know, is down a little over 50% for the full year. In terms of what's guided, our reduced outlook 
+from what we said in Q2 to what we're saying now, from that 20% to 25% EPS decline down to a mid-30s decline, 
+about a third of that is related to capital markets and about a third is related to development and the remainder is 
+then across the rest of the business. 
+ .....................................................................................................................................................................................................................................................................  
+
+Alex Kramm 
+Analyst, UBS Securities LLC Q 
+Okay. Great. And then secondly, maybe this is a quick one because I think you just addressed this when you 
+answered Patrick's question. But, thinking about the multiyear outlook again, and maybe I'm stating the obvious, 
+but like, if I look at my numbers to get to 20%, 25% record year, basically if you grow in GWS and you maybe get 
+more aggressive on the buybacks, like, and then potentially in the transactional businesses, if you could just grab 
+a little bit of market share, even if this environment stays like this, you could get to a record. I mean, is that what 
+you were just trying to say? I mean, maybe just stating the obvious here again. 
+ .....................................................................................................................................................................................................................................................................  
+
+Emma E. Giamartino 
+Chief Financial Officer, CBRE Group, Inc. A 
+Yeah. Absolutely. That – and that is the point that we're trying to get across is that there is a reasonable path to 
+getting back to record, and we're not anticipating a sharp recovery, especially not next year. And we don't require 
+a sharp recovery in 2025 to get to that record level. Again, our resilient, and thankfully [ph] favorable (00:38:28) 
+lines of business, which include GWS, but also includes property management, the recurring elements of our 
+investment management fees, valuations and loan servicing, that in aggregate is $1.6 billion of SOP, so that 
+growing at low double-digits over the next two years will create meaningful value. And then, again our 
+transactional lines of business, so, development, the portion of investment management that is more transactional 
+loan servicing – loan origination and sales origination, those elements only need to get back to just shy of 2019 
+levels for us to get to a record earnings. 
+ .....................................................................................................................................................................................................................................................................  
+
+Alex Kramm 
+Analyst, UBS Securities LLC Q 
+Excellent. Thanks for clarifying. And then just maybe one quick one. On the GWS business, you called out these 
+first time outsources, I guess. Can you just talk about how the sales cycle differs there? And because I think, it's a 
+meaningful part of the pipeline now, and then overall, can you just remind us when you think about the 
+whitespace here, how big the first time outsourcing opportunity is in the context of the size of your business. I 
+mean, is there still a very meaningful TAM of companies that really have never outsourced before? 
+ .....................................................................................................................................................................................................................................................................  
+
+  14 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+Emma E. Giamartino 
+Chief Financial Officer, CBRE Group, Inc. A 
+Yeah. So, on your first question, our pipeline across GWS and that includes both facilities management and 
+project management is – continues to be at record levels. We have a large and growing pipeline. It's split between 
+about 50% new clients and 50% existing clients. And of those new clients, about half of those are first-generation 
+clients. So, about a third of our overall pipeline is first generation outsourcers. But the important part is that our 
+overall pipeline is building. And yes, those first-generation outsourcers take a longer – the sales cycle is longer to 
+convert them over to outsourcing. But it's a huge opportunity and it's a growing opportunity and it is building our 
+pipeline. 
+ 
+To your second question around what the opportunity is, it's hard to accurately estimate it, but we believe that 
+only 30% of the overall market is outsourced today. So, there is 70% of whitespace. 
+ .....................................................................................................................................................................................................................................................................  
+
+Alex Kramm 
+Analyst, UBS Securities LLC Q 
+Fantastic. Thanks very much. 
+ .....................................................................................................................................................................................................................................................................  
+ 
+
+Operator: Thank you. Our next question comes from the line of Michael Griffin with Citi. Please proceed with 
+your question. 
+ .....................................................................................................................................................................................................................................................................  
+
+Michael A. Griffin 
+Analyst, Citigroup Q 
+Great. Thanks. Wondering if you can comment on CBRE's view of the macro and kind of how that might have 
+shifted and in turn kind of shifted your outlook kind of heading into 2024, if at all possible? 
+ .....................................................................................................................................................................................................................................................................  
+
+Robert E. Sulentic 
+President, Chief Executive Officer & Director, CBRE Group, Inc. A 
+Well, we – the biggest thing, Michael, that's shifted in our view is that, it's going to take longer for interest rates to 
+come down. It's going to take longer for debt in particular to become available for real estate, commercial real 
+estate transactions. And as a result, transactions are not going to return until the back half of next year, where we 
+thought they were going to return late this year or early next year. 
+ 
+Secondly, we have introduced this notion that we're seeing, particularly with industrial tenants, that the uncertainty 
+is just causing them to pause. And we think that's going to go through the first half of next year. But we really don't 
+think that's going to be a big deal because they're burning through inventories of space that they took down for 
+defensive purposes, I guess, for lack of a better term. And so, that's what we see. Where if you were to sum it all 
+up, the recovery that we thought would start toward the end of this year, we now think is going to start six or so 
+months later, maybe a little longer. 
+ 
+And for us, that pushes back our assumptions about the return to peak earnings a year or so into the following 
+year. 
+ .....................................................................................................................................................................................................................................................................  
+
+Michael A. Griffin 
+Analyst, Citigroup Q 
+
+  15 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+That's helpful. And then just on the advisory business, I know, you called out Japan and APAC as relative 
+outperformer compared to Americas or EMEA. But was there any other drivers that led APAC to be pretty notable 
+outperformer this quarter? 
+ .....................................................................................................................................................................................................................................................................  
+
+Robert E. Sulentic 
+President, Chief Executive Officer & Director, CBRE Group, Inc. A 
+For us specifically, we just have a very good business in Japan and it's obviously that's a huge economy, and 
+Tokyo is a huge real estate market. And over the years we – there has been a struggle around the notion of 
+intermediation there. There was a lot of business done directly by buyer and seller, tenant, landlord, et cetera. 
+That intermediation has become more accepted. 
+ 
+There's also been a struggle to have non-Japanese domestic companies in the mix, so to speak, and that is, as it 
+relates to being the designated intermediary, when intermediation happens and also being a home for talent. We 
+have really changed our profile as a recruiter there over the last few years. And we have really changed our 
+profile over there the last few years as somebody that's a recognized intermediary. As a result, we used to talk 
+about, while we've got good growth in Asia, but good growth on bases of business that weren't that needle 
+moving to our overall results. 
+ 
+Japan's now our second most profitable market in the world behind the United States for advisory business. So, 
+when Japan does relatively well as it's doing now, you get the result we're getting. It's big enough to be needle 
+moving for us. 
+ 
+And then in general, as you know, the return to the office across Asia and Pacific is ahead of where it is than 
+either the United States or EMEA. 
+ .....................................................................................................................................................................................................................................................................  
+
+Michael A. Griffin 
+Analyst, Citigroup Q 
+Great. That's it from me. Thanks for the time. 
+ .....................................................................................................................................................................................................................................................................  
+ 
+
+Operator: Thank you. Our next question comes from the line of Jade Rahmani with KBW. Please proceed with 
+your question. 
+ .....................................................................................................................................................................................................................................................................  
+
+Jade Rahmani 
+Analyst, Keefe, Bruyette & Woods, Inc. Q 
+Thank you very much. On the M&A front, would you confirm that investment management is the key focus? And 
+would you also be able to provide an updated comment as to how infrastructure fits in your overall strategic 
+framework? If you see this potentially emerging as a new business line alongside your others, and potentially an 
+additional or versus higher? 
+ .....................................................................................................................................................................................................................................................................  
+
+Robert E. Sulentic 
+President, Chief Executive Officer & Director, CBRE Group, Inc. A 
+Jade, in terms of M&A. We – Emma, made this comment. We look across our whole business. We have a very 
+capable corporate development team that partners up with a group of geographic and business line leaders 
+across the whole business, around the world and across our lines of business to seek out M&A opportunities 
+where we think we can enhance our offering to our clients. 
+ 
+
+  16 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+And we just – you just saw today we announced something in the – for our capital markets business in the 
+investment banking capital advisors area. That was an area where we thought we had bit of a hole. We went out 
+and brought on a business that was very substantial, global and additive. Lots of areas of interest. And investment 
+management has been an area of interest for us, but so have others. We have several areas of interest in our 
+GWS business. We have select areas of interest in our advisory business. We even have some areas we're 
+looking at in the development business. 
+ 
+But one of the things that's going on right now and Emma mentioned this, is that pricing for M&A has not moved 
+quite as quickly as we hoped or thought it would. And we're just showing a lot of develop – or excuse me, a lot of 
+discipline around what we're going to do in terms of acquiring other companies. We're just simply not going to pay 
+prices that we think are unreasonable just to get businesses that we like. We think pricing is going to come into 
+line. We see some signs of that. We've got a pipeline across those businesses and geographies that we like, but 
+we're being disciplined. 
+ 
+As it relates to infrastructure, there's two areas of our business where we are active with infrastructure. We have 
+that nice sized infrastructure investment management business. It's small relative to our overall investment 
+management business, but it's in the upper single-digits in terms of billions of dollars of AUM. And we're looking 
+for opportunities to grow that because we think it's got great long-term secular profile. The other place where we 
+have a very significant infrastructure business is with the Turner & Townsend acquisition. 
+ 
+They do a lot of infrastructure, program management, cost consultancy and project management and they're well 
+positioned – they're very well positioned in geographies around the world where that work is going on. They do a 
+decent amount of work and a significantly growing amount of work as it relates to sustainability. So, we have a 
+pretty strong infrastructure profile with them. 
+ .....................................................................................................................................................................................................................................................................  
+
+Jade Rahmani 
+Analyst, Keefe, Bruyette & Woods, Inc. Q 
+Thank you. 
+ .....................................................................................................................................................................................................................................................................  
+ 
+
+Operator: Thank you. We have reached the end of our question-and-answer session. And at this time, I would 
+like to turn the floor back over to CEO, Bob Sulentic for closing comments. 
+ .....................................................................................................................................................................................................................................................................  
+
+Robert E. Sulentic 
+President, Chief Executive Officer & Director, CBRE Group, Inc. 
+
+Thanks, everyone. And we look forward to getting back together with you when we announce our year-end 
+earnings. 
+ .....................................................................................................................................................................................................................................................................  
+ 
+
+Operator: This concludes today's teleconference. You may now disconnect your lines at this time. Thank you for 
+your participation. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  17 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC 
+ 
+
+
+
+CBRE Group, Inc. (CBRE) Corrected Transcript 
+Q3 2023 Earnings Call 27-Oct-2023 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclaimer 
+The information herein is based on sources we believe to be reliable but is not guaranteed by us and does not purport to be a  complete or error-free statement or summary of the available data. 
+As such, we do not warrant, endorse or guarantee the completeness, accuracy, integrity, or timeliness of the information. You  must evaluate, and bear all risks associated with, the use of any 
+information provided hereunder, including any reliance on the accuracy, completeness, safety or usefulness of such information. This information is not intend ed to be used as the primary basis 
+of investment decisions. It should not be construed as advice designed to meet the particular investment needs of any investor. This report is published solely for information purposes, and is 
+not to be construed as financial or other advice or as an offer to sell or the solicitation of an offer to buy any security in any state where such an offer or solicitation would be illegal. Any 
+information expressed herein on this date is subject to change without notice. Any opinions or assertions contained in this i nformation do not represent the opinions or beliefs of FactSet 
+CallStreet, LLC. FactSet CallStreet, LLC, or one or more of its employees, including the writer of this report, may have a position in any of the securities discussed herein. 
+ 
+THE INFORMATION PROVIDED TO YOU HEREUNDER IS PROVIDED "AS IS," AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE  LAW, FactSet CallStreet, LLC AND ITS LICENSORS, 
+BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING  WITHOUT LIMITATION ANY IMPLIED 
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE 
+LAW, NEITHER FACTSET CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS ASSOCIATES, LICENSO RS OR SUPPLIERS WILL BE LIABLE FOR ANY 
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS OR RE VENUES, GOODWILL, WORK STOPPAGE, 
+SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED 
+OF THE POSSIBILITY OF SUCH LOSSES, ARISING UNDER OR IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT M ATTER HEREOF. 
+ 
+The contents and appearance of this report are Copyrighted FactSet CallStreet, LLC 2023 CallStreet and FactSet CallStreet, LLC are trademarks and service marks of FactSet CallStreet, LLC. All 
+
+other trademarks mentioned are trademarks of their respective companies. All rights reserved. 
+
+  18 
+1-877-FACTSET   www.callstreet.com Copyright © 2001-2023 FactSet CallStreet, LLC

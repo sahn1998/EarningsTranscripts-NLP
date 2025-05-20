@@ -1,0 +1,776 @@
+Corrected Transcript
+
+04-Nov-2024
+
+Cushman & Wakefield Plc (CW K)
+Q3 2024 Earnings Call
+
+Total Pages: 13
+1-877-FACTSET www.callstreet.com
+
+Copyright © 2001-2024 FactSet CallStreet, LLC
+
+Cushman & Wakefield Plc (CWK)
+
+Corrected Transcript
+
+Q3 2024 Earnings Call
+
+04-Nov-2024
+
+CORPORATE PARTICIPANTS
+Megan McGrath
+
+Neil O. Johnston
+
+Senior Vice President-Investor Relations, Cushman & Wakefield Plc
+
+Executive Vice President & Chief Financial Officer, Cushman &
+Wakefield Plc
+
+Michelle M. MacKay
+Chief Executive Officer & Director, Cushman & Wakefield Plc
+
+.....................................................................................................................................................................................................................................................................
+
+OTHER PARTICIPANTS
+Stephen Sheldon
+
+Michael A. Griffin
+
+Analyst, William Blair & Co. LLC
+
+Analyst, Citigroup Global Markets, Inc.
+
+Ronald Kamdem
+
+Alex Kramm
+
+Analyst, Morgan Stanley & Co. LLC
+
+Analyst, UBS Securities LLC
+
+Anthony Paolone
+
+Peter Abramowitz
+
+Analyst, JPMorgan Securities LLC
+
+Analyst, Jefferies LLC
+
+.....................................................................................................................................................................................................................................................................
+
+MANAGEMENT DISCUSSION SECTION
+Operator: Good day, and welcome to Cushman & Wakefield's Third Quarter 2024 Earnings Conference Call. All
+participants will be in listen-only mode. [Operator Instructions] After today's presentation, there will be an
+opportunity to ask questions. [Operator Instructions] Please note this event is being recorded.
+I would now like to turn the conference over to Megan McGrath, Head of Investor Relations. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+
+Megan McGrath
+Senior Vice President-Investor Relations, Cushman & Wakefield Plc
+
+Thank you and welcome to Cushman & Wakefield's third quarter 2024 earnings conference call. Earlier today, we
+issued a press release announcing our financial results for the period. This release, along with today's
+presentation, can be found on our Investor Relations website at ir.cushmanwakefield.com.
+Please turn to the page in our presentation labeled Cautionary Note on Forward-Looking Statements. Today's
+presentation contains forward-looking statements based on our current forecast and estimate of future events.
+These statements should be considered estimates only, and actual results may differ materially.
+During today's call, we will refer to non-GAAP financial measures as outlined by SEC guidelines. Reconciliations
+of GAAP to non-GAAP financial measures, definitions of non-GAAP financial measures and other related
+information are found within the financial tables of our earnings release and the appendix of today's presentation.
+Also, please note that throughout the presentation, comparisons and growth rates are to the comparable periods
+of 2023 and in local currency unless otherwise stated.
+And with that, I'd like to turn the call over to our CEO, Michelle MacKay.
+
+2
+1-877-FACTSET www.callstreet.com
+
+Copyright © 2001-2024 FactSet CallStreet, LLC
+
+Cushman & Wakefield Plc (CWK)
+Q3 2024 Earnings Call
+
+Corrected Transcript
+04-Nov-2024
+
+Michelle M. MacKay
+Chief Executive Officer & Director, Cushman & Wakefield Plc
+
+Thank you, Megan. This quarter, we continued our track record of successful execution against our goals, driving
+top-line growth in targeted investment areas, continuing to deliver strong free cash flow conversion, and focusing
+on value creation through deleveraging and seeding for growth. This quarter also marks an inflection point across
+many areas of our business.
+Over a year ago, we began to make strategic, targeted investments in leasing, informed by our view on the most
+promising opportunities across asset classes and geographies. These investments have translated into clear and
+measurable results. The third quarter marks our fourth consecutive quarter of year-over-year leasing growth and
+our highest leasing growth since Q2 2022.
+We have also reported the first quarter of capital markets growth in the Americas since the second quarter of
+2022. We are seeing a broadening of capital markets activities in the market and increased optimism amongst
+buyers and sellers. The Fed rate cut in September and actions by the central bank outside of the US have been
+important first steps in the revitalization of the capital markets. The further easing of monetary policy should
+continue to catalyze growth in the coming quarters. We also achieved an important milestone in reducing our
+leverage. In October, we fully extinguished our roughly $200 million in 2025 debt maturities, as we had pledged to
+do well ahead of schedule.
+This was made possible by the outstanding work of our global teams to drive free cash flow. Solidifying our
+balance sheet and improving our cash flow were key early priorities in our strategy to position the company to
+take full advantage of future growth opportunities. And we executed on this priority six months ahead of plan.
+Looking forward, leverage reduction will continue to be an important part of our capital allocation strategy. But as
+we shared with you last quarter, we have already begun accelerating our growth investments as we pivot to more
+offense.
+Now I'll turn the call over to Neil for a review of the financials, and then I'll come back to share a bit more about
+how we are positioning strategically for the future.
+.....................................................................................................................................................................................................................................................................
+
+Neil O. Johnston
+Executive Vice President & Chief Financial Officer, Cushman & Wakefield Plc
+
+Thank you, Michelle, and good afternoon, everyone. Our third quarter results highlight improved momentum in
+several areas of our brokerage business, as well as our continued commitment to strengthening the balance
+sheet and protecting margins as we accelerate our growth investments.
+Turning to our quarterly results. Fee revenue for the third quarter increased by 3% year-over-year. Leasing
+revenue increased for the fourth consecutive quarter. And we experienced positive capital markets revenue
+growth in the Americas for the first time since the second quarter of 2022. Adjusted EBITDA of $143 million
+declined 5%, driven primarily by the impact of our recent services divestiture, as well as roughly $20 million in
+higher compensation costs compared to the prior year. On a year-to-date basis, adjusted EBITDA of $360 million
+is up 1% versus last year. Adjusted EPS of $0.23 is $0.02 higher than last year, benefiting from interest and tax
+savings.
+Taking a closer look at our service line results, our leasing business continues to perform at a high level, with
+revenue growth of 13% in the quarter. Leasing strength remains largely global in nature. Americas leasing was up
+
+3
+1-877-FACTSET www.callstreet.com
+
+Copyright © 2001-2024 FactSet CallStreet, LLC
+
+Cushman & Wakefield Plc (CWK)
+Q3 2024 Earnings Call
+
+Corrected Transcript
+04-Nov-2024
+
+16%, with double-digit growth in both office and industrial. APAC leasing grew 13%, driven primarily by strength in
+India and Japan. EMEA leasing, while down 8% in the quarter, remains up 5% for the year, which we believe is
+indicative of a relatively stable market.
+In capital markets, we saw a return to growth in the Americas for the first time in nine quarters, with revenue up
+2%. We experienced growth in office, industrial and retail transactions during the quarter. Overall, sentiment has
+improved in the past several months and while some market uncertainty persists, we feel confident that we've
+passed the floor in US capital markets activity.
+Looking internationally, EMEA capital markets revenue declined 5% as the market continues to experience some
+lumpiness on the road to recovery. Year-to-date, EMEA capital markets revenue has grown 3%, as fundamentals
+continue to improve gradually. APAC capital markets revenue declined 44%, principally due to the deal timing and
+strong third quarter in the prior year.
+Our pipelines in this region remain strong, supported by positive secular trends, and we expect a rebound in
+activity for the region in Q4. Turning to services, revenue growth was up 1%, excluding the impact of the
+divestiture or down 2% as reported, in line with our expectations. In APAC, services revenue increased by 6%, as
+facility services and project management in India and Australia continued the momentum, spurred by investment
+into the region.
+In EMEA, we've continued to focus on margin by restructuring our fixed price design and build business. Our
+transitional work on that business is essentially complete, and we expect to return to growth in the fourth quarter.
+In the Americas, services revenue was up 3%, excluding the divestiture or flat as reported.
+Facility services and property management grew, while project management declined, as office expansion and
+renovations continue to be delayed. We remain highly focused on re-accelerating growth in our services platform
+in 2025.
+Turning to cash flow, free cash flow for the quarter was $187 million versus $174 million in the third quarter of last
+year. Our year-to-date free cash flow continues to compare favorably to 2023, improving by $146 million, and our
+trailing 12-month free cash flow has grown by approximately $100 million. Our free cash flow improvements this
+year have enabled us to execute on our deleveraging plan well ahead of schedule, as well as begin incremental
+investments to accelerate growth for 2025 and beyond.
+During the quarter, we repaid $50 million of term loan debt due in 2025, and subsequent to quarter end, we repaid
+the remaining $48 million, fully extinguishing our 2025 maturities. We also completed another successful repricing
+of $1 billion of term loan debt due in 2030, lowering the applicable interest rate by 50 basis points.
+Lastly, moving to our full-year outlook. On the revenue side, we're raising our 2024 leasing revenue growth
+expectation to mid-single-digit growth from low-to-mid-single-digit growth, primarily based on the third quarter's
+strong performance. We continue to expect capital market revenue to improve sequentially and expect fourth
+quarter revenue growth of approximately 20%.
+In services, we continue to forecast flat organic revenue growth in 2024, with a target of returning to mid-singledigit growth in 2025. On cash flow, we expect to finish the year within our previously stated 30% to 40% free cash
+flow to EBITDA conversion target. For reference, that translates to a roughly 80% free cash flow to adjusted net
+income conversion.
+
+4
+1-877-FACTSET www.callstreet.com
+
+Copyright © 2001-2024 FactSet CallStreet, LLC
+
+Cushman & Wakefield Plc (CWK)
+
+Corrected Transcript
+
+Q3 2024 Earnings Call
+
+04-Nov-2024
+
+In conclusion, we are extremely pleased with our continued execution against our strategic priorities. At the
+beginning of the year, we outlined our 2024 financial strategy to reinvest cost savings into the business, protect
+margins and position the company for growth.
+Year-to-date, adjusted EBITDA margins are up slightly. Brokerage revenue is up 3%, and free cash flow has
+expanded by over $145 million. We completed three debt repricings this year, and fully prepaid our 2025 debt
+maturities, solidifying our balance sheet as we focus the company on growth.
+With that, I'll turn the call back over to Michelle.
+.....................................................................................................................................................................................................................................................................
+
+Michelle M. MacKay
+Chief Executive Officer & Director, Cushman & Wakefield Plc
+
+Thanks, Neil. Many of you have asked for more detail on the outcomes of the strategic work we have engaged in
+over the past year. I thought I'd give a few examples to help demonstrate the drivers of our recent success, as
+well as where we see opportunity.
+What you'll hear is that the themes of our work have been interconnectivity and rigor. And when we combined
+investment dollars with analytics, accountability, focus, and an empowered team, we are winning. For example,
+our multi-market account team has seen incredible success this year, partnering with our internal data analytics
+and services teams to provide unmatched integrated services to mid-sized companies that are looking for
+advisory solutions and brokerage execution.
+Our RFPs are up over 50% in this year. Internally, part of our roughly $145 million improvement in free cash flow
+this year came from identifying opportunities to improve receivables collections. We created cross-functional
+brokerage and finance teams, which broke down internal silos to get the work done.
+Additionally, we are making targeted investments to connect talent, data and technology across our platform to
+drive both efficiencies and revenue opportunities. For example, we have identified opportunities for meaningful
+labor management improvements, especially in our services businesses. Strengthening these capabilities allows
+us not only to better manage costs, but also enhance our global platform offerings.
+With a focus on talent, we have already achieved a 260 basis point improvement in top talent retention over the
+past year. Looking forward, our capital allocation priorities will be focused on three main categories. One, funding
+and fueling our brokerage business while leaning into the capital markets recovery.
+Two, re-accelerating services revenue and profitability through organic investments and tuck-in acquisitions. And
+three, we will continue to deleverage opportunistically in balance with our growth objectives. As a company, we
+continue to mature, and with a more diligent and focused operational mindset, we are uncovering opportunities to
+fully optimize our operations and go-to-market strategies. This in turn is creating optionality for growth, and we are
+more energized than ever about where we can drive this business in the future.
+Now, I'll turn the call over to the operator for your questions. Operator?
+
+5
+1-877-FACTSET www.callstreet.com
+
+Copyright © 2001-2024 FactSet CallStreet, LLC
+
+Cushman & Wakefield Plc (CWK)
+
+Corrected Transcript
+
+Q3 2024 Earnings Call
+
+04-Nov-2024
+
+QUESTION AND ANSWER SECTION
+Operator: We will now begin the question-and-answer session. [Operator Instructions] Please limit your
+questions to one and one follow up. If you have additional questions, you may rejoin the queue. Our first question
+today is from Stephen Sheldon with William Blair. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+
+Stephen Sheldon
+
+Q
+
+Analyst, William Blair & Co. LLC
+
+Hey, thanks. And really nice results here. I wanted to start with a clarification question. On 20% growth for capital
+markets in the fourth quarter, is that year-over-year growth or sequential?
+.....................................................................................................................................................................................................................................................................
+
+Neil O. Johnston
+
+A
+
+Executive Vice President & Chief Financial Officer, Cushman & Wakefield Plc
+
+Yeah, that's year-over-year growth, Stephen.
+.....................................................................................................................................................................................................................................................................
+
+Stephen Sheldon
+
+Q
+
+Analyst, William Blair & Co. LLC
+
+Okay, great. Just wanted to make sure. And then in services, I think you talked last quarter about confidence,
+about getting back to mid-single-digit organic growth next year in 2025. So just curious, what's your level of
+confidence now? How has that changed and what are some of the factors that investors should be thinking about
+that will help you get to drive that acceleration?
+.....................................................................................................................................................................................................................................................................
+
+Neil O. Johnston
+
+A
+
+Executive Vice President & Chief Financial Officer, Cushman & Wakefield Plc
+
+Sure. I'm happy to take that, Stephen. Look, we continue to feel very good about re-accelerating growth based on
+what we've seen in each of our businesses. The best way to think about it is to break it up into each of the pieces,
+and that hopefully will help you understand exactly where you're working.
+So one of the key components is facilities management. This is our largest business in the APAC region and
+we're very strong there. On a year-to-date basis, that's up 7%, and that business continues to perform very well.
+We're expanding our client base there in all the regions, and as an example, we are the largest facilities
+management provider in Singapore, which is one of our key markets. If you look at our facilities services
+business, that too is growing. It's growing in the low single digits, but we feel very confident we can grow that
+organically as we look forward.
+We've done a lot of work on establishing healthier contracts in that business, and we've started to feel the impact
+now, and our business development pipeline there is strong. The other business that we are most excited about is
+our global occupier services business. That's had some really nice wins recently, and we see a lot of potential in
+fully integrating our businesses with the GOS business.
+That business is more longer term, so that will take longer to translate the wins into the positive revenue growth,
+but certainly an area that we are very, very focused on and we see a nice growth path there. And then property
+management and project management, those have slowed a little bit more than expected this year. It's primarily in
+multifamily, and it relates also to project management.
+
+6
+1-877-FACTSET www.callstreet.com
+
+Copyright © 2001-2024 FactSet CallStreet, LLC
+
+Cushman & Wakefield Plc (CWK)
+
+Corrected Transcript
+
+Q3 2024 Earnings Call
+
+04-Nov-2024
+
+The project management side of the business tends to be shorter term in nature, and so that will give us a lift as
+we start seeing stronger leasing and capital markets. And then our property management business is a business
+that has just done exceptionally well in the pipelines. They're also good.
+So overall, we see tremendous opportunity in the services business, and as we look at pipelines, 2025 will be a
+key year for that growth to start happening.
+.....................................................................................................................................................................................................................................................................
+
+Operator: The next question is from Ronald Kamdem with Morgan Stanley. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+
+Ronald Kamdem
+
+Q
+
+Analyst, Morgan Stanley & Co. LLC
+
+Hey, I had the same question on the capital markets. 20% growth, maybe asking it a different way, because I
+think it does imply some sort of reacceleration here. Just what is it? Is it the pipeline? Is there a larger deal in
+there? Is there a geography? Just sort of any color on how one month into the quarter, that 20% sort of came
+about would be helpful.
+.....................................................................................................................................................................................................................................................................
+
+Neil O. Johnston
+
+A
+
+Executive Vice President & Chief Financial Officer, Cushman & Wakefield Plc
+
+Yes. So as we look at capital markets, we're looking at the pipeline. We're looking at basically the deals that are
+starting to come through.
+As you know, it takes sort of two to three months just for that business to really develop. And as we look at the
+building momentum there, we feel very good about what we see in all regions.
+.....................................................................................................................................................................................................................................................................
+
+Michelle M. MacKay
+
+A
+
+Chief Executive Officer & Director, Cushman & Wakefield Plc
+
+And I would say, as we said in the past, we're expecting this to be a long multi-year recovery in capital markets. In
+our last earnings call, I referred to it as waterfall effects, with the market producing more and more velocity in
+volume over time.
+.....................................................................................................................................................................................................................................................................
+
+Ronald Kamdem
+
+Q
+
+Analyst, Morgan Stanley & Co. LLC
+
+Okay, great. And then my second question was just going to be on sort of just looking for high-level commentary
+on the margins. You talked about sort of mid-single-digit services growth and the capital markets recovery. Just
+high level, are you guys thinking about margins impact sort of any differently as those businesses sort of perform?
+Thanks.
+.....................................................................................................................................................................................................................................................................
+
+Neil O. Johnston
+
+A
+
+Executive Vice President & Chief Financial Officer, Cushman & Wakefield Plc
+
+Yes, sure. So this year we've been very focused on protecting our margins as we sort of move through the
+recession. So as we came through the beginning of the year, we guided what we said was basically we were
+going to offset any inflation with cost out.
+We've now progressed from that. We started to see the business turn. We really feel like we're at the bottom of
+the cycle.
+
+7
+1-877-FACTSET www.callstreet.com
+
+Copyright © 2001-2024 FactSet CallStreet, LLC
+
+Cushman & Wakefield Plc (CWK)
+
+Corrected Transcript
+
+Q3 2024 Earnings Call
+
+04-Nov-2024
+
+And so we are at this point not giving any guidance on 2025. But the way to think about the business is as the
+brokerage business comes back, the incrementals there are very strong. But those incrementals, certainly in the
+near term, will be slightly below what we've seen before as we reinvest in the business.
+And so once again, as we go into next year, certainly early on in the year, we'll defend our margins, but we'll also
+be looking to invest some of that opportunity to make sure that we are well-positioned for growth. We think the
+cycle's going to be a long one, and so we want to be very, very well-prepared for it as we go through the year.
+.....................................................................................................................................................................................................................................................................
+
+Operator: The next question is from Anthony Paolone with JPMorgan. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+
+Anthony Paolone
+
+Q
+
+Analyst, JPMorgan Securities LLC
+
+All right. Thank you. Maybe, Neil, staying with you on the margin item, I have in my notes from last quarter that
+the third quarter numbers would be negatively impacted by some comp expenses on the margin side, I think to
+the tune of, I think, over 150 basis points. Can you maybe help us just update, like, what the impact ended up
+being and how to think about 4Q and the full year at this point?
+.....................................................................................................................................................................................................................................................................
+
+Neil O. Johnston
+
+A
+
+Executive Vice President & Chief Financial Officer, Cushman & Wakefield Plc
+
+Yeah, good question, Tony. So we guided to roughly $20 million to $30 million of headwind, and we actually saw
+the low end of that $20 million. And then the teams did an excellent job of basically matching costs to ensure that
+we held margin. We'll probably see a little bit more in Q4, not at the same level, probably in the $5 million to $10
+million range. So not really as material for Q4.
+.....................................................................................................................................................................................................................................................................
+
+Anthony Paolone
+
+Q
+
+Analyst, JPMorgan Securities LLC
+
+Okay, great. That's helpful. And then I guess on the leasing side, going to like mid-single-digits, if I just do some of
+the math there, it suggests that 4Q leasing revenue would be up basically mid-single-digits as well.
+And so I guess my question is, how should we think about maybe what normalization in leasing looks like? Was
+the third quarter just outsized? And that that number comes down now? Or is there more room to go? Just trying
+to put some brackets around that.
+.....................................................................................................................................................................................................................................................................
+
+Neil O. Johnston
+
+A
+
+Executive Vice President & Chief Financial Officer, Cushman & Wakefield Plc
+
+Yes. So leasing, as you know, is a big part of our revenues. It's something which we feel -- which we've been
+saying now. We've got five quarters of strength in leasing. So it really drove great performance.
+The Americas alone were up 16%. We did have some big deals in the quarter, which also helped and contributed.
+And there is lumpiness as we go through the quarters. We've always said to look at an individual quarter is
+probably not the way to look at it, [ph] look (00:21:29) over the longer run. And so, we certainly feel good about
+how our leasing revenue [ph] grew quarter (00:21:38).
+.....................................................................................................................................................................................................................................................................
+
+Operator: The next question is from Michael Griffin with Citi. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+
+8
+1-877-FACTSET www.callstreet.com
+
+Copyright © 2001-2024 FactSet CallStreet, LLC
+
+Cushman & Wakefield Plc (CWK)
+Q3 2024 Earnings Call
+
+Michael A. Griffin
+Analyst, Citigroup Global Markets, Inc.
+
+Corrected Transcript
+04-Nov-2024
+
+Q
+
+Great. Thanks. Just wanted to go back and get some more color kind of on the transaction activity in the market
+and what you're seeing. Can you give us a sense if maybe buyer and seller expectations are converging or if a lot
+of these deals are mainly kind of debt maturity and distress driven?
+And then I know that you noted in the release kind of about the Greystone joint venture volumes declining as a
+result of the tighter lending conditions. I would think that, debt capital availability would be important if you're going
+to see increased transaction activity. So how do you kind of marry the expectation for a transaction activity pickup
+with what seems like, some tightness in the debt markets?
+.....................................................................................................................................................................................................................................................................
+
+Michelle M. MacKay
+Chief Executive Officer & Director, Cushman & Wakefield Plc
+
+A
+
+Okay. So, I'm going to start with this and then I'll hand it over to Neil. In terms of market and market fundamentals,
+we continue to be optimistic about recovery. The Fed move in September was a really important first step for us.
+There is an enormous amount of pent-up demand waiting and we believe we are positioned exactly where we
+need to be to handle that. In the future, Fed rate cuts, which we know we probably have one coming this week,
+mean that floating rate debt is going to continue to get cheaper. With all else equal, that should help some deals
+across the finish line, especially as we go into year-end and year-end pressure and may help alleviate some
+others of debt service challenges that they've been having.
+And I think, most importantly, at least symbolically, the rate cut signals that better days are ahead for commercial
+real estate because it means that policies become slightly less restrictive, which is a step forward to more
+supportive financial conditions for the economy and by extension, more supportive conditions for leasing and
+capital markets. And lastly, these incremental rate cuts, which we anticipate one in November and one in
+December, is going to help move some of this dry powder off the sidelines because, again, it signals that
+commercial real estate sector is likely at the cusp of the next growth cycle and what we've seen is a real step
+forward in the investor mindset from risk-off to risk-on. And then, Neil, did you want to talk a little bit about
+Greystone?
+.....................................................................................................................................................................................................................................................................
+
+Neil O. Johnston
+Executive Vice President & Chief Financial Officer, Cushman & Wakefield Plc
+
+A
+
+Certainly happy to talk about Greystone or what we're seeing in the multifamily markets. Greystone, as a result of
+the change in lending policies at the GSEs, we have seen some tightness in lending in that space, but we're
+seeing opportunity in multifamily. We basically had a very strong month of mortgage origination in September.
+Greystone saw that and so it signals that certainly there may be opportunity coming. At the same time, it's one
+month and that's not a trend. So multifamily remains an area we're watching closely.
+We feel very good about it in the long run. It's a key strategic space for us, but certainly we do expect a little bit of
+lumpiness as we move through the back of the year and into next year.
+.....................................................................................................................................................................................................................................................................
+
+Michael A. Griffin
+Analyst, Citigroup Global Markets, Inc.
+
+Q
+
+Thanks. I really appreciate the context there. And then, Michelle, just going to those three priorities you laid out at
+the end of your prepared remarks, I appreciated kind of the additional insights there.
+
+9
+1-877-FACTSET www.callstreet.com
+
+Copyright © 2001-2024 FactSet CallStreet, LLC
+
+Cushman & Wakefield Plc (CWK)
+
+Corrected Transcript
+
+Q3 2024 Earnings Call
+
+04-Nov-2024
+
+But as you think about those three, I know you've done work on the leverage side, really improving the balance
+sheet and cash flow, but if the first two priorities in terms of pivoting to growth are really what's going to be a
+catalyst, could you see leverage maybe stay elevated relative to the historical levels if it makes sense to grow the
+enterprise?
+.....................................................................................................................................................................................................................................................................
+
+Michelle M. MacKay
+
+A
+
+Chief Executive Officer & Director, Cushman & Wakefield Plc
+
+Yeah, I don't anticipate increasing leverage. I would say that just to give you a little more context around the
+capital allocation, and I know that you all have been asking for more context for quite some time. I want to speak
+a bit about how we're changing the way that we're approaching investments here, because it's not just about how
+we're allocating, it's about the way we're making decisions. So we spent the last year allocating our capital with
+what I'll call surgical precision, a practice that we're going to continue doing. And I've changed three components
+surrounding making investments here.
+I've changed the actual investment process, I've changed the criteria for investments, and I've changed the postclose management of made investments, and now we're -- high on our list on our capital allocation is growth in
+global capital markets and advisory on whole, and that's going to come in the form of adding to our talent pool and
+our systems with an eye to what the future holds for the industry, not what the past represents. Second, in capital
+allocation, we're going to be making, as you've seen us make, the right long-term choices for our services
+business to ensure continued growth, and we're not going to be patching things with a band-aid to fix them.
+So I'm talking about some basic blocking and tackling here, labor management systems, instilling great operating
+practices, cross-pollinating best practices across services business, and what you can see is that employing this
+very rigorous approach, the implications were very positive for our free cash flow already.
+And the third area, which is what's been the focus of this year, which you know well, is reducing leverage. And
+frankly, I think we hit it out of the park, starting that virtuous cycle of right-sizing our leverage and, as important,
+reducing that cost. We were priced three times this year, and the great thing about having this as a target of our
+capital is that every time we execute here, you accomplish your goal with 100% certainty and you know exactly
+what the financial impact is going to be.
+But in no case do we foresee increasing our leverage as we're growing.
+.....................................................................................................................................................................................................................................................................
+
+Operator: [Operator Instructions] The next question is from Alex Kramm with UBS. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+
+Alex Kramm
+Analyst, UBS Securities LLC
+
+Q
+
+Yes. Hey, good evening, everyone. Maybe you just touched upon this a little bit, but you made a comment earlier
+around on the servicing side, services side, also being more focused on the margin, if I heard you correctly.
+So can you just talk about what that entails? Is it gaining wants more scale? Is it maybe a little bit more focus on
+pricing? Is it maybe a change in competitive dynamic? Where do you think you can get margin upside in that
+business? And how quickly you think you can achieve that?
+.....................................................................................................................................................................................................................................................................
+
+Neil O. Johnston
+Executive Vice President & Chief Financial Officer, Cushman & Wakefield Plc
+
+A
+10
+
+1-877-FACTSET www.callstreet.com
+
+Copyright © 2001-2024 FactSet CallStreet, LLC
+
+Cushman & Wakefield Plc (CWK)
+
+Corrected Transcript
+
+Q3 2024 Earnings Call
+
+04-Nov-2024
+
+Yeah. Yes, sure, Alex. It's a great question. We've been very focused on that over the past six months.
+Particularly in EMEA, where we had a design and build business, which is essentially where we have a lot of fixed
+price contracts. We've looked at that business and we've said, if we're not making money, we shouldn't be doing
+the work. And so in EMEA, you have seen services down, but I'll tell you the EBITDA related to that revenue has
+actually been up.
+That work is essentially complete, so you'll see growth starting to happen in Europe, but that was the one area.
+And then within the US, in a number of our services businesses, we've looked at our contracts, and we've said,
+profitability on those contracts is really critical. Most of the work is now done.
+We feel very pleased with the work we've done, and we're now starting to once again really focus on the top line,
+and that will lead to more accretive growth as we go forward.
+.....................................................................................................................................................................................................................................................................
+
+Alex Kramm
+
+Q
+
+Analyst, UBS Securities LLC
+
+Okay, great. And then just maybe going back to capital allocation, I think in your prepared remarks, you
+mentioned M&A only in the context of the services business, small tuck-ins, I think, if I remembered you correctly,
+Michelle, but like you just also talked about the capital markets advisory business. So is that also an area for M&A
+or how do you think about M&A generally in particular, as you just said, leverage probably stay at these levels.
+.....................................................................................................................................................................................................................................................................
+
+Michelle M. MacKay
+
+A
+
+Chief Executive Officer & Director, Cushman & Wakefield Plc
+
+Yeah, the door is always open for M&A. It could be in advisory or services. But I think in particular with regard to
+advisory for us right now, we are doing a lot of investing in the data and analytics in the capital markets business
+in particular. And we're also on the hunt for new talent in advisory as well.
+.....................................................................................................................................................................................................................................................................
+
+Operator: The next question is from Peter Abramowitz with Jefferies. Please go ahead.
+.....................................................................................................................................................................................................................................................................
+
+Peter Abramowitz
+
+Q
+
+Analyst, Jefferies LLC
+
+Hi, thank you. I think in Neil's comments, he mentioned just some delays and things on the project management
+side, which I know tends to be a little bit sensitive to the macro and kind of confidence from customers there. So I
+just want to ask, is there anything thematic that we should take away and what's been causing customers to delay
+those projects and how to think about when that might ease?
+.....................................................................................................................................................................................................................................................................
+
+Neil O. Johnston
+
+A
+
+Executive Vice President & Chief Financial Officer, Cushman & Wakefield Plc
+
+Yeah, there's nothing, Pete, there's nothing really thematic there. We have just seen, particularly in the office
+space, some delays in build outs. It really is essentially, we believe, just a function of sort of a more subdued
+market.
+We feel like the tide is turning there. We are focused in that area. But we've just seen some projects that have
+been canceled that are sort of a dampener on that business. We feel confident going forward and we're starting to
+see those pipelines build and projects get executed. But that really -- there's nothing there's thematic. It really is
+just a function of the space we are in and some of the projects we were working on.
+.....................................................................................................................................................................................................................................................................
+
+11
+1-877-FACTSET www.callstreet.com
+
+Copyright © 2001-2024 FactSet CallStreet, LLC
+
+Cushman & Wakefield Plc (CWK)
+Q3 2024 Earnings Call
+
+Corrected Transcript
+04-Nov-2024
+
+Peter Abramowitz
+
+Q
+
+Analyst, Jefferies LLC
+
+Okay, that's helpful. And then I think, Michelle, the term you've used is sort of a waterfall function in terms of the
+capital markets recovery. So you already would seem to be indicating a significant acceleration if you're expecting
+20% in the fourth quarter.
+So I guess should we expect potentially further acceleration as we get into 2025? I know one of your peers
+mentioned a week or two ago that they're sort of thinking about it as a gradual recovery. So just curious in that
+context how you are thinking about 2025 from a capital markets perspective as you sort of build out your budget
+and you think about the year ahead?
+.....................................................................................................................................................................................................................................................................
+
+Michelle M. MacKay
+
+A
+
+Chief Executive Officer & Director, Cushman & Wakefield Plc
+
+Yeah, I mean, we've always talked about it as a gradual recovery. I've spoken quite often about how we invest in
+things over the long-term and we expect a long-term recovery. So our base case as it relates to capital markets,
+assumes the Fed's going to continue to cut rates by 25 basis points in November and December, followed by
+gradual rate reductions until they bring that rate back down to around the 3% range toward the end of 2025.
+We also believe the 10-year yield is going to hover in this 4% to 4.5% range for the foreseeable future, putting a
+more normalized interest rate curve into place, which is all positive for CRE. But when you think about that, we're
+talking about that process happening over the next year.
+.....................................................................................................................................................................................................................................................................
+
+Operator: This concludes our question-and-answer session. I would like to turn the conference back over to
+Michelle MacKay for any closing remarks.
+.....................................................................................................................................................................................................................................................................
+
+Michelle M. MacKay
+Chief Executive Officer & Director, Cushman & Wakefield Plc
+
+Thank you, everyone, for participating in our call today and we look forward to speaking with you next quarter.
+.....................................................................................................................................................................................................................................................................
+
+Operator: The conference is now concluded. Thank you for attending today's presentation. You may now
+disconnect.
+
+12
+1-877-FACTSET www.callstreet.com
+
+Copyright © 2001-2024 FactSet CallStreet, LLC
+
+Cushman & Wakefield Plc (CWK)
+Q3 2024 Earnings Call
+
+Corrected Transcript
+04-Nov-2024
+
+Disclaimer
+The information herein is based on sources we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error-free statement or summary of the available data.
+As such, we do not warrant, endorse or guarantee the completeness, accuracy, integrity, or timeliness of the information. You must evaluate, and bear all risks associated with, the use of any
+information provided hereunder, including any reliance on the accuracy, completeness, safety or usefulness of such information. This information is not intended to be used as the primary basis
+of investment decisions. It should not be construed as advice designed to meet the particular investment needs of any investor. This report is published solely for information p urposes, and is
+not to be construed as financial or other advice or as an offer to sell or the solicitation of an offer to buy any security in any state where such an offer or solicitation would be illegal. Any
+information expressed herein on this date is subject to change without notice. Any opinions or assertions contained in this i nformation do not represent the opinions or beliefs of FactSet
+CallStreet, LLC. FactSet CallStreet, LLC, or one or more of its employees, including the writer of this report, may have a position in any of the securities discussed herein.
+THE INFORMATION PROVIDED TO YOU HEREUNDER IS PROVIDED "AS IS," AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, FactSet CallStreet, LLC AND ITS LICENSORS,
+BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+LAW, NEITHER FACTSET CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS ASSOCIATES, LICENSORS OR SUPPLIERS WILL BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS OR RE VENUES, GOODWILL, WORK STOPPAGE,
+SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED
+OF THE POSSIBILITY OF SUCH LOSSES, ARISING UNDER OR IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT M ATTER HEREOF.
+The contents and appearance of this report are Copyrighted FactSet CallStreet, LLC 2024 CallStreet and FactSet CallStreet, LLC are trademarks and service marks of FactSet CallStreet, LLC. All
+other trademarks mentioned are trademarks of their respective companies. All rights reserved.
+
+13
+1-877-FACTSET www.callstreet.com
+
+Copyright © 2001-2024 FactSet CallStreet, LLC
+
+
