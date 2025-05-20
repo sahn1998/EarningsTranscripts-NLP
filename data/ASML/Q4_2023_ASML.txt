@@ -1,0 +1,344 @@
+Q4 & FY 2023 results
+Peter Wennink
+Welcome everyone, thank you for joining us for our fourth-quarter and full year 2023 results
+conference call.
+Before we begin the Q & A session Roger and I would like to provide an overview and some
+commentary on the fourth-quarter and full year 2023 as well as provide our view of the coming
+quarters.
+Roger will start with a review of our fourth-quarter and full year 2023 financial performance with
+added comments on our short-term outlook. I will complete the introduction with some additional
+comments on the current business environment and on our future business outlook.
+Roger
+Roger Dassen
+Thank you Peter and welcome everyone.
+I will first review the fourth-quarter and full year 2023 financial accomplishments and then provide
+guidance on the first quarter of 2024.
+Let me start with our fourth-quarter accomplishments.
+Net sales came in at 7.2 billion euros, which is just above our guidance, primarily due to more
+Installed Base business.
+We shipped 10 EUV systems and recognized 2.3 billion euros revenue from 13 systems this
+quarter.
+Net system sales of 5.7 billion euros which was mainly driven by Logic at 63 percent, with the
+remaining 37 percent coming from Memory.
+Installed Base Management sales for the quarter came in at 1.6 billion euros, which was higher
+than guided due to additional service and upgrade sales.
+Gross margin for the quarter came in at 51.4 percent, which is above our guidance, primarily driven
+by Installed Base business.
+On operating expenses, R&D expenses came in at 1 billion 41 million euros and SG&A expenses
+came in at 284 million euros, both basically as guided.
+Page 2 of 6
+Public
+Net income in Q4 was 2.0 billion euros, representing 28.3 percent of net sales and resulting in an
+EPS of 5.21 euros.
+Turning to the balance sheet. We ended the fourth quarter with cash, cash equivalents and shortterm investments at a level of 7.0 billion euros.
+Moving to the order book, Q4 net system bookings came in at 9.2 billion euros, which is made up
+of 5.6 billion euros for EUV bookings and 3.6 billion euros for non-EUV bookings, these values also
+include inflation corrections. Net system bookings in the quarter are more balanced between Logic
+and Memory, relative to past few quarters, with Logic at 53 percent of the bookings while Memory
+accounted for the remaining 47 percent.
+Looking at the full year, net sales grew 30 percent to 27.6 billion euros, with a gross margin of 51.3
+percent. EUV system sales grew 30 percent to 9.1 billion euros realized from 53 systems while in
+total we shipped 42 EUV systems in 2023. DUV system sales grew 60 percent to 12.3 billion
+euros. Our Metrology & Inspection system sales decreased 19 percent to 536 million euros.
+Looking at the market segments for 2023, Logic system revenue was 16.0 billion euros, which is a
+60 percent increase from last year. Memory system revenue was 6.0 billion euros, which is a 9
+percent increase from last year. Installed Base Management sales was 5.6 billion euros, which is a
+2 percent decrease compared to previous year.
+At the end of 2023 we finished with a backlog of 39 billion euros.
+Our R&D spending increased to 4.0 billion euros in 2023, as we continue to invest in innovation
+across our full product portfolio. Overall, R&D investments as a percentage of 2023 sales were
+about 14 percent. SG&A increased to 1.1 billion euros in 2023, which was about 4 percent of sales.
+Net income for the full year was 7.8 billion euros, 28.4 percent of net sales, resulting in an EPS of
+19.91 euros.
+We finished 2023 with a free cash flow generation of 3.2 billion euros.
+We returned 3.3 billion euros to shareholders through a combination of dividends and share
+buybacks in 2023.
+With that I would like to turn to our expectations for the first quarter of 2024.
+We expect Q1 net sales to be between 5.0 billion euros and 5.5 billion euros.
+We expect our Q1 Installed Base Management sales to be around 1.3 billion euros.
+Gross margin for Q1 is expected to be between 48 and 49 percent.
+Lower revenue and margin relative to Q4 is primarily driven by lower immersion volume along with
+an unfavorable change in product mix. In addition, we also expect lower EUV volume and lower
+Installed Base business in Q1 relative to Q4. The relatively slow start to the year is a reflection of
+the current state of the industry coming out of a downturn.
+As it relates to gross margin, I would like to make a few more comments on 2024 margin drivers as
+well as our longer-term ambition of 54 to 56 percent by 2025.
+Page 3 of 6
+Public
+We finished 2023 with a full year gross margin of 51.3 percent and there are a number of
+developments that could impact the gross margin in 2024.
+For EUV, positive drivers include the higher ASP of the NXE:3800E as well as improving EUV
+service margins.
+For DUV, we expect product mix to have a negative impact on margin in 2024.
+On our Installed Base Business, we currently expect a similar gross margin as 2023 but the final
+impact will ultimately depend on the level of upgrades in 2024.
+And finally, as we have said before, we expect significant costs in 2024 related to the introduction
+of High NA and to the ramp of our capacity to the 90 EUV, 600 DUV levels that we have talked
+about before, which will create pressure on the gross margin,
+When we assess the combined effect of these different developments, we expect a slightly lower
+gross margin in 2024 compared to 2023.
+We are still targeting our earlier communicated gross margin ambition of 54 to 56 percent by 2025.
+This increase in gross margin will be driven by a number of items. First, higher sales volume both
+in EUV and DUV, which improves fixed cost coverage. Second, a move to a higher margin EUV
+0.33NA system, as the vast majority of systems in 2025 are planned to be NXE:3800E systems.
+Third, we expect reduced headwinds from capacity investments as we ramp volume, including
+EUV High NA. Fourth, we will also be transitioning to a higher margin EUV High NA system,
+EXE:5200, in 2025. Lastly, we expect our Installed base business to have a positive impact on
+2025 margins due to both improved EUV service margins as well as increased upgrade business
+volume.
+The expected R&D expenses for Q1 are around 1.07 billion euros and SG&A is expected to
+be around 300 million euros.
+Our estimated 2024 annualized effective tax rate is expected to be between 16 percent and 17
+percent.
+In Q4, ASML paid the second quarterly interim dividend of 1.45 euros per ordinary share.
+ASML intends to declare a total dividend for the year 2023 of 6.10 euros per ordinary share. The
+third interim dividend of 1.45 euros per ordinary share will be made payable on February 14, 2024
+Recognizing this third interim dividend and the two interim dividends of 1.45 euros per ordinary
+share paid in 2023, this leads to a final dividend proposal to the General Meeting of 1.75 euros per
+ordinary share.
+In Q4 2023 no shares were purchased.
+With that I would like to turn the call back over to Peter.
+Page 4 of 6
+Public
+Peter Wennink
+Thank you Roger.
+As Roger has highlighted, we had another year of very strong growth in a very challenging
+environment and we finished the year with a solid backlog of 39 billion euros.
+Uncertainty remains in the market due to a number of global macro concerns while the
+semiconductor industry is currently working through the bottom of the cycle. Our customers are still
+not certain on the shape or slope of the recovery this year but there are some positive signs in the
+indicators we have been monitoring. Industry end-market inventory levels continue to improve,
+moving towards more healthy levels. Lithography tool utilization levels are still running lower than
+normal but are now improving in both Logic and Memory. We expect utilization levels to continue to
+improve over the course of this year. Lastly, as mentioned by Roger, we saw very strong order
+intake in the fourth quarter in support of future demand.
+To be able to follow the curve of the industry recovery, we are looking at the combined demand for
+2024 and 2025. As mentioned last quarter, we view 2024 as a transition year in preparation for the
+expected strong demand in 2025. We therefore continue to make investments this year both in
+capacity ramp and in technology to be ready for the upturn in the cycle.
+While we see some positive signs of recovery, we feel it might be a bit too early to change our
+perhaps conservative view as communicated last quarter and therefore still stay with our previously
+communicated expectation of 2024 revenue to be similar to 2023.
+Looking at the market segments, customers are indicating they are seeing healthy growth this year,
+primarily driven by AI-related demand for both Logic and Memory but also expected from other endmarkets as inventory levels improve. Coming off a very strong year in 2023 with 60 percent growth
+in Logic revenue, we expect some pause in demand as customers digest the capacity additions
+while utilization levels improve. Based on current demand, we see lower Logic revenue in 2024
+versus 2023.
+For Memory, inventories are approaching normal levels and customers are expecting to see
+demand growth on a number of end-markets this year. Litho demand is primarily driven by DRAM
+technology node transitions in support of advanced memories such as DDR5 and HBM in support
+of AI related demand. We currently see revenue growth in our 2024 Memory business versus 2023.
+Turning to our businesses, for EUV, we are expecting revenue growth in 2024. We are planning to
+recognize revenue on a similar number of EUV low NA systems as 2023, which includes the fast
+shipment systems from 2023. Although we plan a similar number of systems as 2023, we will have
+higher ASPs from the NXE:3800E systems, more weighted towards second half of the year. In
+addition, we expect revenue from one to two High NA systems.
+Based on the aforementioned, we expect our non-EUV business to be down in 2024, primarily
+driven by lower immersion system sales, relative to 2023.
+Page 5 of 6
+Public
+For our Installed Base business, based on our view today, we expect a similar level of revenue
+compared to last year. As the recovery becomes more clear this year, customers may look to
+upgrade their systems in preparation for 2025 and this could provide future business opportunity
+this year.
+As a reflection of the current state of the industry coming out of a downturn and an expected
+recovery over the course of 2024, we expect a stronger second half relative to the first half of this
+year.
+On the geopolitical front, as communicated earlier, we do not expect to get export licenses for our
+most advanced immersion systems, NXT:2000 and up, for China in 2024. We have been in contact
+with the US government on their export control regulations announced in October last year and we
+can confirm the estimated financial impact as communicated in October. At that time we stated the
+impact of the Dutch and US export regulations combined is 10 to 15 percent of our 2023 China
+systems revenue. This impact is based on our presumption that as of 2024 we will not obtain export
+licenses for NXT:2000 and up immersion systems to Chinese customers and, in the case of only a
+handful of Chinese fabs, this also includes the NXT:1970 and NXT:1980 systems. While the export
+control regulations had an impact on our business, we continue to see strong demand for midcritical and mature nodes in China.
+Looking longer term, while there are still significant uncertainties, primarily driven by the macro
+environment, it appears we are passing through the bottom of this specific cycle and expect an
+industry recovery over the course of 2024. Based on discussions with our customers and supported
+by our strong backlog, we currently expect 2025 to be a strong year driven by a number of factors.
+First, the secular growth drivers in semiconductor end markets which we have previously discussed,
+such as energy transition, electrification and AI.The expanding application space, along with
+increasing lithography on future technology nodes, drives demand for both advanced and mature
+nodes.
+Second, the industry expects to be in the middle of a cyclical upturn in 2025.
+And last, as mentioned earlier, we need to prepare for the significant number of new fabs that are
+being built across the globe, in some instances clearly supported by several government incentive
+plans. These fabs are spread geographically, are strategic for our customers and are scheduled to
+take our tools.
+It is essential that we keep our focus on the future and build capacity in preparation for further longterm growth as we discussed in the market scenarios for 2025 and 2030 during our Investor Day in
+November 2022. We plan to update our view during our Investor Day this year on November 14,
+2024.
+In summary, although there is still near-term uncertainty with a positive outlook trend, we clearly
+remain confident in our long-term growth opportunity.
+With that we would be happy to take your questions.
+Q4 and Full Year 2023 results
+Mr. Dassen, can you give us a summary of the fourth quarter 2023?
+Revenue for the quarter came in at €7.2 billion, which was higher than guided. Primarily driven by the
+fact that the Installed Base business at €1.6 billion was higher than we expected. And that was both as
+a result of higher service revenue and higher revenue from upgrades. That fact, so the higher Installed
+Base business, also drove up the gross margin.
+So gross margin came in at 51.4%. Also higher than guided as a result of, as I mentioned, the higher
+Installed Base business.
+Net income for the quarter came in at €2 billion. After a few soft quarters, the order intake for the quarter
+was very, very strong. Actually a record order intake at €9.2 billion. If you look at the composition of
+that, it was about 50/50 for Memory versus Logic. Around €5.6 billion out of the €9.2 was related to EUV,
+both Low NA and High NA.
+And what about ASML’s results for the full year 2023?
+So for the full year, revenue came in at €27.6 billion with a gross margin of 51.3%. We ended the year
+with a total net income of €7.8 billion and also a total order book of €39 billion.
+Can you give us an update on the impact of fast shipments on 2023 and 2024?
+My favorite topic. So, you know, when it comes to fast shipments in the course of 2023, we changed the
+testing protocol for immersion tools on fast shipment and we agreed those with customers. And as a
+result of that we could recognize revenue again upon shipment. So that's for immersion.
+When it comes to EUV, earlier on we said that we expected around €2.3 billion of value of fast shipments
+at the end of this year for EUV shipped but not yet recognized in revenue. That turned out to be quite a
+bit lower, €700 million. And there's a few reasons for that.
+First off, we had a couple of tools that were originally scheduled for shipment in, let's say, the last couple
+of weeks of 2023, actually slipped into the first couple of weeks of 2024.
+And then secondly, we had some shifts in demand from customers that also led to a few tools slipping
+into 2024. So as a result of that, the value came in at €700 million rather than at €2.3 billion. That said,
+for 2024 we expect at the end of 2024 that we will not do fast shipments for EUV. Main reason being
+Public
+that we assume that we'll not be capacity constrained for EUV in 2024 because of the addition of capacity
+that we've been talking about. And that means that in our guidance, when we talk about our expectation,
+2024 revenue being similar to 2023 revenue, the revenue from these fast shipments, so the €700 million,
+but also these tools that slipped from 2023 into 2024, that's included in that expectation.
+Full Year 2024 and Q1 2024 outlook
+Further to 2024, can you provide an initial outlook for the full year?
+As we said last quarter clearly there is still uncertainty. There are uncertainties at the macro front and
+also I think it's clear to see that our customers are navigating through the downside of the cycle. So
+they're really making that move right now. And as a result of that I think the question really remains, as
+we expressed it last quarter as well, what's the shape of the recovery? Yes, recovery is there, but what's
+the shape of the recovery and how fast is that recovery going to be? And I think that's still unclear.
+That said, I do believe there are a few positive signs and I think it is important to recognize those as
+well. So one positive sign is that we clearly see that the inventory levels in the end markets are improving
+and are definitely at a better level than they were a couple of quarters ago. So there is clear improvement
+on the inventory situation in the end market. So that's one positive development.
+Secondly, if we look at the utilization of our tools, we clearly see that they are improving. They're not yet
+at what I would call normal levels, but they're clearly improving. And all the indications that we're getting
+is that we believe that that improvement will continue to occur in the course of this year. So good
+development there.
+And thirdly, clearly the €9.2 billion order intake that we talked about earlier on, I think is also a clear
+positive indication.
+So a few good data points, a few positive data points, but still we believe it's too early to revise our
+guidance. So we would keep our guidance as we articulated it last quarter, which is that we believe that
+2024 will be similar in revenue as 2023.
+That said, we also said 2024 is very much a transition year and a year in which we're really building up
+capacity. We're making good investments into our capacity because we believe 2025 is going to be a
+year of strong growth and that's what we're preparing for in this year as well. If we look at different
+elements in the composition of our revenue. I would say if we look at the end markets, I would say that
+we believe on the Memory side, we believe that Memory will be bigger than 2023 in 2024. And that's
+primarily because we see node transitions there and these node transitions primarily support the
+Public
+increased demand for advanced DRAM and then you should think about DDR5, you should think about
+High Bandwidth Memory (HBM).
+On the Logic side, I would argue that we're looking at a small decline in comparison to 2023. Primarily
+because of all the capacity additions that we've seen in 2023, I think it's fair to assume our customers
+will digest those capacity additions. So as a result of that, we believe that there the growth will be a little
+bit smaller.
+If we then look at the different technologies. On EUV, we believe that we're looking at an increase. From
+a revenue unit number perspective, we believe we'll have approximately the same number of units of
+EUV in revenue. And that includes the things that we talked about earlier on, the fast shipment units
+etcetera are included in that estimate. But we will benefit in EUV from higher ASP because we'll have a
+bunch of NXE:3800E in our revenue with a higher ASP. And also we’ll benefit from one or two EXE, so
+High NA tools, that we'll have in revenue. So I think for EUV we expect an increase.
+As it comes to non-EUV system sales, as a result of the flat guidance, we believe that we'll see a small
+decrease there and that will be primarily related to immersion. So we expect to have less immersion
+sales in 2024 in comparison to 2023. And as it comes to Installed Base business, on the Installed Base
+we believe that will be flat in comparison to last year. And then finally in terms of the composition over
+the quarters. We believe that the momentum will build during the year 2024 and as a result of that we
+expect that the sales level, the revenue level in the second half will be higher than in the first half of
+2024.
+What are your expectations for gross margin this year?
+So in 2023 we ended at 51.3% gross margin. We expect that for this year will be slightly below that
+number. A number of puts and takes there again. If you look at EUV, we talked about the introduction
+of the NXE:3800. So that would have a positive impact on the gross margin. Also we expect that the
+service gross margin for EUV will improve. So that's positive. But then as I also mentioned, we'll have
+less immersion and that will have a negative impact on the gross margin. And also as we also mentioned
+in previous quarters, this really is an investment year as well. We're investing for the capacity expansion
+that we’ll take benefits from in 2025. So significant investments there and also we're very much investing
+in our capability both in the factory and in the field as it relates to High NA. So those are drags if you like
+on the gross margin. And if you add it all up, we think that the gross margin for 2024 will be slightly below
+the gross margin for 2023.
+Public
+And what about your gross margin for 2025?
+As you know for 2025 we gave an expectation at the Capital Markets Day of a gross margin range
+between 54% and 56%. And we still believe that that is the right window to look at. I recognize that's a
+jump from the gross margin expectation that I just gave for 2024. There are good reasons for that.
+First off, of course in 2025 if you look at the EUV mix, there will be substantially more high ASP tools in
+there than lower ASP tools in there. So I think that's an important element in there.
+Secondly, we'll have many more High NA tools in revenue in 2025 than in 2024. And they will be able to
+absorb the costs better, absorb the total costs that we have for High NA. Even more importantly, as I
+mentioned, we are building capacity for 2025. And of course that should lead to, as we expect, higher
+sales levels for 2025. So many more outputs for EUV and DUV. And that means that we should in 2025
+really get the benefit of the investments that we make in 2024.
+If we combine all of those dynamics, then indeed we believe that a 54% to 56% window for gross margin
+in 2025 is the right number to look at.
+We just started the year. What's your guidance for the first quarter of 2024?
+So for Q1 we expect €5.0 to €5.5 billion of sales in that quarter. With a gross margin expected to be
+somewhere between 48% and 49%. We expect Installed Base revenue of approximately €1.3 billion.
+That's a bit of a soft start for the year. But that I think is very much in sync with what I told you earlier
+on. That we really believe that the momentum is building up throughout this year. And we expect that
+the second half of the year will be better than the first half.
+China and export controls
+Sales to China were very strong in 2023. How do you see this developing in 2024. And can you
+give us an update on the most recent export control regulations and how it's impacting your
+business moving forward?
+So you're fully right. The business in 2023 with China was very, very strong. I should remind everyone
+that that was also driven by the fact that we already had many orders for systems into China. And the
+majority of the sales that we had with China was actually executing on orders that were already there
+by the end of 2022. I think we explained it last time. The order fill rate typically for China was fairly low.
+In the past couple of years it actually was below 50%. So with the shifts in demand that we had with
+other customers, that meant that we were able to execute on the demand that was clearly there in China.
+That's why the China sales went up so significantly in this year.
+I should also say that those sales are really for mid-critical and mature manufacturing. I mean that’s
+where the systems are going to and that demand remains very, very solid. It was solid last year. We
+Public
+expect it to be solid this year and also on a go forward basis because of all the dynamics that are going
+on in China. We believe that that will remain solid.
+In terms of export controls, you're right. I mean last year we had Dutch rules kicking in and we had
+additional US rules kicking in. We actually sought clarification with the authorities on the interpretation
+of those rules. That really confirmed the expectation and the interpretation that we gave in our update
+on Q3. In essence, what it means is that we should now expect that for 2024 we will not get export
+licenses for shipment into China for, let's say, advanced immersion, so NXT:2000i and up tools. And we
+should also expect for a handful of fabs not to get export licenses for China for NXT:1970i and NXT:1980i
+immersion tools. So that is the interpretation that we had in Q3, and we had that confirmed in follow-up
+conversations with the authorities.
+In terms of what that does, as you recall, we said in Q3 that we believe that between 10% to 15% of the
+China sales in 2023 would be affected by this rule. So if you look at the impact that these export
+regulations that were articulated in 2023, the impact that that will have on the 2024 sales, we confirmed
+that we believe that will be somewhere between 10% to 15% of the China system sales in 2023.
+Dividend and share buyback
+Can you update us on your capital allocation plans?
+So we had a few soft quarters, but this was a strong quarter in terms of cash generation.
+So I think that was clear and that to a large extent that was also related to the fact that we had significant
+order intake and as a result that we had an uptick in down payments. The capital allocation strategy and
+policy in and by itself hasn't changed. So whatever cash we need in order to make the investments into
+the business, you know, for capacity, for technology etcetera. That's the first deployment of the cash.
+Secondly, we have a policy of growing dividends. Growing dividends which are paid out on a quarterly
+basis. And as it comes to this year we will pay an interim dividend in Q1 of €1.45 per share and we will
+recommend to the AGM to declare a final dividend of €1.75 per share. That would bring the total dividend
+for 2023 up to a level of €6.10 per share. Which would be a 5.2% increase over last year's dividend.
+And then whatever is left will be paid back to shareholders by way of share buybacks.
+Longer term outlook
+Regarding your longer term outlook, what are your expectations on demand and your business
+beyond 2024?
+So essentially unchanged I would say in comparison to what we said last quarter. So if we start looking
+at 2025. As I mentioned before, we are looking at a year of significant growth and that is for a couple of
+Public
+reasons. First off, we think the secular trends in our industry are still very much intact. If you look at the
+developments around AI, if you look at the developments around electrification, around energy transition
+etcetera, they will need many, many semiconductors. So we believe the secular trends in the industry
+are still very, very strong.
+Secondly I think clearly by 2025 we should see our customers go through the up cycle. I mean the
+upward trend in the cycle. So that should be a positive.
+Thirdly, as we also mentioned last time it's clear that many fab openings are scheduled that will require
+the intake of quite some tools in the 2025 time frame.
+So we look at 2025 as a strong year of growth and we are making the investments as I also mentioned
+before in 2024 in order to be able to create the capacity that will be needed in 2025. But also will be
+needed to cater to the demand that we talked about in the Capital Markets Day earlier on in 2030. So
+we see strong growth and we believe we need to prepare for that growth.
+And talking about capital markets, you can put it into your calendar. We expect our next Capital Markets
+Day to be on November 14 of this year. We really look forward to seeing you there and discussing with
+you the good growth opportunities that ASML has for the foreseeable future

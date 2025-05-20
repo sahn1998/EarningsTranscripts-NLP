@@ -1,0 +1,425 @@
+﻿CEO/CFO Earnings Call Comments 
+
+Comments from CEO Pat Gelsinger  
+and CFO Dave Zinsner 
+Intel’s chief executive officer and chief financial officer offer comments after 
+the company released its third-quarter 2023 earnings. 
+ 
+The following are the prepared remarks provided on Intel’s third-quarter 2023 earnings conference call held at 2 p.m. PDT 
+on Oct. 26, 2023. These remarks include forward-looking statements that are based on the environment as seen by the 
+company as of the time of the call and, as such, are subject to various risks and uncertainties. They also contain references 
+to non-GAAP financial measures that the company believes provide useful information to investors. Refer to the 
+company’s earnings release on intc.com for the third-quarter 2023, most recent annual report on Form 10-K and other 
+filings with the SEC for more information on the risk factors that could cause actual results to differ materially from the 
+company’s expectations and additional information on non-GAAP financial measures, including reconciliations where 
+appropriate to the corresponding GAAP financial measures. 
+ 
+Oct. 26, 2023 – Pat Gelsinger, Intel chief executive officer (bio): 
+ 
+Before we begin, given our significant and now almost 50-year presence in Israel, we are deeply 
+saddened by the recent attacks and their impact on the region.  Our utmost priority is the safety 
+and welfare of our people in Israel and their families, but I also want to recognize the resilience of 
+our teams as they have kept our operations running and our factory expansion progressing. Our 
+thoughts are with all of those affected by the war, and I am praying for a swift return to peace. 
+ 
+Turning to our results, we delivered an outstanding Q3, beating expectations for the third 
+consecutive quarter. Revenue was above the high end of our guidance and EPS (earnings per 
+share) benefitted from both strong operating leverage and expense discipline. More important 
+than our stand-out financial performance, were the key operational milestones we achieved in the 
+quarter across process and products, Intel Foundry Services, and our strategy to bring AI 
+everywhere. Simply put, this quarter demonstrates the meaningful progress we have made 
+towards our IDM 2.0 transformation. 
+ 
+The foundation of our strategy is re-establishing transistor power and performance leadership. 
+While many thought our ambitions were a bit audacious when we began our five-nodes-in-four-
+years journey roughly two-and-a-half years ago, we have increasing line of sight towards achieving 
+our goal. Intel 7 is done with nearly 150 million units in aggregate of Alder Lake, Raptor Lake and 
+Sapphire Rapids already in the market. In addition, Emerald Rapids has achieved product release, 
+and began shipping this month.  
+ 
+In Q3, we began initial shipments of Meteor Lake on Intel 4, which we are now aggressively 
+ramping on the most productive fleet of EUV tools in the industry, providing us with a greater than 
+20% capital efficiency advantage compared to when EUV tools were first launched.  High-volume 
+EUV manufacturing is well underway in Oregon and, more recently, in Ireland. Our Fab 34 in 
+Ireland represents the first high-volume EUV production in Europe, underscoring our 
+commitment to establish geographically diverse and resilient supply. We are the only leading-
+edge semiconductor manufacturer at scale in every major region of the globe.  
+ 
+Our Intel 3 process is tracking to be manufacturing-ready by year-end, supporting our first two 
+Intel 3 products, Sierra Forest and Granite Rapids. In fact, our production stepping of Sierra 
+Forest is already out of fab, and what we expect to be the production stepping of Granite Rapids 
+has already taped-in and is in the fab now. 
+
+
+
+ 
+
+CEO/CFO Earnings Call Comments 
+
+ 
+We are particularly excited by our move into the angstrom era with Intel 20A and Intel 18A. Adding 
+to our accelerating adoption of EUV are two key new innovations, RibbonFET and PowerVia, 
+representing the first fundamental change to the transistor and process architecture since we 
+commercialized FinFET in 2012. I have been studying SEM diagrams for almost 40 years, 
+RibbonFET and PowerVia are true works of art, the most exquisite transistors ever created. 
+ 
+We expect to achieve manufacturing readiness on Intel 20A in the first half of 2024. Arrow Lake, 
+our lead product on 20A, is already running Windows and demonstrating excellent functionality. 
+Even more significant, we hit a critical milestone on Intel 18A with the 0.9 release of the PDK with 
+imminent availability to external customers. In simple terms, the invention phase of RibbonFET 
+and PowerVia is now complete and we are racing towards production-ready, industry-leading 
+process technology. Our first products on Intel 18A will go into fab on schedule in the first quarter 
+of 2024 with Clearwater Forest for servers, Panther Lake for client and, of course, a growing 
+number of IFS test chips. We expect to achieve manufacturing readiness for Intel 18A in the 
+second half of 2024, completing our incredible five-nodes-in-four-years journey on or ahead of 
+schedule. 
+ 
+While Intel 18A re-establishes transistor leadership, we are racing to increase that lead. We 
+announced at Innovation our plans to lead the industry in a move to glass substrate for density, 
+performance and unique optical capabilities. We also announced our plans to begin installation of 
+the world’s first High-NA EUV tool for commercial use by the end of the year to continue our 
+modernizations and infrastructure expansions of our Gordon Moore Park in Oregon, home of our 
+Technology Development team. Moore’s Law continues to be the foundational driver of 
+semiconductor technology and economics, which in turn fuels broader innovation in every 
+industry across the globe. We remain committed to be good stewards of Moore’s Law and drive 
+advancements until we have exhausted every element on the periodic table.  
+ 
+Importantly, our progress on process technology is now being well-validated by third parties. We 
+have made great progress with early IFS customers this quarter, which we expect to only 
+accelerate with the release of the 0.9 PDK for Intel 18A. A major customer committed to Intel 18A 
+and Intel 3, which includes a meaningful pre-payment that expedites and expands our capacity 
+corridor for this customer. The customer is seeing particularly good power, performance and area 
+efficiency in their design. This opportunity is very significant and highlights our full system 
+foundry capabilities in high-performance computing, big die designs, leadership performance and 
+area-efficient transistors, advanced packaging, and systems expertise.  
+ 
+In addition, we are extremely pleased to announce today that we have signed with two additional 
+18A customers.  Both are particularly focused in areas of high-performance compute and 
+benefitting from power performance per unit silicon area. We have also made substantial progress 
+with our next major customer and are expecting to conclude commercial contract negotiations 
+before year-end.  Finally, we were also very happy to expand our growing foundry ecosystem by 
+completing our strategic partnership with Synopsys in Q3, to include IP (intellectual property) for 
+Intel 3 and Intel 18A for both Intel internal and external foundry customers.  
+ 
+With the rise of AI and high-performance computing applications, our advanced packaging 
+business is proving to be yet another unique advantage. We have seen a surge of interest in our 
+advanced packaging from most leading AI chip companies. With capacity corridors quickly 
+available, this is proving to be a significant accelerant and on-ramp for Intel foundry customers. 
+During the quarter we were awarded two customer AI designs for our advanced packaging. And, 
+with an additional six customers in active negotiations, we expect several more awards by year-
+end. 
+
+
+
+ 
+
+CEO/CFO Earnings Call Comments 
+
+ 
+We have also established an important business relationship with Tower Semiconductor, utilizing 
+our manufacturing assets in New Mexico, along with Tower investing capital expenditures of 
+roughly $300 million for its use in this facility. This represents an important step in our foundry 
+strategy – improving cash flows by utilizing our manufacturing assets over a significantly longer 
+period of time.  
+ 
+Finally, we have submitted all four of our major project proposals in Arizona, New Mexico, Ohio 
+and Oregon, representing over $100 billion of U.S. manufacturing and research investments, to 
+the CHIPs Program Office and are working closely with them as they review these proposals. We 
+look forward to providing a deeper update on our foundry business during our planned IFS 
+industry event in Q1 of 2024.  
+ 
+We are on a mission to bring AI everywhere. We see the AI workload as a key driver of the $1 trillion 
+semiconductor TAM (total addressable market) by 2030. We are empowering the market to 
+seamlessly integrate and effectively run AI in all their applications. For the developer working with 
+multi-trillion parameter frontier models in the cloud, Gaudi® and our suite of AI accelerators 
+provides a powerful combination of performance, competitive MLPerf benchmarks and a very 
+cost-efficient TCO (total cost of ownership).  
+ 
+However, as the world moves towards more AI-integrated applications, there's a marked shift 
+towards local inferencing. It's a nod to both the necessity of data privacy and an answer to cloud-
+based inference costs. With AI-accelerated Xeon® for enterprise, Core Ultra™ launching the AI 
+PC generation and OpenVino enabling developers seamless and versatile support for a range of 
+client and edge silicon, we are bringing AI to where the data is being generated and used, rather 
+than forcing it into the cloud. Our expansive footprint, spanning cloud and enterprise servers to 
+volume clients and ubiquitous edge devices, positions us well to enable the AI continuum across 
+all our market segments. The AI continuum enables AI everywhere. 
+ 
+DCAI (Data Center and AI Group) exceeded our forecasts this quarter with server revenue up 
+modestly sequentially. We continue to see a strong ramp of our 4th Gen Intel® Xeon® processor, 
+with the world’s top-10 CSPs (cloud service providers) now in general availability and improving 
+strength from MNCs (multinational corporations). During the quarter, we shipped our 1 millionth 
+4th Gen Xeon unit and are on track to surpass 2 million units next month. 4th Gen Xeon includes 
+powerful accelerators, demonstrating best-in-class CPU performance for AI, security and 
+networking workloads.  
+ 
+Our AI-enhanced Xeons are primed for model inferencing enabling seamless infusion of AI intro 
+existing workloads. This was visible this quarter with over one-third of 4th Gen shipments directly 
+related to AI applications. We are the clear leader in AI CPU results, as seen in MLCommons 
+benchmarks today, and our roadmap provides significant further improvements, with Granite 
+Rapids expected to deliver an additional 2 to 3x AI performance on top of our industry leading 4th 
+Gen Xeon.  
+ 
+We continue to make excellent progress with our Xeon roadmap. Our 5th Gen Intel® Xeon® 
+processor, code-named Emerald Rapids, is in production and ramping to customers, and will 
+officially launch on Dec. 14 in New York City. Sierra Forest, our first E-core (Efficient Core) Xeon, 
+is on track for the first half of 2024, with customers well into their validation process. Sierra Forest 
+will feature up to 288 E-cores targeting next-generation cloud-native workloads, delivering even 
+more price performance and power efficiency for our customers. Granite Rapids, which will 
+shortly follow Sierra Forest, is also well into our validation cycle with customers. 
+ 
+
+
+
+ 
+
+CEO/CFO Earnings Call Comments 
+
+While the industry has seen some wallet-share shifts between CPU and accelerators over the last 
+several quarters, as well as some inventory burn in the server market, we see signs of 
+normalization as we enter Q4, driving modest sequential TAM growth. Across most customers, 
+we expect to exit the year at healthy inventory levels, and we see growth in compute cores 
+returning to more normal historical rates off a depressed 2023.  More importantly, our successful 
+roadmap execution is strengthening our product portfolio with Gen 4 and Gen 5 Xeon, Sierra 
+Forest and Granite Rapids positioning us well to win back share in the data center.  
+ 
+In addition, we expect to capture a growing portion of the accelerator market in 2024 with our 
+suite of AI accelerators, led by Gaudi, which is setting leadership benchmark results with third 
+parties like MLCommons and Hugging Face. We are pleased with the customer momentum we 
+are seeing from our accelerator portfolio and Gaudi, in particular, and we have nearly doubled our 
+pipeline over the last 90 days.  As we look out to 2024, like many others, we now are focused on 
+having enough available supply to meet our growing demand.  
+ 
+Dell is partnering with us to deliver Gaudi for cloud and enterprise customers, with its next-
+generation PowerEdge systems, featuring Xeon and Gaudi AI accelerators, to support AI 
+workloads ranging from large-scale training to inferencing at the edge. Together with Stability.ai, 
+we are building one of the world’s largest AI supercomputers entirely on 4th Gen Xeon processors 
+and 4,000 Intel® Gaudi®2 AI accelerators. Our Gaudi roadmap remains on track, with Gaudi®3 out 
+of the fab, now in packaging and expected to launch next year. And in 2025, Falcon Shores brings 
+our GPU and Gaudi capabilities into a single product.  
+ 
+Moving to the client: CCG (Client Computing Group) delivered another strong quarter, exceeding 
+expectations for the third consecutive quarter, driven by strength in commercial and consumer 
+gaming SKUs, where we are delivering leadership performance. As we expected, customers 
+completed their inventory burn in the first half of the year, driving solid sequential growth, which 
+we expect will continue into Q4. We expect full-year 2023 PC consumption to be in line with our 
+Q1 expectations of approximately 270 million units. In the near-term, we expect Windows 10 end-
+of-service to be a tailwind, and we remain positive on the long-term outlook for PC TAM returning 
+to plus-or-minus 300 million units.  
+ 
+Intel continues to be a pioneer in the industry, as we ushered in the era of the AI PC in Q3, when we 
+released the Intel® Core™ Ultra processor, code-named Meteor Lake. Built on Intel 4, the Intel 
+Core Ultra has been shipping to customers for several weeks and will officially launch on Dec. 14, 
+alongside our 5th Gen Xeon. The Ultra represents the first client chiplet design enabled by 
+Foveros advanced 3D packaging technology, delivering improved power efficiency and graphics 
+performance. It is also the first Intel client processor to feature our integrated neural processing 
+unit, or NPU, that enables dedicated low-power compute for AI workloads. Next year, we will 
+deliver Arrow Lake as well as Lunar Lake, which offers our next-gen NPU, ultra-low power mobility 
+and breakthrough performance per watt. Panther Lake, our 2025 client offering, heads into the 
+fab in the first quarter of 2024 on Intel 18A. 
+ 
+The arrival of the AI PC represents an inflection point in the PC industry not seen since we first 
+introduced Centrino in 2003. Centrino was so successful because of our time-to-market 
+advantage, our embrace of an open ecosystem, strong OEM (original equipment manufacturers) 
+partnerships, our performant silicon and our developer scale. Not only are these same advantages 
+in place today, they are even stronger as we enter the age of the AI PC. We are catalyzing this 
+moment with our AI PC Acceleration program with over 100 ISVs (independent software 
+vendors) already participating, providing access to Intel’s deep bench of engineering talent for 
+targeted software optimization, core development tools and go-to-market opportunities. We are 
+
+
+
+ 
+
+CEO/CFO Earnings Call Comments 
+
+encouraged and motivated by our partners and competitors who see the tremendous growth 
+potential of the PC market.  
+ 
+NEX (Network and Edge Group) is also seeing early signs of the benefits from growing AI use 
+cases. Our FNIC (fiber channel network interface controller) and IPU (infrastructure processing 
+unit) businesses are well suited to support the high I/O bandwidth required by AI workloads in the 
+data center, with growth expected to accelerate for both in 2024.  Additionally at the edge, as part 
+of Intel’s focus on every aspect of the AI continuum, NEX launched OpenVINO 2023.1, the latest 
+version of the AI inferencing and deployment runtime of choice for developers on client and edge 
+platforms – with ai.io and Fit:match demonstrating how they use OpenVINO to accelerate their 
+applications at our Innovation conference. We have leadership developer-software toolchains that 
+have seen a doubling of developer engagement this year. While NEX entered their inventory 
+correction after client and DCAI, Q3 results beat our internal forecasts and grew sequentially. We 
+see continued signs of stabilization heading into Q4. 
+ 
+Finally, our Smart Capital strategy underpins our relentless drive for efficiency and our 
+commitment to be great allocators of our owner’s capital, while consistently looking for innovative 
+ways to unlock value for all our stakeholders. We remain on track to reducing costs by $3 billion in 
+2023, and we continue to see significant incremental opportunities for operational improvement, 
+as we execute on our internal foundry model. In addition, in Q3, we made the decision to divest the 
+pluggable module portion of our silicon photonics business, allowing us to focus on the higher-
+value component business and optical I/O solutions to enable AI infrastructure scaling.  This 
+marks the 10th business we have exited in the last two-and-a-half years, generating $1.8 billion in 
+annual savings and a testament to our efforts to optimize our portfolio and drive long-term value 
+creation.  
+ 
+Mobileye’s solid Q3 and Q4 outlook continue to underscore the benefits of increased autonomy 
+afforded by our initial public offering last year.  In addition, we added TSMC as a minority investor 
+in our IMS Nanofabrication business in Q3, and earlier this month we announced our plans to 
+operate PSG (Programmable Solutions Group) as a standalone business beginning Jan. 1. Similar 
+to MBLY and IMS, this decision gives PSG the mandate, focus and resources to better capitalize 
+on their growth opportunities. We plan to report PSG results as a stand-alone segment in Q1, to 
+bring in private investors in 2024 and to create a path to an initial public offering over the next two 
+to three years.          
+ 
+In summary, we continue to deliver tangible progress two-and-a-half years into our transformation 
+journey. We are on track with five nodes in four years. We are hitting or beating all our product 
+roadmap milestones. We are establishing ourselves as a global at-scale system foundry for both 
+wafer processing and advanced packaging. We are unlocking new growth opportunities fueled by 
+AI. And we are driving financial discipline and operational efficiencies as we continue to unlock 
+value for our shareholders. While we are encouraged by our progress to date, we know we have 
+much more work in front of us as we continue to relentlessly drive forward with our strategy, 
+maintain our execution momentum and deliver our commitments to our customers. I’d like to 
+personally thank the Intel family for all their efforts.  
+ 
+Dave Zinsner, Intel chief financial officer (bio): 
+ 
+We delivered another strong quarter financially on top of outstanding execution on our product 
+and process roadmaps as we continue to drive our IDM2.0 transformation. We beat our guidance 
+across revenue, gross margin and EPS. While we continue to monitor economic indicators and 
+geo-political risks, we are pleased with the momentum and health of our business and will 
+
+
+
+ 
+
+CEO/CFO Earnings Call Comments 
+
+continue to focus on prioritizing our investments, prudently and aggressively managing near-term 
+expenses, and driving fundamental improvements to our cost structure longer term.   
+ 
+Third quarter revenue was $14.2 billion, up 9% sequentially and $750 million above the midpoint 
+of our guidance.  Revenue exceeded our expectations across all major lines of business. Gross 
+margin was 45.8%, 280 basis points better than our guidance, driven by higher revenue and ASPs 
+(average selling prices) and better sell-through of previously reserved inventory.   
+ 
+EPS (earnings per share) for the quarter was $0.41, beating guidance by $0.21, as our revenue 
+strength, improving gross margins and disciplined OpEx management resulted in sequential EPS 
+growth of $0.28.  
+ 
+Q3 operating cash flow was $5.8 billion, up $3 billion sequentially. Net inventory was down $500 
+million, or seven days in the quarter. We also significantly improved the linearity of our shipments, 
+which brought DSO (days sales outstanding) down by five days. In total, our working capital 
+improvement initiatives have yielded more than $2 billion of cash year to date. 
+ 
+Net CapEx (capital expenditures) was $4.9 billion, resulting in positive adjusted free cash flow of 
+approximately $950 million, and we paid dividends of a half-billion dollars in the quarter.   
+ 
+In Q3 we announced the sale of 10% of our IMS Nanofabrication business to TSMC, following the 
+investment from Bain Capital in June. When combined with the Mobileye IPO, these transactions 
+have unlocked more than $30 billion of value. Earlier this month, we signaled our intent to pursue 
+private investment and ultimately an IPO for our PSG business, as we continue to pursue 
+opportunities to increase value for our shareholders.  
+ 
+Moving to third-quarter business unit results. CCG delivered revenue of $7.9 billion, up 16% 
+sequentially and ahead of our expectations for the third consecutive quarter. Customer inventory 
+levels are healthy, and the market remains on track to our January consumption TAM signal of 
+roughly 270 million units for 2023. CCG’s operating profit doubled sequentially to $2.1 billion on 
+higher revenue, sell-through of reserved inventory and stronger ASPs driven by strength in our 
+commercial and gaming products in the quarter.  
+ 
+DCAI revenue was $3.8 billion, ahead of our internal forecast. Despite continued unit TAM 
+softness, the Xeon business was up sequentially, with MNC customers showing a better-than-
+seasonal recovery in the quarter. Favorable customer mix, along with strong adoption of newer 
+products with higher core density, led to record Xeon ASPs in Q3. Despite sequential revenue 
+decline, DCAI returned to profitability and contributed operating profit of $71 million, improving 
+sequentially on better ASPs, reduced factory underload charges and continued spending 
+discipline.    
+ 
+Within DCAI, revenue for the Programmable Solutions Group declined mid-teens percent 
+sequentially. As we discussed earlier this month, after a period of strong growth and tight supply, 
+the FPGA business is entering a period of inventory burn. We expect PSG to decline in Q4 and be 
+depressed for the next few quarters, as customers work through inventory, before returning to a 
+more normalized run rate and growth.  
+ 
+NEX revenue was $1.5 billion, up 6% sequentially. Edge markets showed signs of recovery in Q3, 
+leading NEX revenue to exceed our expectations. Network and telco markets continue to work 
+through elevated inventory and weak demand, which we expect to persist through the end of the 
+year. NEX also returned to profitability in Q3 with operating profit of $17 million, up $200 million 
+sequentially, on stronger revenue and reduced operating expenses.   
+
+
+
+ 
+
+CEO/CFO Earnings Call Comments 
+
+ 
+Intel Foundry Services revenue was $311 million, growing 4x year over year and 34% sequentially 
+on increased packaging revenue and higher sales of IMS tools. IFS operating loss was $86 million, 
+as ramping factory and operating expenses offset stronger revenue in the period.   
+ 
+Mobileye continues to perform well.  Q3 revenue was $530 million, up 18% year over year and 17% 
+sequentially, with operating profit of $170 million on a consolidated basis, up 32% sequentially. 
+This morning, Mobileye increased their fiscal-year 2023 outlook for adjusted operating income by 
+7% at the midpoint.  
+ 
+Q3 represented another outstanding quarter of cross-company spending discipline and focused 
+portfolio management, with operating expenses down 15% year over year.  While we are on track 
+to achieve $3 billion of total spending reductions in 2023, we expect sequentially higher OpEx 
+(operating expenses) in Q4 due to seasonal marketing activities, higher profit dependent 
+compensation and the end of some temporary austerity measures taken earlier in the year. We 
+also had a one-time credit in Q3 associated with an asset sale, which will impact the sequential 
+comparison in Q4. 
+ 
+Now turning to Q4 guidance. We expect fourth quarter revenue of $14.6 billion to $15.6 billion, 
+delivering on our January commitment to grow revenue sequentially throughout 2023.  In the 
+client business, we are encouraged by the return of historical purchasing cycles, as our channel 
+checks, partner feedback and ASPs all point to healthy inventory levels and growing demand. We 
+expect moderate sequential growth from DCAI, with Xeon strength more than offsetting a decline 
+in PSG, and continued recovery in edge markets roughly offsetting persistent network weakness.   
+ 
+At the revenue midpoint of $15.1 billion, we expect gross margin to flow through at approximately 
+60% of revenue growth, resulting in Q4 gross margin of approximately 46.5% with a tax rate of 
+13% and EPS of $0.44. 
+We continue to operate under our Smart Capital framework. In Q3 we received a capital grant 
+from the State of Ohio and our first foundry pre-pay.  In addition, we continue to work with the U.S. 
+CHIPs office on their review of our four U.S. applications, and we continue to work with Germany, 
+Poland and the European Commission on our planned expansions in Europe. There are no 
+changes to our prior forecast of mid-30s percent net capital intensity across 2023 and 2024 in 
+aggregate. Capital offsets will trend towards the higher end of our 20% to 30% range in that 
+timeframe, though we do expect the vast majority of those offsets to land in 2024.   
+ 
+In closing, Q3 was Intel’s strongest quarter since we began our transformation. We achieved 
+significant milestones toward regaining process leadership on Intel 18A, delivered Meteor Lake 
+and Emerald Rapids on time, secured multiple wafer and advanced packaging foundry customers, 
+and delivered another quarter of financial results that exceeded our expectations on both the top 
+and bottom lines. We will continue to make significant investments as we execute the IDM2.0 
+strategy, and we remain confident and committed to our long-term financial targets. We are 
+participating in a large and growing semiconductor TAM, our foundry and AI assets are showing 
+great momentum in the market, we are steadily closing structural cost gaps, and we continue to 
+make progress toward delivering the financial returns that we, and our owners, expect.  
+ 
+Closing – Pat Gelsinger, Intel chief executive officer:  
+ 
+I wanted to reiterate that our thoughts continue to be with our resilient Intel team in Israel and with 
+everyone in the region impacted by recent events. I also want to thank everyone who joined us 
+today. We always appreciate the opportunity to update you on our progress and to answer your 
+questions. We are excited about the momentum we are seeing across our business and, 
+
+
+
+ 
+
+CEO/CFO Earnings Call Comments 
+
+especially, the strong confirmation our foundry strategy received this quarter from our growing 
+external customer base.  
+ 
+We look forward to seeing many of you in New York in December as we celebrate the launch of 
+both the Emerald Rapids and Meteor Lake families of processors, and hope all of you plan to join 
+us in Q1 at our IFS Day.  
+
+About Intel 
+Intel (Nasdaq: INTC) is an industry leader, creating world-changing technology that enables global progress and enriches 
+lives. Inspired by Moore’s Law, we continuously work to advance the design and manufacturing of semiconductors to help 
+address our customers’ greatest challenges. By embedding intelligence in the cloud, network, edge and every kind of 
+computing device, we unleash the potential of data to transform business and society for the better. To learn more about 
+Intel’s innovations, go to newsroom.intel.com and intel.com. 
+© Intel Corporation. Intel, the Intel logo, and other Intel marks are trademarks of Intel Corporation or its subsidiaries.  Other 
+names and brands may be claimed as the property of others.

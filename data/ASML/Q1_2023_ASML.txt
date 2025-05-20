@@ -1,0 +1,388 @@
+Operator
+
+Good day, and thank you for standing by. Welcome to the ASML 2023 First Quarter Financial Results Conference Call on April 19, 2023. [Operator Instructions] Please be advised that today’s conference is being recorded.
+
+I would now like to hand the conference call over to Mr. Skip Miller. Please go ahead.
+
+Skip Miller — Head of Investor Relations Worldwide
+
+Thank you, operator. Welcome everyone. This is Skip Miller, Vice President of Investor Relations at ASML. Joining me today on the call are ASML’s CEO, Peter Wennink; and our CFO, Roger Dassen.
+
+The subject of today’s call is ASML’s 2023 first quarter results. The length of this call will be 60 minutes and questions will be taken in the order that they are received. This call is also being broadcast live over the Internet at asml.com. A transcript of management’s opening remarks and a replay of the call will be available on our website shortly following the conclusion of this call.
+
+Before we begin, I’d like to caution listeners that comments made by management during this conference call will include forward-looking statements within the meaning of the Federal Securities Laws. These forward-looking statements involve material risks and uncertainties. For a discussion of risk factors, I encourage you to review the Safe Harbor statement contained in today’s press release and presentation found on our website at asml.com and in ASML’s Annual Report on Form 20 F and other documents as filed with the Securities and Exchange Commission.
+
+With that, I’d like to turn the call over to Peter Wennink for a brief introduction.
+
+Peter Wennink — President and Chief Executive Officer
+
+Thank you. Skip. Welcome everyone, and thank you for joining us for our first quarter 2023 results conference call. Before we begin the Q&A session, Roger and I would like to provide an overview and some commentary on the first quarter 2023, as well as provide our view of the coming quarters, and Roger will start with a review of our first quarter 2023 financial performance with some added comments on our short-term outlook, and I will complete the introduction with some additional comments on the current business environment and on our future business outlook. Roger, if you want?
+
+Roger Dassen — Executive Vice President and Chief Financial Officer
+
+Thank you, Peter, and welcome everyone. I will first review the first quarter financial accomplishments and then provide guidance on the second quarter of 2023.
+
+Let me start with our first quarter accomplishments. Net sales came in at EUR6.7 billion, which was above our guidance due to higher-than-expected EUV and deep UV revenue from faster installation and earlier acceptance of systems in the quarter. We shipped nine EUV systems and recognized EUR2.9 billion revenue from 17 systems this quarter.
+
+Net system sales were at EUR5.3 billion, which was again driven by Logic at 70% with the remaining 30% coming from Memory. Installed Base Management sales for the quarter came in at EUR1.4 billion, which was lower than guidance due to less upgrade revenue. Gross margin for the quarter came in at 50.6%, which is above our guidance, primarily driven by additional EUV and deep UV emerging revenue in the quarter, which more than outweighed the effect of lower-than-expected upgrade business.
+
+On operating expenses, R&D expenses came in at EUR948 million, which was below our guidance, primarily due to exchange rate effects and some one-offs. SG&A expenses were EUR260 million, also lowered our guidance primarily due to lower IT spending and timing of headcount additions. Net income in Q1 was EUR2 billion, representing 29% of net sales and resulting in an EPS of EUR4.96.
+
+Turning to the balance sheet, we ended the first quarter with cash, cash equivalents and short-term investments at a level of EUR6.7 billion. Moving to the order book, Q1 net systems bookings came in at EUR3.8 billion, which is made up of EUR1.6 billion for EUV and EUR2.2 billion for non-EUV bookings. These values also include inflation corrections. Net systems bookings in the quarter were driven by Logic, with 79% of the bookings, while Memory accounted for the remaining 21%. Bookings are lower than in previous quarters, which is not unexpected given the current environment, particularly taken into account our backlog at the end of Q1 of around EUR39 billion, which is almost 2 times this years system sales.
+
+With that, I would like to turn to our expectations for the second quarter of 2023. We expect Q2 net sales to be between EUR6.5 billion and EUR7 billion. We expect our Q2 Installed Base Management sales to be around EUR1.3 billion. Gross margin for Q2 is expected to be 50% and 51%. The expected R&D expenses for Q2 are around EUR990 million and SG&A is expected to be around EUR275 million. The higher R&D guidance is primarily due to investments in support of our continuous innovation as we further extend our product roadmaps and improve our installed base performance. Higher SG&A is mainly due to additional headcount and associated infrastructure supports.
+
+Our estimated 2023 annualized effective tax rate is expected to be between 15% and 16%. In Q1, ASML paid a quarterly interim dividend of EUR1.37 per ordinary share. Recognizing the three interim dividends of EUR1.37 per ordinary share each paid in 2022 and 2023, this leads to a final dividend proposal to the General Meeting of EUR1.69 per ordinary share. This will result in a total dividend for the year 2022 of EUR5.80 per ordinary share, which is a 5.5% increase compared to 2021. In Q1 2023, we purchased around 0.7 million shares for a total amount of around EUR400 million. And the current uncertain market environment, it is prudent that we continue to manage higher levels of cash as the entire value chain will likely create some pressure on our free cash flow.
+
+With that, I would like to turn the call back over to Peter.
+
+Peter Wennink — President and Chief Executive Officer
+
+Thank you, Roger. As Roger has highlighted, we had a good first quarter, above our guidance in a very dynamic environment. And there continues to be a lot of uncertainty in the market due to a number of global macro concerns around inflation, rising interest rates, recession, and geopolitical the environment, including export controls. Customers continue to see demand weakness in consumer-driven end-markets, causing the industry to actively reduce inventory and lower the utilization of the production base, while demand in other end-markets such as automotive and industrial remains relatively strong.
+
+Specifically, Memory customers are more aggressively lowering capex and are limiting wafer output to reduce inventory to more healthy levels. Logic customers are also moderating wafer output for some market segments, while demand continues to be strong in other markets, especially in markets requiring more mature nodes. Despite this, both Logic and Memory customers are still following the technology roadmaps and continue making strategic technology investments. As a result of this market dynamic, we do see customers making adjustments to demand timing relative to last quarter. However, we also see other customers more than willing to absorb this demand change, particularly in deep UV. For example, Chinese domestic customers, focusing on mid critical and mature applications, which make-up over 20% of our backlog at the end of Q1 are now expected to grow to a similar allocation of our system revenue this year.
+
+After taking these demand adjustments over the quarter into account, our systems demand still exceeds our capacity for this year, albeit by a smaller margin in the last quarter and as referenced during 2022, the demand for deep UV was 50% higher than our build capacity, while it is gradually reduced from 30% at the end of Q4 2022 to 20% at the end of Q1 2023.
+
+As Roger mentioned, we saw orders moderate in Q1 after several quarters of very strong bookings, a moderation in the rate at which customers are adding orders is to be expected in the current environment, especially considering the long period in which our backlog can cover shipments, which extends well beyond our normal order lead times.
+
+With regard to our total system capacity, we are still planning to ship around 60 EUV systems and around 375 deep UV systems in 2023, with around 25% of the deep UV systems being immersion. We currently see no change in our full year outlook as provided last quarter. As a reminder, we expect EUV business growth to be around 40% over 2022 and non-EUV business growth of around 30%. For the Installed Base business, we still expect year-over-year revenue growth of around 5%. And in summary, based our view today, we continue to expect a strong — a year of strong growth with a net sales increase of over 25% and a slight improvement in gross margin.
+
+To summarize, our short-to-medium term business outlook is still very strong, supported by backlog that represents almost two years of two shipments, continuously pushing our output capacity to the maximum and further underpinning our plan to expand our capacity. On the geopolitical front as it relates to export controls, we’re still waiting for the Dutch government to publish further details on the export control restrictions. These new export controls focus on advanced chip manufacturing technology. Due to this upcoming regulations, ASML will need to apply for export licenses for shipments of the most advanced immersion deep UV systems. And as we’ve said earlier, we interpret most advanced to pertain to TWINSCAN NXT:2000i and subsequent immersion systems. And it will take some time for these controls to be translated into legislation and take effect.
+
+Based on the announcement last month, our expectation of the Dutch governments licensing policy, the current market developments and the way we model our longer-term scenarios, we do not expect a material effect on our 2023 financial outlook or on our longer-term scenarios as announced during our Investor Day in November last year.
+
+And despite the clear short-term cyclical concerns, the longer-term global megatrends we talked about at Investor Day are broadening the application space and fueling demand for advanced and mature nodes. Secular growth drivers in semiconductor end-markets and increasing lithography intensity on future technology nodes are driving demand for our products and services.
+
+In summary, while there is clear uncertainty in the current environment, our customers’ demand for our products continues to exceed supply. We had a good start to the year and based on our view today, we continue to expect another year of strong growth. ASML and its supply chain partners continue to work on the capacity ramp in support of our customers’ demand and we remain confident in our long-term growth opportunity.
+
+With that, we’ll e happy to take your questions.
+
+Skip Miller — Head of Investor Relations Worldwide
+
+Thank you, Roger and Peter. The operator will instruct you momentarily on the protocol for the Q&A session. Beforehand, I would like to ask that you kindly limit yourself to one question with one short follow-up if necessary. This will allow us to get to as many callers as possible. Now, operator, could we have your final instructions and then the first question, please.
+
+Questions and Answers:
+Operator
+
+Thank you. [Operator Instructions] We will now take your first question. One moment, please. And your first question comes from the line of Krish Sankar from TD Cowen. Please go ahead ahead your line is open.
+
+Krish Sankar — Cowen — Analyst
+
+Yeah, hi. Thanks for taking my question. First on, Roger. I understand your backlog is still pretty healthy, but the order run rate is definitely slowing. So kind of curious how to think about calendar ’24 relative ’23. If the order run rate continues to decline, is there a risk that calendar ’24 could be flat-to-down year for you? And then I had a follow-up for Peter.
+
+Peter Wennink — President and Chief Executive Officer
+
+Well, let me reverse it. I will answer that question and perhaps Roger can answer the second one. Yeah. I think, you asked a question on 2024. I think we already mentioned it. The backlog is particularly strong, which of course is the result of very strong order intake over the last couple of quarters. Now — and when we look at 2024 and we have our long-term discussions with our customers, the demand for 2024 clearly shows an increase in terms of tool shipments and therefore sales as compared to 2023. Now, a significant part of that is already booked. And you could argue that the back-half of the second half of next year still needs to be booked. And I’m pretty confident that, that will come in the course of this year.
+
+Now — and although there are many uncertainties that we’re currently seeing, as I do — rate of inflation, interest rates, the geopolitical situation, we believe we are not looking at a massive recession. While our customers, of course, are dealing with the current circumstances by very diligently reducing inventory, adjusting their utilization rates and still very much planning for the demand for next year because they are building fabs. And those fabs are real and have to take tools [Phonetic]
+
+Now, not everything is booked yet for the 2024 demand. But in our discussions, as I said before, we very clearly see an increase of the number of tools that are needed because of the technology transitions and I also believe the confidence our customers have, in them very diligently working off inventory against a macroeconomic situation that doesn’t look like a massive recession. That gives us the confidence with the fact that these new fabs are opening that yes, 2024 will be an up year as compared to 2023, and yes, we have not booked all those orders. And yes, I strongly believe that those orders will come in in the course of this year. But if you ask me an exact date, like June 12, 2023, I cannot give you this, but it will happen. So this is the way that we look at the world.
+
+Krish Sankar — Cowen — Analyst
+
+Got it, very helpful, Peter. And I definitely won’t ask for a specific date. And then as a follow-up for either you or Roger. There has been — clearly the cost of EUV is pretty high and there have been some concerns that EUV intensity could slow down as you go beyond 3 nanometer. Already some customers building a low-cost 3 nanometer version. So I’m kind of curious how to think about EUV intensity as you go from 3 to 2 nanometer and beyond, do you feel comfortable EUV layers are going to increase or do you think it kind of stagnates or saturates? Thank you.
+
+Peter Wennink — President and Chief Executive Officer
+
+Well, yeah, okay. I’ll answer that also. I think the — it’s also shown in our — I think I can best refer to because you’re talking about long-term in our roadmap questions. I think we tried to answer that during our Capital Markets Day. I think it was very clear in our Capital Markets Day, we we gave you an overview of the litho intensity going up. Yes, that is also driven by EUV. It is driven by EUV for two reasons.
+
+One, I think we will see throughout the rest of this decade a significant increase in EUV productivity, but also in the shrink by the introduction of High NA. So it’s always going to be a culmination. And what we’re seeing today when we look at at the chip designs, we see more EUV layers, not less. So that means that we see a EUV intensity going up and that’s just simply based on — on the very intense and deep discussions that we have with our customers, R&D people. And that’s also the basis for our Capital Markets presentation that we gave you last year, and that still stands. What we said at that time is still relevant today.
+
+Krish Sankar — Cowen — Analyst
+
+Got it. Very clear, Peter. Thank you very much.
+
+Operator
+
+Thank you. We will now go to our next question. And your next question comes from the line of Francois Bouvignies from UBS. Please go ahead, your line is open.
+
+Francois-Xavier Bouvignies — UBS — Analyst
+
+Hi. Thank you very much. So I have two quick ones. So the first one is on EUV demand, specifically Peter. I mean, you mentioned in the video actually Roger some push-outs, but you reiterated the guidance for the full year, so obviously your strong backlog is supporting your 2023 revenues and you said it’s way more than one full year revenues, your backlog. But as net orders are weakening, I mean how should we interpret the trend in EUV demand for 2024 as the backlog is normalizing? I mean do you still expect EUV shipments to be up in 2024, especially given the visibility of two years you have for EUV specifically? Just trying to reconcile your push-outs comments and EUV demand for 2024 given the long visibility.
+
+Peter Wennink — President and Chief Executive Officer
+
+Yes. When we talk about a demand push out, you need to understand and I think we said it before many times during our quarterly calls that the demand was far bigger than our build capacity. So we can talk about a demand push out without affecting our build capacity, because to build capacity is lower than the demand. So this is what is actually happening and some of that demand that people wanted in 2023, they moved back to 2024.
+
+So when we look at the year 2024 and we look at the demand picture and I just refer to the answer I gave on the first question, the demand picture looks at an increase of our shipments next year, which is true for the company. It’s also true for EUV. So, and I gave you the reasons in the answer to the — to the first question. So, — which is true for EUV is even more true for deep UV. Yeah, we have a significant over demand in 2022, but now also in 2023, which is to a lesser extent that shrunk. But it’s the same situation. You can have demand changes, which do not lead to output changes because the output capacity is so much lower. I think that is what you need to keep in mind. And I can only refer back to what I said and the answer to the first question. We do pencil in the customer demand based on their expansion plans and based on what they believe their production capacity needs next year, which is a function of how they think about the duration of this current downturn.
+
+Now, of course, if our customers start think about the duration that is extending in years, that would be completely different, but they don’t. They all think about — you basically work diligently our inventory levels, we reduced the utilization to get a balancing supply-and-demand in the chip sector and that’s what they’re doing. And that just points to a shorter-term situation than a longer-term situation, which means that they keep the 2024 demand on us as is. Now part of it still needs to be booked, like I said, and it’s particularly what I would call the back half of the second half of next year those orders we need to book, but I’m pretty sure that we will book them and both of deep UV and EUV, we’re both planning higher unit numbers.
+
+Francois-Xavier Bouvignies — UBS — Analyst
+
+All right. Thank you, Peter. And my follow-up is on China. I mean, you mentioned it’s 20% of your backlog. So it would imply 45% of the deep UV backlog is from China if my math is correct, which would imply a significant share from China deep UV. How should we think about the sustainability and particularly the risk of pulling due to the dynamics, if you see what I mean, beyond 2023?
+
+Peter Wennink — President and Chief Executive Officer
+
+Yeah. I think it’s not a surprise and we’ve said it before that the Chinese market is a market for mid critical and mature semiconductor, so mid critical and mature lithography systems. That’s exactly what we’re talking about. It’s all those semiconductor share because there is a significant — and I think your math is about right. And that means that for our mid critical and mature semiconductors which are outside the realm of the export controls because that’s on advanced immersion, yeah. The demand for those semiconductors are significant. In the discussions I’ve had with one of the Chinese end-customers which is not a semiconductor maker, it’s a product maker. As a matter of fact, they make electrical vehicles.
+
+If you think about the increase of number of electrical vehicles that will be produced in three years — three to four years from now, you need multiple 28 and 45 nanometer fabs, multiple, and it’s more than a handful. Those fabs are not there. They need to be built, yeah. So I think this is something people underestimate how significant the demand in the mid critical and the mature semiconductor space is, and it will just grow double-digit, whether it’s automotive, whether it’s the energy transition, whether it’s just the entire industrial robotics area, whereas the — whether those are the sensors that we — that we actually need as an integral component of the AI systems. This is where the mid critical and the mature semiconductor space is very important and needs to grow. And this is where China is very strong. And this is why, yeah, that could be 40% to 50% of our deep UV backlog. That’s what it is.
+
+Francois-Xavier Bouvignies — UBS — Analyst
+
+Great. Thank you very much, Peter.
+
+Peter Wennink — President and Chief Executive Officer
+
+Thanks.
+
+Operator
+
+Thank you. We will now go to our next question. And your next question comes from the line of Amit Harchandani from Citi. Please go ahead, your line is open.
+
+Amit Harchandani — Citigroup — Analyst
+
+Thank you. Hello, everyone. Amit Harchandani from Citi. Two questions if I may. My first question is with regards to the Logic end-market. You’ve talked about some moderation there. Could you give us a sense for, if anything that has changed in terms of discussions with customers. You talk about them sticking to their tech roadmaps. But do you see that as being uniform across customers? Do you see any variations? So, just a sense of if you’ve seen anything change with respect to the Logic end-market?
+
+And my second question, it’s with regards to capital allocation. I believe in the annual report, towards the end-of-the annual report you’ve talked about your capex for this year being potentially EUR2.4 billion, which would imply a capital intensity or level that’s higher than in the past, certainly highest in the last 10, 15 years that I can remember. Could you give us a sense for whether that’s some one-off? And how should we think about capital intensity and broader capital allocation this year and beyond? Thank you.
+
+Peter Wennink — President and Chief Executive Officer
+
+Roger will take the second question. On the first question, what do we see in change of in the Logic markets, what do we see in terms of change in roadmaps. And I would say the least change we see in the advanced roadmaps. I mean, it’s very clear that whether it’s the 3 or 2 or the sub 2 nanometer types, those are very clearly defined with only very few players. There’s only two or three players that have — actually three players that are actually looking into this. And I don’t think those roadmaps are changing. I think they are pretty much the push that we get from the customers in that space is to keep our promises in terms of the shipment of the next-generation litho to meet their roadmap introduction requirements. I don’t see that’s a major change there.
+
+But I do see a change and it refers back to the previous question. I do see a change in the roadmaps for a mid critical and a mature systems. This is — this is where I see customers that are in that space moving from mature to mid critical — from low mid critical to high mid critical. There you clearly see a acceleration of roadmaps. So its more in the mature space — the mature and the mid critical space that it is in the advanced space. And that is also driven by the things I just said is the whole EV transition is going to require a significant step-up in, let’s say 20, 28 and 45 nanometer capability. And this is where there is as a big opportunity. So you’ll also see roadmaps addressing that opportunity and that’s what we see in the Logic space is the biggest change.
+
+Roger Dassen — Executive Vice President and Chief Financial Officer
+
+Amit, with regard to your second question, the — indeed the EUR2.4 billion number that you referred to for the full year, that’s very much in line with about 0.6 that you would see for this quarter. So that’s very much in line. What is in there? Well, obviously what was in there. First and foremost is two things. It’s the preparation for High NA and it’s the — it’s the it’s the ongoing activities that increase our capacity to 90 and the 600.
+
+On High NA, part of what is in there is prototypes that we’re building. So we’re building — we’re building prototypes for High NA. At a certain point in time those prototypes will obviously also find their way — or positive those prototypes will find their way into the — into the market, but at a certain point in time there will be a bit of a reversal in there. So that’s part of the fairly high number that you see in there. But other than that, there is a lot of construction work going on around the globe in order to accommodate the capacity expansion that we’ve — that we’ve talked about.
+
+If you ask about what are you seeing in terms of the longer — longer-term, I think it is prudent to expect that for the years through 2025, I think it’s prudent to expect something between, I would say EUR1.5 billion, EUR2 billion in that neighborhood, I think it is prudent to assume that we’re going to see these — these levels of capex because those will be the years where we continue to build the capacity that we — that we have talked about before.
+
+Amit Harchandani — Citigroup — Analyst
+
+Thank you, gentlemen.
+
+Operator
+
+Thank you. We will now go to our next question. And the next question comes from the line of Aleksander Peterc from Societe Generale. Please go ahead, your line is open.
+
+Aleksander Peterc — Societe Generale — Analyst
+
+Yes, good afternoon, and thanks for taking my question. My first question would be more short-term, Just on the systems mix into the second quarter versus the first-quarter we had a quite a high-level of EUV in the first-quarter in terms of recognition, that is specifically. Do you expect a similar mix to prevail in the second quarter and then maybe reverse to more deep UV in the second half? Or how should we think about? And I have a quick follow-up as well. Thank you.
+
+Peter Wennink — President and Chief Executive Officer
+
+I think you’re right. I think EUV was was slightly over represented in the first — n the first-quarter. So, we’ve always talked about around 60 shipments for the year. So 17 is relatively higher than what you expect. So I think it is — it is realistic to assume that in the three quarters come, that — that number will be slightly lower than the 17 that we have in revenue for Q1.
+
+Aleksander Peterc — Societe Generale — Analyst
+
+Thanks. And then the — the follow-up would be just on your higher gross cash requirements in the current environment or is that perhaps due to higher working capital requirements? Could you maybe quantify what is the level of gross cash you will be comfortable in the current environment? For the time being that I assume is higher than the EUR2.5 billion you previously mentioned. Or in other words, if you could put a number on the high working capital is quite given the optimization of cash flow across the chain? Thanks.
+
+Peter Wennink — President and Chief Executive Officer
+
+Yeah, I mentioned two dynamics. One dynamic I mentioned is that — that everyone in the entire value chain is managing their cash flow levels and obviously, that means that also our free cash flow might be — might be a little bit under pressure. So that’s one dynamic. And then indeed the second dynamic that we talked about is that we — that we believe it is appropriate in the current environment to sustain or to maintain higher levels of cash.
+
+What do I think is realistic? I think if you look at the cash level at the end of this quarter, if you look at the cash level that we had at the end of the previous quarter, I would say that those cash levels are definitely sufficient to weather any uncertainties that — that might be — that might be there. So I think those cash levels I think are more than — more than sufficient to have the — to have the flexibility that we’re looking for, more than sufficient.
+
+Aleksander Peterc — Societe Generale — Analyst
+
+Thank you.
+
+Operator
+
+Thank you. We will now go to the next question. And your next question comes from the line of Alexander Duval from Goldman Sachs. Please go ahead, your line is open.
+
+Alexander Duval — Goldman Sachs — Analyst
+
+Yes/Hi, everyone. Thanks so much for the question. I think you talked about mid single-digit growth in services revenue this year and that’s obviously understandable given hard comps last year, but I wondered if you could give your thoughts on the extent to which there could be upside given low machine utilization that you referenced and that typically in the past from Memory has led to higher upgrade activity?
+
+And secondly, a question we received from investors is just on average selling prices. You obviously talked about some weakening semi fundamentals which you’ve characterized as being shorter-term in nature, but just curious to what degree that could limit your ability to increase ASPs and offset some of those cost pressures you’ve talked about in recent quarters? Many thanks.
+
+Peter Wennink — President and Chief Executive Officer
+
+Yes, the — the upside on service. It’s good point. I mean, what should generally see is that while the — if there is an upturn, of course, we don’t get the sufficient time to take down the machine and then do the upgrade and that our software upgrades are of course, easier, but any prolonged down of a machine in an upturn is a disaster for the customer so they don’t want to do that. So you’re absolutely right. I mean a downturn, we do have that because the utilization goes down.
+
+Well, in the beginning of such a downturn when they utilization goes down, budgets that customers are going to allocate to do the upgrades are also going to go down. So what you generally see and this is why there is an upside in H2. They were all right. And we are all looking at this at a shorter-term downturn whereby towards the end of the year you will see the signs of recovery, then customers will start scratching their head and we will push it and say, listen, you know, you are still not at a 100% utilization that you’re probably going to get there in one or two quarters, so you have to do this now because you can see the upturn coming.
+
+I mean, this is the time when we actually push the — basically the upgrades and that’s an upside. So that is definitely and upside. So if our customers work through this inventory glut today and they see this upturn coming, they seen the utilization rates going up again, that’s the time when they — when they want those upgrades and you can rest be assured that we will be there to actually remind them of this So, yes, and then the ASP. The limitation because of cost.
+
+Roger Dassen — Executive Vice President and Chief Financial Officer
+
+Yeah. Maybe I will take that. I think you referred to the — to the inflation adjustment that we’ve been talking about on previous calls that we’re talking — talking to customers about and. I think that is fair to say that we have made really good progress. So I think for a number of large customers we have reached agreement on indeed them — compensating us for inflation, not with everyone yet. So we’re still in discussions with someone we hope to be able to conclude those — those discussions actually in this — in this quarter. So by the end of Q2 we should be in a position to give you what the overall picture is, but I’m very helpful that the larger customers that we have are willing to share and the burden of inflation, which I think from the fairness perspective is the right thing to do. And again, we’re making good progress there and give you an update by the end of Q2.
+
+Alexander Duval — Goldman Sachs — Analyst
+
+Very helpful. Thank you very much.
+
+Operator
+
+Thank you. We’ll now go to the next question. The next question. And the next question, one moment please. And the next question comes from the line of CJ Muse from Evercore. Please go ahead, your line is open.
+
+C.J. Muse — Evercore ISI — Analyst
+
+Yeah. Good afternoon, good morning. Thank you for taking the question. I guess first question, you talked about seeing customers pushing and others pulling in. Can you comment specifically on what you’re seeing just for EUV? And as part of that, given some commentary around reuse, does that cause any worry that we might be putting on over capacity on the EUV side of things, at least over the near-term?
+
+Peter Wennink — President and Chief Executive Officer
+
+CJ. Could you alight to the question on — on the pulling, that what do you mean with the reuse and could you specify a bit more the second question? I want to make sure I understand your question correctly. Could you repeat it again, the second part?
+
+C.J. Muse — Evercore ISI — Analyst
+
+Yeah, of course. So I think that there is commentary out there that your TSMC is looking to reuse 5 nanometer down to 3 nanometer. And as part of that could reuse a portion of the EUV tools used for 5. So just curious how you’re thinking about? And I know you don’t want to talk about specific customers and how you think about, more broadly speaking the potential for reuse and what impact that might have on EUV demand?
+
+Peter Wennink — President and Chief Executive Officer
+
+Yeah, I think — I think that in general has always been the case. I mean, customers will use their tools for the nodes where they need to use them. So in all is a matter of how big is the node. I think if the — if the 3 nanometer node or the 5 nanometer node is smaller or is bigger, that will drive the demand for EUV tools. And customers are like — like us, business people, they will allocate their capital that they have on the balance sheet wherever they see fit. So that is more a question of how big are those nodes. And we currently believe when we listen to the customers that they believe the 3 nanometer node is a very big node. Well, what they don’t sell and the 5 take much on the three, then will use those machines in the 3 node, but then it’s the node size that really drives the need for the EUV tools, and this is what is reflected currently in the customer demand that we’re — that we’re currently seeing.
+
+And this actually is part of the answer to the question is I received from question number one and two this afternoon. So we still see the demand — the overall demand EUV and deep UV to be up next year, and that is a reflection of what our customers believe their installed capacity needs to be. And that’s based on how big they think the node is going to be and that’s driven by what they see from their customers as the demand. And I think — and when it comes back to your first question of pushing and pulling, that’s particularly true for deep UV. Not so much for EUV. I think we’ve seen in deep UV we’ve seen especially in the Memory space we have seen, you can imagine 3D NAND, they don’t use EUV. But the market situation isn’t isn’t optimal. So you see there pushbacks, but those tools are happily been taken up by the IDMs and by our customers in China, for instance. So it’s particularly the pushing, pulling is a deep UV event.
+
+C.J. Muse — Evercore ISI — Analyst
+
+Very helpful. And just a quick follow-up question on domestic China. I think you said 20% of calendar ’23 revenues. Can you confirm that? And if that’s right, then roughly 50% of your non-EUV tool business and will be domestic China in 2023. And so the question there is, how sustainable are the demand beyond 2023?
+
+Peter Wennink — President and Chief Executive Officer
+
+Well, I think the math is correct and I think it was — one of our analyst asked the same question. Yes. I think the 45 percentage, about 45% to 50% is about right. I think it’s very sustainable. In my latest trip to China I spoke to many customers and also some end-customers. And the expansion plans, especially when it comes to issues like the EUV transition, when it comes to the rollout of the communication networks, when you talk about the energy transition, that’s all in that mid critical to mature domain. And the number of end-products they are planning to produce is significant and the semiconductor capacity base to support that is not there yet. It’s being built. And this is why I think it’s sustainable. I think we’re underestimating. I can — it just sounds like a broken record, I suppose. I think all underestimating.
+
+The end demand for mature and mid critical semiconductors. The application space for those is so wide. And every time, you could say, well, I’m not biased because I’ve been there now very recently and I talked to those customers and those end-customers and I’m convinced that — that is needed. And so I think it’s very sustainable. Also when I look at the expansion plans in the major centers in China, whether it is Beijing or Shanghai, or Shenzhen, those fabs will be there. The end markets are there. And it’s going to be a lot of China for China. So yeah, so I think it’s sustainable. But again, it’s my view based on my latest visit.
+
+C.J. Muse — Evercore ISI — Analyst
+
+Thank you.
+
+Operator
+
+Thank you. We’ll now go to your next question. And your next question comes from the line of Mehdi Hosseini from SIG. Please go ahead, your line is open.
+
+Mehdi Hosseini — SIG — Analyst
+
+Yes. Thanks for taking my question. The first one is for you Peter. How should I think about that EUV mix shipment in ’23? And I’m more interested in the mix of 3,800 pieces, 3,600 deep.
+
+Peter Wennink — President and Chief Executive Officer
+
+Yeah, okay. Well, you can think about this very clearly that it’s going to be 3,600, that’s what — and very few 3,800. Because the 3,800 shippers are really pushed towards the end of the year partly because the 3,800 has new technology that is a similar to the technology used in High NA. So it’s basically it’s the system integrations High NA and 3,800, they run side-by-side. So, and that pushes it towards the end of the year.
+
+And when it comes to some of the supply issues that we’ve seen over the last quarters, also particularly pertaining to to this technology to the 3,800 and INA technology. So that push — has pushed it all back towards the end of the year. So I would in your — in your models I would focus on the 3,600e.
+
+Mehdi Hosseini — SIG — Analyst
+
+Okay. The initial 3,800e shipment start at 200 wafer per hour throughput.
+
+Peter Wennink — President and Chief Executive Officer
+
+Sorry, the 30…
+
+Mehdi Hosseini — SIG — Analyst
+
+The initial 3,800e come with hundreds wafer per hour throughput.
+
+Peter Wennink — President and Chief Executive Officer
+
+Yeah, 195. Thank you for that. And then my second question. Peter, you mentioned in your prepared remarks that with China the risk is seeking license for NXT:2000, which I don’t think available in the current account earning conference, you have stuck towards the 5% downside risk to backlog due to increased restrictions. So how can I reconcile the 5% downside is to NXT:2000 that I don’t think is available yet? Yeah. I think it’s the NXT:2000. We don’t make NXT:2000 anymore. We make 2050s and 2100s. But that’s just — just just a number. It’s basically the NXT:2XXX. I think the 5% that we said in previous call had to do with the indirect effect of — because it has to do with the October 7 rule where basically we were able to ship lithography tools to China. You have to distinguish between the October 7 US rules and these new trilateral rules which are the Dutch export cultural rules. The advanced immersion, which we interpret as NXT:2XXX are Dutch rules. Now except the October 7 rules, we could ship every immersion — deep UV immersion tool to China only if there would have been a restriction on deposition experiences, then we could be indirect victim of this and this was — this was the 5%. Now currently where we are today, I think almost all of — all of the Chinese customers that I know have actually changed their roadmaps back from anything that potentially falls under under this October 7 US rules because they don’t want to be blocked. So they basically are reverting back to 20 nanometer and above, yeah, which I just mentioned is a very significant market. The Chinese domestic market for that product is huge, so they are just reverting back. That means that they don’t order 2050s or 2100s. They will order 1980s, yeah. And that’s what they’re doing. So I think the 5% actually goes down to, but it’s not relevant anymore. It’s now — it’s basically governed by the potential Dutch rules, which means that 1980 up, which by the way is not only export control as we see it today. And that means that, that market is still open and that’s significant demand.
+
+Mehdi Hosseini — SIG — Analyst
+
+Thanks for the clarification and details.
+
+Operator
+
+Thank you. We will now go to our next question. And your next question comes from the line of Sara Russo from Bernstein. Please go ahead, your line is open.
+
+Sara Russo — Bernstein — Analyst
+
+Hi. Thanks for taking my question. In the commentary on the video that you released this morning and from what you had said during Q4, you mentioned that you’re prioritizing shipment over system starts, is based on customer asks in that, that’s helping you — that sort of helped drive the strong system sales for this quarter. Can you talk a little bit more about the operational dynamics of that and sort of what are the follow-on effects for next quarter and throughout 2023? And then I have a quick follow-up.
+
+Peter Wennink — President and Chief Executive Officer
+
+Yeah, the operational consideration, first and foremost was to make sure that cabins are empty, right, that you can — that you really can — that the systems that were waiting for final parts were being completed and were being sent to the — were being sent to customers in that — in Q4. So that was it. We really wanted to make sure that both based on customer demand and on getting cabins clean, getting all the inventory records clean. That was the reason why we — why we did and then why we really prioritized the shipment over stocks. So that indeed does have an impact then on the output and therefore the shipments in Q1. And that’s what you see.
+
+I think in all likelihood what you will continue to see is that in the — in the quarters to come you will see output go up again. And there you will see output go up again, also commensurate with the — with the increase in capacity that were — that were having. So that’s what you — that’s in all likelihood what you’re going to see in the quarters to come.
+
+So if nothing changes on the revenue recognition for fast shipment, we talked about that on prior calls, that in all likelihood what you’re going to see is that the EUR1.5 billion that we’re now lower in terms of fast shipments carrying into from Q1 into Q2, further that we receive from Q4 into Q1, that EUR1.5 billion you might expect that we are going to over the next three quarters are going to build — to build those and as a result of that have more output to build those and as a result of that have more output in those quarters for that EUR1.5 billion in comparison to the revenue that we recognized. So that again by the end of the year we would be back to the EUR3 billion.
+
+Sara Russo — Bernstein — Analyst
+
+Okay, great and…
+
+Roger Dassen — Executive Vice President and Chief Financial Officer
+
+And I also mentioned before at the end of Q2 we will give you an update of where we stand in our discussions with customers because as we mentioned on previous calls, there is an opportunity that the customers accept that the shorter testing cycle that comes with the the fast shipments. If customers are fully accepting that shorter testing cycle up on shipments, than actually we could for those customers and for those tools we could shut start recognizing up on shipment again, and that would mean that the fast shipments saga at least for those customers will come to an end and that would mean that in fact we could start recognizing a up on shipment again. If that’s going to be the case, then the EUR3 billion would be lower by the end of the year, but it would also mean that in all likelihood revenue during this year will be up.
+
+Sara Russo — Bernstein — Analyst
+
+That makes sense, yes. And as a follow-up, is there any — does that have any, the sort of — all of that having an impact on average lead times or is there anything that we should consider as far as anticipating changes to lead times as the orders come down and sort of some of the orders normalize and the backlog begins to normalize. Is there any change to those lead times?
+
+Roger Dassen — Executive Vice President and Chief Financial Officer
+
+No I think I think lead time is as it is. I think what you’ve — what you’ve seen is that the — with an order book that has 2 times the system sales in there, the order time actually becomes larger than your normal — than your normal lead time. I mean, that’s the — that’s what you — that’s what you’re going to see — that’s what you saw as a result. Peter talked about — talked about the backlog and talked about lumpy — a lumpy order intake. So, no, I wouldn’t expect any big changes on that front.
+
+Sara Russo — Bernstein — Analyst
+
+Great. Thank you very much.
+
+Operator
+
+Thank you. We will now go to our next question. And the next question comes from the line of Sandeep Deshpande from J.P. Morgan. Please go ahead, your line is open.
+
+Sandeep Deshpande — J.P. Morgan — Analyst
+
+Yes, yeah. Thanks a lot for letting me on. My question Peter is about — more about the latter half of this year into ’24. In a scenario where things remain like this as they are today to the end of the year, how do you see things playing out?
+
+Peter Wennink — President and Chief Executive Officer
+
+Sorry.
+
+Sandeep Deshpande — J.P. Morgan — Analyst
+
+Hello, can you hear me?
+
+Peter Wennink — President and Chief Executive Officer
+
+Yeah, yeah, I can. But just some background noise. And so basically what if — what we’re seeing today goes into the second half and goes into 2024?
+
+Sandeep Deshpande — J.P. Morgan — Analyst
+
+Into the second half. Yeah, yes, that’s correct, yes.
+
+Peter Wennink — President and Chief Executive Officer
+
+Yeah. I think if it’s just the second half is going to be the second half, we just are in this period for one or two quarters more. But I said ultimately what drives — what drives the demand is the ultimate, I believe that our customers have there for 2024 and 2025, they need that capacity, yeah. Now this is all driven, like I said earlier. We are not looking at a massive recession area environment. We’re looking at a downturn, almost you can say as a typical downturn situation in the semiconductor industry, which actually hasn’t happened for a vast number of years. And the supply just exceeds the demand and we know the demand drivers which are driven by the high inflation rates, the consumer confidence hit as a result of it, the geopolitical uncertainties as all the reasons why the end demand is now lower than what people expected, so really classical semiconductor downcycle whereby customers are working quite quite diligently. I mean, they are all reducing their output, making sure that there is a supply-demand balance for semiconductors and that will be the point where you will see that turning and then it goes back up again. And now the big question is, with what speed, at what slope is this recovery as your question. Well, I don’t know. But what I do know is that nobody thinks about this massive recession. An And we do see that analyst like lower inflation rates will actually help the consumer confidence see those growth rates in China are a bit better than we expected. So it all kinds of potential positives that will drive 2024 demand. That’s ultimately what we are looking at together with our customers. We just have to work through this a couple of quarters where, you know, where we are today. And that could last another one or two quarters longer, but given when you look at our backlog, look at our longer lead times, that’s not a major issue to us, it’s just going to grow next year, so where do we look at it today. And I think nothing that I see today gives me high concerns that we will not grow. I have the confidence that we will grow.
+
+Sandeep Deshpande — J.P. Morgan — Analyst
+
+I mean, one quick follow-up on that would be on EUV. I mean, given the long-lead times for EUV, would you not be soon having to get in the orders for EUV by the end that will ship in ’24 by in the next couple of quarters, because otherwise you will not be able to be ready for those shipments as such, because you might have all of that in your backlog today.
+
+Peter Wennink — President and Chief Executive Officer
+
+Correct. Correct, Sandeep. I mean, like I said on the back half of the second half, you could say Q4-ish of next year, we still need the order as well. We to get those orders in for over the next one-two quarters. And I think that it — that is going to be indeed something that we’re going to to discuss with our customers and that’s an expression of their confidence that they need those machines by that time. So yes, the next couple of quarters we’re going to see some of that. And if it doesn’t come, then probably those customers have different views in a couple of quarters from now than they have today. We’ll see it at that moment in time what it is. But at this moment in time that’s not the case. So, I’m pretty confident that we will book those orders, because yes, you are right, we don’t have all the orders yet for ’24 or for early 2025 for that matter.
+
+Sandeep Deshpande — J.P. Morgan — Analyst
+
+Thank you, Peter.
+
+Skip Miller — Head of Investor Relations Worldwide
+
+All right. We have time for one last question. If you were unable to get through on this call and still have questions, please feel free to contact the ASML Investor Relations department with your question. Now, operator, may we have the last caller, please.
+
+Operator
+
+Thank you. We will now take the last question for today. One moment please. And your last question comes from the line of Joe Quatrochi from Wells Fargo. Please go ahead, your line is open.
+
+Joe Quatrochi — Wells Fargo — Analyst
+
+Yeah. Thanks for taking my questions. I just wanted to go back to the comments that Peter made on China, and talking about Chinese customers moving back to older nodes in response to the export restrictions. Is that to assume that then the Chinese memory customers, I guess have stopped taking lithography tools?
+
+Peter Wennink — President and Chief Executive Officer
+
+Sorry, [Indecipherable] that the Chinese because, well — you know that for 3D — for 3D NAND you don’t need advance — Immersion. And yes, they will be challenged by the fact that they cannot get advanced deep UV, DRAM. That will be at — so we’ll just have to figure that out. I mean, they still want what they can get some critical immersion, which I don’t think is going to present them a problem looking where the roadmap is today, it’s not going to give them a problem today. But if you have a roadmap where you want to go further in three or four years from now, yes, you do have a problem.
+
+You should not forget that the Chinese memory customers, and especially DRAM, are absolutely not at this — at the, let’s say roadmap execution phase as the leading DRAM maker. So they are still behind. So what they can buy under the export cultural rules will help them today. But they have to find different solutions. And I’m not a semiconductor manufacturing or design expert, but you know since I have to find a solution or they have to stay where they are today.
+
+Joe Quatrochi — Wells Fargo — Analyst
+
+Got it. That makes sense. And then just a quick follow-up. How do you think of — when you think about the opex trajectory for this year, you kind of referenced maybe little bit more improving capital spending management, but any change in the opex trajectory?
+
+Roger Dassen — Executive Vice President and Chief Financial Officer
+
+No I don’t think so. I think the –you’ll see the direction of travel on both R&D and on SG&A. And I think they’re about 90% of revenue would be — would be a good take I think for the full year. You see what we have on Q1. You see what we — what we guide for Q2. So that gives you a good indication I think for what to model for the second half of the year.
+
+Joe Quatrochi — Wells Fargo — Analyst
+
+Perfect. Thank you.
+
+Skip Miller — Head of Investor Relations Worldwide
+
+All right. Now, on behalf of ASML I’d like to thank you all for joining us today. Operator, if you could formally conclude the call, I’d appreciate it. Thank you.
