@@ -1,12 +1,20 @@
 # Unsupervised Industry Clustering from Earnings Call Transcripts
 
 ## Authors
-- **Sung Ahn** and **Chris Yang**
+- **[Sung Ahn](https://github.com/sahn1998)**
+- **[Chris Yang](https://github.com/ChristufaY)**
 
 ## Project Question
-**Can we figure out which industry a company is in just by analyzing the language used in their earnings call transcripts using unsupervised learning (clustering)?**
+**Can we infer a company’s industry based purely on the language used in its earnings call transcripts, using unsupervised learning?**
 
-This project explores whether latent linguistic patterns—extracted from public earnings call transcripts—can be used to group companies by industry *without using any industry labels during training*.
+This project explores whether latent linguistic patterns (words extracted from quarterly earnings call transcripts) can be used to cluster companies by industry without using any industry labels during training.
+
+---
+
+## Goal
+- To investigate whether **industry-specific language** appears consistently in earnings calls
+- To determine whether **unsupervised learning models** can uncover these hidden groupings from raw text
+- To explore how companies from the same or different industries diverge in their communication style, tone, and terminology
 
 ---
 
@@ -24,28 +32,26 @@ Each company has 6–8 quarterly transcripts between **Q1 2023 and Q4 2024**, re
 
 ## Methodology
 
-### 1. Text Preprocessing & Feature Engineering
-- **TF-IDF Vectorization**
-- **Stopword removal** 
+### 1. Text Preprocessing
+- Lowercasing, stopword removal, lemmatization
+- TF-IDF vectorization with top **`n` number of frequent terms**
 
 ### 2. Dimensionality Reduction
-- **Truncated SVD** to reduce sparse TF-IDF matrix to a dense, low-dimensional representation (e.g., 50D → 2D)
+- **Truncated SVD** to reduce TF-IDF to 50-100 components
+- **PCA** used after SVD for visualization and clustering prep
+- **t-SNE** and **2D PCA plots** used for interpretability
 
-### 3. Clustering (Unsupervised)
-- Applied **K-Means** clustering without using any industry labels
-- Explored other clustering methods (e.g., Hierarchical, DBSCAN) for robustness
+### 3. Unsupervised Clustering
+- **K-Means clustering** on PCA-reduced components (50D)
+- Used silhouette score and elbow method to guide number of clusters
+- Optionally evaluated **GMM** and **hierarchical clustering** (future work)
 
 ### 4. Post-Hoc Evaluation
-- Industry labels were used **only after clustering** to assess how well unsupervised clusters align with true industry categories
-- Evaluated using:
-  - **Cluster purity**
-  - **Confusion matrices**
-  - **Silhouette scores**
-  - **2D PCA/t-SNE visualizations**
-
----
-
-## Goal
-To determine whether **industry identity is embedded in corporate communication** and whether unsupervised learning methods can recover those groupings—purely based on **textual language structure and tone**, without relying on explicit metadata like stock price or financial ratios.
+- Industry labels used **only after** clustering to assess alignment
+- Metrics used:
+  - Cluster purity
+  - Confusion matrices
+  - Silhouette scores
+  - PCA and t-SNE visualizations, labeled by sector
 
 ---
