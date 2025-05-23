@@ -175,3 +175,10 @@ cython_debug/
 
 # ds store from macbook
 .DS_Store
+
+# nltk
+.nltk_data
+./nltk_data
+./nltk_data/*
+nltk_data/*
+nltk_data/
