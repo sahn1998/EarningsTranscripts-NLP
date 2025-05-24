@@ -25,6 +25,7 @@ We collected quarterly earnings call transcripts for **20 publicly traded compan
 - **Airlines**
 - **Finance**
 - **Real Estate**
+- **Consumer Goods**
 
 Each company has 6–8 quarterly transcripts between **Q1 2023 and Q4 2024**, resulting in a corpus of **160+ documents**. Each transcript represents one quarterly earnings call.
 
