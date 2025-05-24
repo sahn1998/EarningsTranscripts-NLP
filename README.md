@@ -19,7 +19,7 @@ This project explores whether latent linguistic patterns (words extracted from q
 ---
 
 ## Dataset
-We collected quarterly earnings call transcripts for **20 publicly traded companies** across **five industries**:
+We collected quarterly earnings call transcripts for **20 publicly traded companies** across **six industries**:
 - **Information Technology**
 - **Semi-Conductor**
 - **Airlines**
