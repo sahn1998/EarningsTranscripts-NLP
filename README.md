@@ -19,12 +19,13 @@ This project explores whether latent linguistic patterns (words extracted from q
 ---
 
 ## Dataset
-We collected quarterly earnings call transcripts for **20 publicly traded companies** across **five industries**:
+We collected quarterly earnings call transcripts for **20 publicly traded companies** across **six industries**:
 - **Information Technology**
 - **Semi-Conductor**
 - **Airlines**
 - **Finance**
-0 **Real Estate**
+- **Real Estate**
+- **Consumer Goods**
 
 Each company has 6–8 quarterly transcripts between **Q1 2023 and Q4 2024**, resulting in a corpus of **160+ documents**. Each transcript represents one quarterly earnings call.
 
