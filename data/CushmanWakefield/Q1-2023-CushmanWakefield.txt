@@ -1,0 +1,818 @@
+﻿Cushman & Wakefield 
+
+ 
+First Quarter 2023 Earnings Conference Call 
+
+ 
+May 4, 2023 
+
+ 
+
+ 
+
+
+
+ 
+
+Cushman & Wakefield – First Quarter 2023 Earnings Conference Call, May 4, 2023 
+
+  
+C O R P O R A T E   P A R T I C I P A N T S 
+ 
+ 
+Megan McGrath, Senior Vice President, Investor Relations 
+ 
+John Forrester, Chief Executive Officer 
+ 
+Neil Johnston, Executive Vice President and Chief Financial Officer 
+ 
+Michelle MacKay, President and Chief Operating Officer, incoming Chief Executive Officer 
+ 
+ 
+ 
+C O N F E R E N C E   C A L L   P A R T I C I P A N T S 
+ 
+ 
+Anthony Paolone, JPMorgan 
+ 
+Matt Filek, William Blair 
+ 
+Ronald Kamdem, Morgan Stanley 
+ 
+Michael Griffin, Citi 
+ 
+Patrick O’Shaughnessy, Raymond James 
+ 
+ 
+  
+P R E S E N T A T I O N 
+ 
+Operator 
+ 
+Good afternoon and welcome to Cushman & Wakefield's First Quarter 2023 Earnings Conference Call.  
+ 
+All participants will be in a listen-only mode.  
+ 
+(Operator instructions). 
+ 
+Please note, this event is being recorded.  
+ 
+I would now like to run the conference over to Megan McGrath, Head of Investor Relations. Please go 
+ahead. 
+ 
+Megan McGrath 
+ 
+Thank you and welcome to Cushman & Wakefield's First Quarter 2023 earnings conference call.  
+ 
+Earlier today, we issued a press release announcing our financial results for the period. This release along 
+with today’s presentation can be found on our Investor Relations website at ir.cushmanwakefield.com. 
+ 
+
+1 
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.  
+1-888-562-0262  1-604-929-1352  www.viavid.com  
+
+ 
+
+
+
+ 
+
+Cushman & Wakefield – First Quarter 2023 Earnings Conference Call, May 4, 2023 
+
+ Please turn to the page labeled, “Cautionary Note on Forward-Looking Statements.” Today’s presentation 
+contains forward-looking statements based on our current forecast and estimates of future events. These 
+statements should be considered estimates only, and actual results may differ materially.  
+ 
+During today’s call, we will refer to non-GAAP financial measures, as outlined by SEC guidelines. 
+Reconciliations of GAAP to non-GAAP financial measures, definitions of non-GAAP financial measures and 
+other related information are found within the financial tables of our earnings release and the appendix of 
+today’s presentation.  
+ 
+Also, please note that throughout the presentation comparisons and growth rates are to the comparable 
+periods of 2022 and in local currency unless otherwise stated. 
+ 
+For those of you following along with our presentation, we will begin on Page 4. 
+ 
+With that, I’d like to turn the call over to our CEO, John Forrester. 
+ 
+John Forrester 
+ 
+Thanks, Megan, and thank you to everybody joining our call.  
+ 
+First, I want to thank all our employees around the world that continue to deliver outstanding service and 
+value to our clients through such fluid times. The first quarter, as anticipated, experienced similar trends to 
+the fourth quarter of 2022, with significantly lower transactional activity versus the prior year, but continued 
+strength in our PM/FM business. Fee Revenue of $1.5 billion and Adjusted EBITDA of $61 million reflect 
+the quarter’s muted high-margin transactional activity, which we believe is currently sitting at or near trough 
+levels.  
+ 
+The current macro environment remains complex with elevated inflation and interest rates, as well as recent 
+banking stress, all contributing in effect to recessionary conditions in commercial real estate. We expect 
+the near-term outlook to remain challenging. However, an increasingly complicated economic and real 
+estate environment is resulting in an ongoing flight to quality, and we believe that diversified global service 
+providers of true scale like Cushman & Wakefield are best positioned to successfully navigate through 
+economic cycles for both clients and talent.   
+ 
+Turning to Capital Markets, capital continues to remain on the sidelines, as banking industry volatility at the 
+end of the quarter increased overall market uncertainty and further tightened lending standards. However, 
+whilst in this constrained environment, we are observing meaningful appetite from our clients to deploy 
+capital when market conditions improve and are meeting regularly with them to review portfolios, discuss 
+financing options and help strategically plan for the recovery. To reiterate, it is a matter of when, not if, deal 
+volumes return, and we are allocating our resources to areas where deals are happening and finding new 
+areas of opportunity, such as our recently created asset optimization practice focused on delivering 
+investors an integrated, tailored and strategic solution across underperforming assets. 
+ 
+On the leasing side, consistent with our expectations, total office leasing activity in the U.S. trended lower 
+sequentially and year-over-year in the first quarter. Occupiers have grown increasingly cautious in their 
+leasing decisions and are looking for cost-cutting opportunities as the odds of a recession remain elevated 
+and as hybrid work strategies continue to filter through. Although we expect these headwinds to continue 
+in the near term, we also think it’s important to note that the impact of more aggressive hybrid work models 
+started nearly three years ago, and as of today, there is still some 10.5 billion square feet of occupied office 
+space globally. This supports our view that although the office sector faces challenges, it will remain a 
+preeminent asset class into the future. It is critical to company functionality and its sheer size will continue 
+
+2 
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.  
+1-888-562-0262  1-604-929-1352  www.viavid.com  
+
+ 
+
+
+
+ 
+
+Cushman & Wakefield – First Quarter 2023 Earnings Conference Call, May 4, 2023 
+
+ to create opportunities for our firm to execute on transactions and advise our clients through the ongoing 
+evolution. Notwithstanding this, other large asset classes will provide both growth and greater resilience.    
+ 
+In the industrial leasing sector, industry fundamentals are strong with vacancies remaining near all-time 
+lows and well below historical averages. The industrial sector, like office, continues to see a flight to quality. 
+During the first quarter, U.S. industrial tenants executed nearly 60 million square feet of deals in facilities 
+built since 2020, representing just under half of the total. Net absorption in Q1 did slow relative to the 
+outsized growth experienced over the previous two years, and although some moderation is expected, we 
+anticipate the industrial sector to remain healthy, supported by long-term secular growth trends such as 
+eCommerce and consumer spending. 
+ 
+Looking ahead, we continue to look for green shoots in both interest rate clarity and the macroeconomic 
+environment, but at this point, we are not anticipating anything material this year. Regardless of the ultimate 
+inflection point, the medium and long-term market opportunity for our business is substantial and we are 
+positioning ourselves to achieve incremental market share gains when transactional activity resumes.    
+ 
+Moving on to our Property, Facilities and Project Management business, this continues to perform well and 
+demonstrate its resiliency in the current environment, most notably in Facilities and Project Management 
+which both achieved double digit growth in the quarter. Our PM/FM business has benefited both from the 
+build-out of our global outsourcing capabilities to take share in this fragmented market as well as our 
+diversification into asset classes such as multifamily in Property Management and life sciences in Project 
+Management. Our new business pipeline remains strong, highlighting the long-term positive secular growth 
+trends in this business, even during a challenging time in the transactional markets.  
+ 
+In summary, there is no doubt that this is a challenging operating environment for all participants in 
+commercial real estate. However, our global capabilities, deep expertise and operational efficiency will 
+continue to steer us through the near-term headwinds and, more importantly, allow us to emerge with 
+strength and improved market positioning. 
+ 
+Now I’d like to turn the call over to Neil to discuss in more detail our financial performance. Neil? 
+ 
+Neil Johnston 
+ 
+Thank you John, and good afternoon everyone. 
+ 
+For the first quarter, Fee Revenue of $1.5 billion declined 10% versus prior year, Adjusted EBITDA of $61 
+million, down 71% versus a record First Quarter 2022. Adjusted earnings per share for the quarter was a 
+loss of $0.04, a decrease of $0.52 versus prior year.   
+ 
+Our revenue performance in the first quarter reflected continued weakness in Capital Markets, which were 
+down 50%, similar to the decline experienced in the fourth quarter of 2022. Leasing revenue declined 19% 
+vs. the prior year. This decline was against a strong first quarter of 2022, when leasing revenue was up 
+58% versus First Quarter 2021. Office leasing activity declined as occupiers continued to delay decision 
+making and reduce CapEx spend.  
+ 
+The industrial sector performed relatively well but was lower against a challenging prior year comparison.   
+ 
+Performance in our PM/FM service offering was strong with PM/FM in total up 8%, especially in our Facilities 
+Management and Project Management businesses.   
+ 
+Valuation and Other declined 12% in the quarter as the slowdown in transactions resulted in lower valuation 
+activity. 
+
+3 
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.  
+1-888-562-0262  1-604-929-1352  www.viavid.com  
+
+ 
+
+
+
+ 
+
+Cushman & Wakefield – First Quarter 2023 Earnings Conference Call, May 4, 2023 
+
+  
+The decline in Adjusted EBITDA was principally driven by three main components. First, the most significant 
+component was the decline in high margin transactional brokerage business, as well our Greystone Joint 
+Venture which experienced lower multifamily lending volumes.  Second, the operating expenses in the 
+quarter were higher year-over-year, due to inflation and prior year investment wrap, from the high growth 
+environment of early 2022. We are focused on our cost initiatives and as we move through the balance of 
+the year we expect these inflation and investment impacts to moderate and to be fully offset by our cost 
+actions.  
+ 
+Lastly, we experienced roughly $10 million in discrete headwinds in the quarter, primarily from the non-
+recurrence of government subsidies in our APAC business versus the prior year, as well as foreign currency 
+headwinds.  
+ 
+In terms of our cost savings plans, we achieved approximately $21 million of cost savings in the first quarter 
+and are currently on track to achieve the full $90 million cost saving target in 2023. Given the current 
+environment, we are further tightening our spending on discretionary costs and are actioning additional 
+items that will allow us to operate more efficiently.  
+ 
+Turning to our segment results for the quarter, in the Americas we experienced declines in Brokerage 
+across all asset types due to the higher interest rate environment and macroeconomic headwinds. These 
+declines were most prominent in the office sector. Declines in Brokerage were partially offset by continued 
+resiliency in PM/FM, most notably in Facilities and Project Management. The Adjusted EBITDA decline was 
+principally driven by the lower Brokerage activity, lower contribution from Greystone and the impact of prior 
+year cost inflation and investment in the business. 
+ 
+EMEA and APAC both saw similar declines in Brokerage as the Americas, while our PM/FM business in 
+the APAC segment continued to perform well, specifically in Facilities and Project Management. The lower 
+fee revenue in Brokerage in each segment was the primary driver of the declines in Adjusted EBITDA. 
+Additionally in APAC, the non-recurrence of government subsidies received in the prior year also 
+contributed to the year-over-year decline. 
+  
+Moving to our balance sheet and cash flow, we ended the first quarter with an operating cash outflow of 
+$222 million. This level is in line with historical first quarter working capital trends and reflects typical 
+seasonal patterns in our business. Given this seasonality, our full year cash flow performance will depend 
+highly on the size and timing of any market recovery in the latter half of the year. As a part of our efforts to 
+improve efficiency and performance, our teams are focused on driving cash flow improvements through 
+disciplined working capital management.  
+ 
+From a capital allocation standpoint, we are currently prioritizing spend in three areas: cash to achieve our 
+cost takeout targets, focused talent acquisition in high-growth markets and high-growth sectors, and 
+investment in our services businesses where we continue to see significant long-term market opportunity.  
+ 
+Overall, our financial position remains strong with $1.6 billion of liquidity, consisting of cash on hand of $460 
+million and availability on our revolving credit facility of $1.1 billion. We had no outstanding borrowings on 
+our revolver and net leverage was 3.7x at the end of the first quarter. Our debt maturities are long-dated 
+and our debt profile is more than 70% fixed on a net basis.  
+ 
+Finally, moving to our outlook, the macroeconomic environment remains highly uncertain. Market 
+participants continue to await further clarity on both interest rates and the economic outlook, challenging 
+both Leasing and Capital Markets activity. Given these factors, we anticipate the following:  
+ 
+
+4 
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.  
+1-888-562-0262  1-604-929-1352  www.viavid.com  
+
+ 
+
+
+
+ 
+
+Cushman & Wakefield – First Quarter 2023 Earnings Conference Call, May 4, 2023 
+
+ Our recurring revenue PM/FM business is expected to provide continued stability in this environment, 
+generating low to mid-single digit revenue growth in 2023. Although first quarter results came in above this 
+expectation, the growth rate of existing business will naturally normalize as we lap the larger new business 
+wins of the prior year. In addition, beginning in the second quarter this year, a change in the gross contract 
+reimbursables of one of our facilities services contracts will result in lower fee revenue of about $90 million 
+on an annualized basis with no impact on total revenue or Adjusted EBITDA.  
+ 
+In Brokerage, consistent with our previous comments, we expect trends in the second quarter of 2023 to 
+resemble the previous two quarters as we have seen no material shift in the markets. Although we expect 
+Brokerage to remain under pressure in 2023, we are maintaining a strong position to benefit from a market 
+recovery in 2024.   
+ 
+As a result of these expectations, we expect full year Adjusted EBITDA margins to be in the range of 9% 
+to 10%, which incorporates our view of a mild recession in 2023, with no significant recovery in Brokerage 
+this year. As macroeconomic trends improve and the Brokerage business experiences a more meaningful 
+recovery, we expect to see our full year margins trend back upwards, both through revenue growth and 
+cost efficiencies. 
+ 
+We now anticipate an adjusted effective tax rate of 28% for the year. 
+ 
+That concludes the financial review, with that, I’ll turn the call back to John. 
+ 
+John Forrester 
+ 
+Thanks Neil.  
+ 
+You’ve likely seen the announcement we made this evening about my decision to retire from Cushman & 
+Wakefield after over 35 years at the Company. It’s been a true honor to lead the business and I’m incredibly 
+proud of what we’ve all built and accomplished together. This really is a special place with so many of the 
+most talented people in our industry, and I’ve thoroughly enjoyed working with all these special people, 
+both as colleagues and as friends.  
+ 
+But over the past months as myself and the management team have contemplated the Company’s next 
+stage evolution and growth strategy, it became clear to me that the person making the decisions in the CEO 
+seat today must be the person guiding and accountable for those strategies far into the future. And as I 
+think about Cushman & Wakefield’s bright future, I could not be leaving the Company in better hands than 
+with Michele MacKay as CEO.  
+ 
+Michelle and I have worked together since our IPO in 2018 when she became a board member, more 
+closely over recent years as Michelle agreed to become our Chief Operating Officer. I am confident that 
+her long experience in commercial real estate and her commitment to the values and unique culture of 
+Cushman & Wakefield will shepherd the Company forward, drive continued growth and shareholder value 
+at the Company. 
+ 
+Now I’ll turn over to Michelle. 
+ 
+Michelle MacKay 
+ 
+Thank you. And John, I want to be the first person to personally thank you for your leadership and 
+collaboration over the past several years. The impact that you’ve made on the business is large, but the 
+impact that you’ve made on the careers and lives of an untold number of people will inevitably be part of 
+your legacy.  
+
+5 
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.  
+1-888-562-0262  1-604-929-1352  www.viavid.com  
+
+ 
+
+
+
+ 
+
+Cushman & Wakefield – First Quarter 2023 Earnings Conference Call, May 4, 2023 
+
+  
+I’m excited to take on the role of CEO of Cushman & Wakefield in July. So, let’s talk about the future. 
+ 
+I don’t require time to integrate into Cushman & Wakefield. As you probably know, I joined the Board about 
+five years ago, right after the Company went public, and have been inside the Company for more than three 
+years. I have the great fortune of stepping onto the foundation that many dedicated and talented people 
+have built. The foundation is strong and will allow me the ability to reassess and reconfirm what is the core 
+business, ensuring that we’re spending our time, our money and our energy where it makes sense today, 
+and more importantly, for the future. 
+ 
+This assessment will of course lead to an evaluation of our growth model for the future and aligning our 
+capital allocation model and balance sheet accordingly. I expect a continued focus on the high growth and 
+resilient services business as part of this plan with Brokerage as a key driver.  
+ 
+I look forward to speaking with all of you as we map out the future of Cushman & Wakefield.  
+ 
+Now, I’ll turn the call back to the operator and we’ll be happy to take your questions.  
+ 
+Operator 
+ 
+Thank you. We will now begin the question-and-answer session.  
+ 
+(Operator instructions). 
+ 
+Your first question comes from Anthony Paolone from JPMorgan. Please go ahead. 
+ 
+Anthony Paolone 
+ 
+Thank you. First, best wishes John and congratulations Michelle. My first question though is going to be a 
+bit more mundane. I want to ask a bit about expenses. 
+ 
+Neil, the $90 million that you all are targeting, I think you mentioned actioning some additional items as 
+well. Is that part of the 90, or is there more coming beyond that? I guess I was a little confused by your 
+comment. 
+ 
+Neil Johnston 
+ 
+Sure, Tony. Our guidance assumes the full $90 million takeout in the guidance we are providing. We are 
+currently evaluating additional cost measures. At this point I can’t quantify them so the guidance does not 
+contemplate any additional cost measures. Given we are already half-way through the year, the impact on 
+in-year will be fairly muted, but certainly, we’ll provide run rate savings and efficiency as we move into next 
+year.  
+ 
+Anthony Paolone 
+ 
+Okay. Then in the margin guidance that you provided, it sounds like the $90 million is in there. But can you 
+maybe just talk to—I don’t know that you gave a guidance number for margins last quarter. I can’t recall. 
+What’s kind of really changed in terms of your thinking and to get to that 9% to 10% margin? I know the 
+Brokerage business is more difficult right now, but just what else maybe changed in the calculus there? 
+ 
+Neil Johnston 
+ 
+
+6 
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.  
+1-888-562-0262  1-604-929-1352  www.viavid.com  
+
+ 
+
+
+
+ 
+
+Cushman & Wakefield – First Quarter 2023 Earnings Conference Call, May 4, 2023 
+
+ I think Tony our guidance is very consistent with what we gave last quarter. The only change is we believe 
+that the recovery in Brokerage will be slightly delayed, probably delayed by about a quarter. So in our 
+guidance we are not assuming a meaningful recovery in Brokerage through the year. Naturally we do have 
+easier comps as we move into especially the fourth quarter, so the year-over-year declines will be a lot 
+better. But as we look at the second quarter, we’re sort of assuming that Brokerage will be at a similar level 
+to the first quarter.  
+ 
+Anthony Paolone 
+ 
+Okay. Then just last one. Any comments you could provide on just thinking about CapEx for the year? Any 
+thoughts on free cash flow conversion or any thing we should be thinking about there as we think about 
+EBITDA flowing down? 
+ 
+Neil Johnston 
+ 
+No. Our free cash flow that we saw in the first quarter was very consistent with normal seasonality in the 
+business. As you well know, as we move through the year certainly the cash outflow improves dramatically 
+through the back half of the year. We are still—we still maintain our target of a free cash flow conversion of 
+20% to 30%, but naturally with Brokerage staying muted through the year we do not expect to see that this 
+year. We’ll see that in the medium term, certainly as we see Brokerage recover through the back half of the 
+year. A lot will depend on how quickly Brokerage recovers, but generally the trends we expect are very 
+consistent with what we’ve seen historically. 
+ 
+Anthony Paolone 
+ 
+Okay. Thank you.  
+ 
+Neil Johnston 
+ 
+Thanks, Tony.  
+ 
+Operator 
+ 
+Thank you. Your next question comes from Stephen Sheldon from William Blair. Please go ahead. 
+ 
+Matt Filek 
+ 
+Hey everyone. You have Matt Filek on for Stephen Sheldon. Thank you for taking my questions.  
+ 
+To start here, in the event the return to office movement starts to lose some traction, do you see that 
+dampening demand for things like janitorial services and the PFM segment overall?  
+ 
+John Forrester 
+ 
+Thanks for the question. It’s a very good question. Ultimately, we believe at the moment in our forward 
+forecast that pretty strong recessionary decision-making by clients out there is driving the main performance 
+in offices in particular, and so the hybrid and return to work trends that we’ve seen are to an extent priced 
+in to the market as we see it. 
+ 
+The additional services other than Brokerage, such as Project Management, Facilities Management and 
+Services, of course go along with volume. But again, what I would say is that the office market is a massive 
+
+7 
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.  
+1-888-562-0262  1-604-929-1352  www.viavid.com  
+
+ 
+
+
+
+ 
+
+Cushman & Wakefield – First Quarter 2023 Earnings Conference Call, May 4, 2023 
+
+ sector. I think the relative size of that sector versus others is misplaced as we talk about the headwinds 
+sitting within office. 
+ 
+We are seeing very strong growth in our outsourcing business at this point. That growth, a lot of it comes 
+from winning new office contracts. So, I still see Cushman & Wakefield and companies like Cushman & 
+Wakefield actually growing office exposure year-on-year, quarter-on-quarter going forwards. Even with the 
+margins, any individual occupier might be just pulling a little bit back on their reins of how much space they 
+have within their portfolio. That rationalization is ongoing and has been now for, as I said in the prepared 
+remarks, maybe three years.  
+ 
+Matt Filek 
+ 
+Got it. That’s helpful color. Thank you. 
+ 
+Then somewhat as a follow-up on office leasing, are you still seeing that flight to quality narrative hold up 
+where tenants are looking to lease higher quality office space to encourage their employees to come back 
+in, or are tenants starting to shift their focus to reducing cost given the challenging macro environment that 
+persists? 
+ 
+John Forrester 
+ 
+Both of your questions or observations there are actually both accurate, because what we are seeing is 
+that those deals that are happening, particularly in gateway cities around the world where are with very 
+large market shares, the deals we’re seeing are in Class A best-in-class ESG qualified space. Then what 
+you see is ultimately then the rest of the market where we’re not as exposed having tougher times.  
+ 
+I think both of those components within your questions/observations are fair at this point. 
+ 
+Matt Filek 
+ 
+Great. Thanks. That’s it for me. I’ll jump back in the queue.  
+ 
+Operator 
+ 
+Thank you.  
+ 
+(Operator instructions) 
+ 
+Your next question comes from Ronald Kamdem from Morgan Stanley. Please go ahead.  
+ 
+Ronald Kamdem 
+ 
+Great. Congrats John and Michelle. Just a quick one on the EBITDA guidance, which I think you sort of 
+quantified this quarter. 
+ 
+Clearly there is—if you did sort of 4% in 1Q, just trying to get a little bit more color of what assumptions are 
+going into it to get to that 9% to 10% by the end of the year. I understand Brokerage is staying pretty 
+depressed, but what are some of the other pieces to get you to that 9%, the 9% to 10% for the full year. 
+Thanks.  
+ 
+Neil Johnston 
+ 
+
+8 
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.  
+1-888-562-0262  1-604-929-1352  www.viavid.com  
+
+ 
+
+
+
+ 
+
+Cushman & Wakefield – First Quarter 2023 Earnings Conference Call, May 4, 2023 
+
+ Sure, Ronald. As we look at—as you know in the business, it’s very seasonal. The first quarter is by far our 
+smallest quarter, so just the base revenue in the first quarter is a lot less than the rest of the year, and so 
+as we contemplate the year, we feel pretty good about getting to that 9% to 10% margin. You will naturally 
+see the margin improve as the base of business, the natural business in the quarter increases all the way 
+through to fourth quarter where we always see our highest margins and the most revenue. 
+ 
+The only difference this year, I think, is that we will have more of our earnings in the back half of the year 
+than the front of the year, certainly than last year where we had record growth in the first half of the year. 
+So, slightly different, but pretty consistent with historical trends in the industry. 
+ 
+John Forrester 
+ 
+Just to reiterate one point, ultimately, whilst the revenue grows quarter-on-quarter through the year, actually 
+proportionately a lot of the cost shows up in Q1, and that’s why margins will always be more muted at this 
+point and we’re confident that they will grow as the year moves through. 
+ 
+Ronald Kamdem 
+ 
+Great. Then my second question, obviously going to the capital statement, fully appreciate the seasonality 
+in 1Q of course, but maybe some comments on what that EBITDA-to-cash conversion looks like as you’re 
+going through the year would be helpful. Thanks. 
+ 
+Neil Johnston 
+ 
+Sure. With the cash outflow in the first half of the year, it’s very difficult to calculate what a cash conversion 
+ratio is. I will tell you we highly focused on free cash flow. We were very pleased in the first quarter of all 
+the work we are doing around working capital. We saw a nice improvement in our receivables. That, of 
+course, is muted by the decline at Brokerage, but certainly seeing some good trends there in our working 
+capital. 
+ 
+As we move through the year, again, the cash as I mentioned earlier, the cash flow conversion will not be 
+in that 20% to 30% range, but certainly in the medium run as Brokerage comes back that’s where we expect 
+to be.  
+ 
+Ronald Kamdem 
+ 
+Excellent. That’s it for me. Thanks so much.  
+ 
+Operator 
+ 
+Thank you.  
+ 
+(Operator instructions). 
+ 
+Your next question comes from Michael Griffin from Citi. Please go ahead.  
+ 
+Michael Griffin 
+ 
+Great, thanks. Congrats again John. Pleasure working with you, and Michelle, congrats to you as well.  
+ 
+Maybe piggybacking on Ron’s question there, just on more of a leverage question, I’m curious if you do 
+annualize that run rate, you get to a pretty elevated leverage level. You talk about seasonality in the back 
+
+9 
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.  
+1-888-562-0262  1-604-929-1352  www.viavid.com  
+
+ 
+
+
+
+ 
+
+Cushman & Wakefield – First Quarter 2023 Earnings Conference Call, May 4, 2023 
+
+ half of the year. That makes pretty good sense. If I’m putting a number around it, right, so it’s 3.7 the last 
+12 months, what do you think that number is a good run rate for going forward? Any commentary around 
+that? 
+ 
+Neil Johnston 
+ 
+Sure. With the lower EBITDA we expect leverage to be in the low 4s by the end of the year, probably in 
+that 4.1 to 4.2 range, but the net will then once again come down as EBITDA grows and as Brokerage 
+comes back.  
+ 
+We feel pretty comfortable. Clearly leverage is higher than we would like it to be. Our goal is always to be 
+in that 2x to 3x, but naturally as we move through the cycle we’ll see that leverage go up. 
+ 
+But, feel very good. Feel certainly good about our maturities. As you know, we amended and extended a 
+billion dollars of our Term Loan B which we pushed out to 2030, so feel good about our maturities, and feel 
+very good about our liquidity.  
+ 
+While leverage is a little higher than we would like, feel like the balance sheet is in very good shape.  
+ 
+Michael Griffin 
+ 
+Hey Neil, just a reminder on that debt. It was SOFR plus 375, right?  
+ 
+Neil Johnston 
+ 
+No, SOFR plus 325.  
+ 
+Michael Griffin 
+ 
+Got you. Okay. That’s helpful. 
+ 
+Then maybe just one on the transition. It looks like John will stay on as CEO until the end of June, and then 
+advisor until the end of the year. I’m curious, John, or maybe Michelle, if you can add any comments around 
+talks of the Board’s discussion. Obviously, Michelle, in your prepared remarks you said let’s talk about the 
+future, so it seems like you’re very here, but I’m just curious if there were any conversations about strategic 
+alternatives, kind of stuff like that, and how this came to be the right resolution for shareholders. 
+ 
+Michelle MacKay 
+ 
+It’s Michelle. I will answer. Thank you for your question.  
+ 
+I think as John said, in the conversations that we’ve been having about the future of the Company, we 
+realized that we probably needed the pull the discussion forward a little bit faster than we initially anticipated, 
+and I can’t share any specific thoughts with you today, but we’re going to be focused on mapping out the 
+next 10 years of the Company and that’s the goal. 
+ 
+Michael Griffin 
+ 
+Great. Then just a clarification for John. When you took over at the beginning of 2022, I think from the 
+gentleman who is the current chairman, was the plan always more of a interim concept? I mean you’ve 
+been there for 35 years; that’s a fantastic career, but was it always kind of your thought that you weren’t 
+going to be in the role for five or 10 years? 
+
+10 
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.  
+1-888-562-0262  1-604-929-1352  www.viavid.com  
+
+ 
+
+
+
+ 
+
+Cushman & Wakefield – First Quarter 2023 Earnings Conference Call, May 4, 2023 
+
+  
+John Forrester 
+ 
+I’ve always—I’ve been very consistent in discussing this with anybody who was prepared to listen to me, 
+but ultimately, leaders who take big decisions need to be around to see those decisions out and be 
+accountable for them, but also pretty contemporary leadership is important in a fast-moving market in a 
+very dynamic industry such as the real estate services industry. That really just gives color to the fact that 
+the organization is very diligent and serious about its succession planning.  
+ 
+Since we went public and Michelle joined our Board, this day to day was always going to occur at some 
+point. I’d just reiterate what Michelle said. The timing is really based on the fact that we’ve done already the 
+majority of work that was required to push this company through in a very solid, positive sense the recession 
+that we are in as an industry, and that actually decisions now are about future direction and growth of the 
+Company. To an extent, it’s a very—we believe this is a great industry to be in. The secular growth trends 
+that we see, our ability to ride many of those trends and grow accordingly means that Michelle is taking 
+over at a time where that forward focus is very important in how we operate as a company.  
+ 
+Michael Griffin 
+ 
+Great. That’s it for me. Congrats to you both. 
+ 
+Michelle MacKay 
+ 
+Thank you.  
+ 
+Operator 
+ 
+Thank you. Your next question comes from Patrick O’Shaughnessy from Raymond James. Please go 
+ahead.  
+ 
+Patrick O’Shaughnessy 
+ 
+Good evening. Can you provide an update on the status of your partnership with WeWork? Obviously, it’s 
+no mystery that WeWork has been struggling, so kind of curious about how the effort is going of you 
+partnering with them? 
+ 
+John Forrester 
+ 
+Hi. This is John. I’ll take that. 
+ 
+There’s a slight disconnect actually as to how we work with WeWork and the issues that you mentioned 
+there. Actually, our relationship with WeWork has been highly positive. Really focused into the two strategic 
+areas that we made our investment on. One was partnering with WeWork in major client pursuit. That is 
+ongoing and has been successful and we believe will continue to be successful. Secondly, where we have 
+come a key supplier and therefore client of WeWork in helping them with running the real estate services 
+within their portfolio. So, those two aspects are ongoing, remain healthy and that’s how we think about our 
+relationship with them.  
+ 
+Patrick O’Shaughnessy 
+ 
+Great. Appreciate that.  
+ 
+
+11 
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.  
+1-888-562-0262  1-604-929-1352  www.viavid.com  
+
+ 
+
+
+
+ 
+
+Cushman & Wakefield – First Quarter 2023 Earnings Conference Call, May 4, 2023 
+
+ Can you provide your outlook for the Greystone Joint Venture over the remainder of the year? Would you 
+expect that to roughly track the rest of your brokerage business, or would you expect multifamily to maybe 
+rebound a little bit more robustly? 
+ 
+John Forrester 
+ 
+We certainly do expect sectors like multifamily, like industrial, to rebound faster to see growth and 
+improvement more quickly than certain other sectors, that’s for sure.  
+ 
+Again, I’d focus for us more on the strategic proposition that the joint venture we have with them itself is 
+becoming more fundamentally important and valuable to our company every day. The joint mandates that 
+we are working on, the market share gains that we are making are actually—irrespective of a very short-
+term, one quarter snapshot make us feel very good about the incremental value and performance that this 
+relationship adds going forwards quarter-by-quarter this year and into the future.  
+ 
+Patrick O’Shaughnessy 
+ 
+Great. Thank you. Then maybe one last one, if I could. How is the environment in terms of attracting and 
+retaining brokerage talent? In a backdrop where it looks like things are going to be lean for an extended 
+period of time, how does that impact what that environment looks like? 
+ 
+John Forrester 
+ 
+Again, this is John. The market for high talent doesn’t actually correlate to the ebb and flow of, say, 
+Brokerage revenues, or any service line revenue. Great people are always in demand and in particular 
+those that are in areas where potentially our industry sees a faster rebound or higher growth prospects in 
+the future. 
+ 
+Every day, the leaders across our organization come into the office—very important note—in the office and 
+they are thinking about both the retention and the recruitment of high talent. That’s no different today than 
+it was 12 months ago, 24 months ago.  
+ 
+One thing we are seeing though is that the overall inflation being driven through in our non-revenue phase 
+of the business is becoming more muted and far more manageable than it was, say, in Q1 last year. So, 
+we are seeing some benefits of the slowdown in the overall labor markets and reduced attrition as well as 
+lower inflation there.  
+ 
+Patrick O’Shaughnessy 
+ 
+Great. Thank you very much.  
+ 
+Operator 
+ 
+Thank you.  
+ 
+(Operator instructions). 
+ 
+As there are no further questions at this time, this does conclude our question-and-answer session. I would 
+now like to turn the conference back over to Mr. John Forrester for any closing remarks. 
+ 
+John Forrester 
+ 
+
+12 
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.  
+1-888-562-0262  1-604-929-1352  www.viavid.com  
+
+ 
+
+
+
+ 
+
+Cushman & Wakefield – First Quarter 2023 Earnings Conference Call, May 4, 2023 
+
+ Thank you all for joining us today. Michelle, Neil and the rest of the team look forward to speaking with you 
+again at our second quarter earnings call.  
+ 
+Operator 
+ 
+Thank you. The conference has now concluded. Thank you for attending today’s presentation. You may 
+now disconnect.  
+
+13 
+ViaVid has made considerable efforts to provide an accurate transcription. There may be material errors, omissions, or inaccuracies in the 
+reporting of the substance of the conference call. This transcript is being made available for information purposes only.  
+1-888-562-0262  1-604-929-1352  www.viavid.com
