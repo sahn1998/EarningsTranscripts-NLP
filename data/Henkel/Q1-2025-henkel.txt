@@ -1,0 +1,823 @@
+﻿REFINITIV STREETEVENTS
+
+EDITED TRANSCRIPT
+HNKG_p.DE - Q1 2025 Henkel AG & Co KGaA Earnings Call
+
+EVENT DATE/TIME: MAY 08, 2025 / 7:00AM GMT
+
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+©2025 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+
+
+
+MAY 08, 2025 / 7:00AM, HNKG_p.DE - Q1 2025 Henkel AG & Co KGaA Earnings Call
+
+C O R P O R A T E  P A R T I C I P A N T S
+Leslie Iltgen Henkel AG & Co KGaA - Head of Investor Relations
+
+Carsten Knobel Henkel AG & Co KGaA - Chairman of the Management Board
+
+Marco Swoboda Henkel AG & Co KGaA - Executive Vice President - Finance, Purchasing, Global Business Solutions and Member of the Management Board
+
+C O N F E R E N C E  C A L L  P A R T I C I P A N T S
+Guillaume Delmas UBS AG - Analyst
+
+Fulvio Cazzol Berenberg Bank - Analyst
+
+Rashad Kawan Morgan Stanley - Analyst
+
+Tom Skyes Deutsche Bank - Analyst
+
+Patrick Folan Barclays Corporate & Investment Bank - Analyst
+
+P R E S E N T A T I O N
+Operator
+
+Good morning, and welcome to the Henkel conference call. (Operator Instructions). I would now like to hand over to Leslie Iltgen, Head of Investor
+Relations. Please go ahead.
+
+Leslie Iltgen - Henkel AG & Co KGaA - Head of Investor Relations
+
+Thank you, and good morning to everyone here on the call. A warm welcome to everyone joining Henkel's Q1 2025 results conference call today.
+I'm Leslie Iltgen, Head of Henkel's Investor Relations. Today, I'm joined by our CEO, Carsten Knobel, and our CFO, Marco Swoboda.
+
+Carsten will begin with an overview of the key developments and highlights in the first quarter. Marco will follow with a more detailed review of
+the financial performance. As always, following the presentation, we will open up the lines and Carsten and Marco will be happy to take your
+questions.
+
+Before handing over to Carsten, please let me remind you that this call will be recorded and a replay will be made available on our Investor Relations
+website shortly after this call. By asking a question during the Q&A session, you agree to both the live broadcasting as well as the recording of your
+question, including salutation to be published on our website.
+
+Also, please be reminded that this presentation contains the usual formal disclaimer in regard to forward-looking statements within the meaning
+of relevant US legislation. It can also be accessed via our website at henkel.com. As always, the presentation and discussion are conducted subject
+to this disclaimer.
+
+With this, it is my great pleasure to hand over to our CEO, Carsten Knobel. Carsten, please go ahead.
+
+Carsten Knobel - Henkel AG & Co KGaA - Chairman of the Management Board
+
+Thanks, Leslie, and a warm welcome also from my side to everyone joining our conference call today. And as always, we do appreciate your interest
+in our company, and we look forward to answering your questions. After walking you through the key developments of the first quarter, we will
+elaborate on Henkel's business performance and the full year outlook in more detail.
+
+2
+
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+©2025 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+
+
+
+MAY 08, 2025 / 7:00AM, HNKG_p.DE - Q1 2025 Henkel AG & Co KGaA Earnings Call
+
+So let me move straight to the key topics and the highlights of the first quarter. Our first quarter top line came in softer, in line what we had indicated
+in our full year call in March. On Group level, Henkel recorded a minus 1% organic net sales growth. Our consumer business reported minus 3.5%
+and thus came in within the expected range, also reflecting high prior year comparables due to strong innovation launches in the first half of 2024.
+
+Pricing continued to be positive. Volume development was in the negative territory, reflecting muted consumer sentiment; customer destocking,
+particularly in the US, as well as supply chain challenges, which, in the meantime, we have mainly solved.
+
+We also succeeded in closing the divestment of our Retailer Brands business in North America earlier than initially anticipated. And with that, we
+concluded our strategic portfolio optimization program, which we had announced early 2022.
+
+Adhesive Technologies delivered organic net sales growth of plus 1.1% for the first quarter despite the negative working day impact, which accounts
+for slightly more than 1 percentage point. So adjusted for this working day impact, organic sales growth would have been above 2%. Also, we saw
+a good balance between volumes and pricing both being in positive territory.
+
+In addition, we also saw strong margins of both gross profit and EBIT, which is quite encouraging to see. And despite the fact that we are operating
+in an environment that has become significantly more challenging since the beginning of the year, our outlook for 2025 remains unchanged. We
+expect a top line acceleration in the course of the year and thus a stronger second half and bottom line well within our guidance range.
+
+And with that, let us take a closer look at some of the highlights across the Group. We started the year with strong gross and EBIT margins. In regard
+to capital allocation, we continue to build on M&A as an integral part of our strategy with a promising and a well-filled pipeline. And in addition,
+we are also just about to start our new share buyback of up to EUR1 billion, which we plan to conclude by Q1 2026, at the latest.
+
+In Adhesive Technologies, our strong global footprint and leading market positions enhanced the continued strong performance, in particular in
+electronics and industrials. In Consumer Brands, we are keeping up with strong investments behind our brands and innovations, while further
+expanding our global footprint.
+
+For example, by closing geographical white spots to fuel growth with particular focus on our top brands. Particularly now, as we have successfully
+closed the Retailer Brands divestments earlier than initially expected, we can focus even more on the top branded products in North America,
+supported by tech-driven innovations to enhance valorization. And as you can see, we are continuously driving our businesses along clear strategic
+priorities to fuel further profitable growth.
+
+Now taking a closer look at what the main growth drivers are currently, Electronics and Industrials clearly stand out. And what is driving this? In
+Electronics, which showed double-digit growth in the first quarter, we see a strong surge in demand for high-performing components, fueling
+market growth and increasing the need for innovative solutions.
+
+A good example is the AI-driven PC market, which is expected to more than double in size by 2028 and which drives growth in the semiconductor
+packaging. Another good example are growth opportunities we see in the area of Consumer Devices such as smartphone cameras. By 2030, the
+number of smartphone cameras is expected to grow by more than 20% unlocking new opportunities in bonding and in sealing.
+
+Looking at Industrials, where we saw strong growth in Q1, we continue to outperform markets across different segments, building on the strong
+portfolio of customer-centric solutions we have. In Aviation, for instance, we are currently expanding capacities in our certified production plant
+in Spain in light of high order backlog in the industry. The aviation market is expected to grow in the high single-digit percentage range in the next
+years.
+
+Another example in Industrials is Data and Telecom. The market is anticipated to grow high single-digit over the next years, particularly driven by
+the continued expansion of data centers with advanced thermal requirements.
+
+Moving to the next slide. I would like to share one specific example from the steel industry as to how we create competitive advantage with
+innovative solutions in our Industrials business. With our Metal Coil business, we are serving end markets like building construction and household
+
+3
+
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+©2025 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+
+
+
+MAY 08, 2025 / 7:00AM, HNKG_p.DE - Q1 2025 Henkel AG & Co KGaA Earnings Call
+
+appliances early on in the value chain. Here, hexavalent chromium was long seen as the only option to prevent corrosion on metal. However, it
+requires specialized safety measures resulting in higher operational efforts.
+
+As the first to the market, we developed hex-chrome free technologies under our Bonderite brand that deliver best-in-class corrosion resistance
+while prioritizing worker safety and the environment. Building on our clear competitive edge, we are driving our customers’ transition to new
+advanced technologies. Today, we are the global market leader for hex-chrome free technologies for the steel industry underpinned by a portfolio
+of 13 granted patents to date.
+
+Our strong know-how and our close customer collaboration is reflected in our excellent performance. We have been outperforming the market
+and delivering a double-digit growth over the past 4-years with these innovative solutions.
+
+Now turning to our Consumer Brands. I would like to walk you through the excellent progress we have made thus far in transforming the business
+while significantly improving the quality of the business across multiple dimensions ever since we went live with the merger in early 2023.
+
+This is the largest transformation at Henkel over the past decade. We changed the organizational setup of the business, actively shaped our portfolio
+by executing the portfolio optimization program, which, in the meantime, has been successfully concluded, and we are currently working heavily
+to finalize the supply chain optimization measures.
+
+These measures already led to a much better mix, significant efficiency gains and savings, which came in faster and are even higher than what we
+had originally anticipated. While at the same time, we are investing clearly more behind our brands, including marketing spend and R&D.
+
+And being even more specific and talking in numbers. We saw an average 4.5% organic sales growth over the last 2-years. Sales remained more
+or less stable in absolute numbers despite the fact that we divested our business in Russia and executed the portfolio optimization program, which
+in total accounted for around EUR2 billion in sales.
+
+We were able to increase the gross margin of the business significantly by 1,100 basis points. We increased our investment in marketing and R&D
+significantly. And at the same time, we were able to increase the adjusted EBIT margin by 520 basis points.
+
+Also, net working capital improved significantly by [290 basis points] (corrected by company after the call) ever since we announced the merger.
+To be fair, we are still not satisfied with the volume development, and thus, top line growth. However, with these steps, we have significantly
+improved the quality of the business and thus, laid the foundation for solid sustainable and profitable growth going forward towards our mid-term
+ambition.
+
+With a more focused portfolio, particularly on branded products and tech-driven innovations, the continued valorization process and the optimized
+cost structures we are getting closer and closer to our mid-term ambition.
+
+However, we had to work on getting better first and improve our portfolio and profitability overall, which now allows us to reinvest into the business
+even more and driving getting bigger and continue to grow the business going forward. But we want to achieve that in a sustainable, balanced
+and in a healthy way without cutting back on investment behind our brands. We can now build on the achieved milestones and are clearly committed
+to our mid-term ambition calling for 3% to 4% organic sales growth and an adjusted EBIT margin in the mid-teens percentage range.
+
+Now turning to our top brands. We continue to see strong growth momentum among our top 10 brands in the portfolio, which in the meantime
+have increased to around 60% of our sales ever since we divested the retailer branded business in North America.
+
+These brands have been continuously outperforming organic sales growth of the business unit by around 400 basis points over the past two years.
+As in the past, we built on a strong innovation track record also in 2025 and expect more impactful launches in the quarters to come and beyond.
+Among others, our pipeline includes launches under our top brands, such as ‘all’ in North America, Persil, Bref, Somat, in the second half of 2025.
+
+4
+
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+©2025 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+
+
+
+MAY 08, 2025 / 7:00AM, HNKG_p.DE - Q1 2025 Henkel AG & Co KGaA Earnings Call
+
+Of course, all our innovations aim to bring additional benefits to our consumers and to capture additional category growth. With these top brands
+and tech-driven innovations, we are bringing to the market, we continue to drive the valorization of our portfolio.
+
+And to give you a clear feasible example, Perwoll in the meantime, is the number 1 brand in the fabric care market globally and a great example
+for successful brand development with more than 20% growth over the past three years. Under Perwoll, we have different formulations, and just
+recently, we launched the first fabric care product for all light colors, including white colors based on our innovative triple renew technology.
+
+This superior technology removes grayness, smoothens fibers and provides a premium long-lasting scent. We saw market share gains of more than
+100 basis points year-to-date 2025 in fabric care. With new country rollouts, we fill geographical white spots, and further expand our global footprint.
+
+Another feasible example in Hair is our number one Masterbrand Schwarzkopf, in the meantime, accounting for more than EUR1 billion of sales.
+It is an excellent example of how we successfully leverage our hair expertise across the Consumer and the Professional business that we have in
+our portfolio with tech-driven innovations.
+
+Within our Masterbrand Schwarzkopf, the Consumer part – comprising the categories, color, care and styling – recorded above 6% growth over
+the last three years. Let's take a closer look at an innovation we just recently launched.
+
+Cream Supreme. Cream Supreme is the first caring coloration with an innovative bonding technology referred to as bonding haptiq system. This
+technology protects the hair from being damaged during the entire coloration process and ensures beautiful, luminous and even color results at
+home. The launch was supported by a strong marketing campaign and hence, contributed to strong organic net sales growth of in our Hair Consumer
+business in Q1.
+
+Now turning to our 2025 outlook. Despite the fact that we are operating in an environment that has become significantly more challenging since
+the beginning of the year, our outlook for 2025 remains unchanged. Expecting 1.5% to 3.5% organic net sales growth and adjusted EBIT margin
+of 14% to 15.5% and a low to high single-digit percentage increase in our adjusted EPS at constant exchange rates.
+
+We also still expect a stronger second half of the year. Among the main drivers are the following. In Adhesive Technologies, we expect an acceleration
+of top line performance supported by better mix and the partial reversal of the negative working day impact in the second half.
+
+In Consumer Brands, we have a well-filled innovation pipeline with stronger top line contributions expected in the second half of the year while
+investments in marketing and R&D remain on elevated levels. Also, the supply chain related topics have been mainly resolved already in the
+meantime. Furthermore, we see our more recent acquisitions contributing in both businesses, including first benefits from the early closing of the
+Retailer Brands divestment in Consumer Brands. Beyond these drivers, we are well underway to achieve the given margin guidance range.
+
+And with that, let me hand over to Marco for some more details on our financial performance in the first quarter. So Marco, please.
+
+Marco Swoboda - Henkel AG & Co KGaA - Executive Vice President - Finance, Purchasing, Global Business Solutions and Member of the Management
+Board
+
+Yeah. Thanks, Carsten. And good morning to everyone in the call also from my side. So building on what Carsten already shared, let me provide
+some more color on the drivers of the Group sales performance in the first three months of fiscal 2025. Organic sales growth came in at minus 1%
+in the first quarter and thus reflected a softer start into the year, in line with what we had indicated in our full year call in March. On Group level,
+pricing contributed with plus 1.4%, while volumes were below prior year, more on the business unit specifics, like always, in a minute.
+
+Acquisitions and divestments increased sales by 1.1%, particularly driven by the recently closed acquisitions of Seal for Life and Vidal Sassoon.
+However, for the full year, we still expect a low single-digit negative impact on sales, mainly driven by the divestment of our Retailer Brands business
+in North America.
+
+5
+
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+©2025 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+
+
+
+MAY 08, 2025 / 7:00AM, HNKG_p.DE - Q1 2025 Henkel AG & Co KGaA Earnings Call
+
+FX effects were a headwind of 1.4% in Q1. And given the reasonably weaker dollar, we expect the headwind to accelerate in the course of the year.
+In nominal terms, sales amounted to EUR5.2 billion, that's 1.4% below the prior year quarter.
+
+And now turning to the drivers in the respective regions in more detail. Starting with Asia Pacific, where we achieved good organic sales growth
+of plus 3.6%. The Adhesive Technologies business contributed with a significant increase, which was particularly driven by the continued growth
+dynamics of our Electronics business in China.
+
+In contrast, the Consumer Brands business was below prior year quarter, also reflecting supply chain challenges, as communicated previously.
+India-Middle East-Africa grew by 4.6% with contributions from both business units. And in Latin America, we achieved growth of 1.5%.
+
+Consumer Brands came in below prior year mainly due to Laundry & Home Care and the supply chain challenges, while Hair recorded very strong
+growth. In Adhesive Technologies, we recorded very strong growth, mainly supported by double-digit increase in mobility and electronics.
+
+And moving on to Europe, where sales were below the prior year quarter in both business units. In Adhesive Technologies, this was mainly due to
+Craftsmen, Construction & Professional. In Consumer Brands, Laundry & Home Care was down year-on-year, while Hair showed a good development.
+
+In North America, sales declined by 5.6% in an overall challenging environment. In Adhesive Technologies, this was primarily due to the negative
+development of Mobility & Electronics impacted by the overall development in the automotive market, also reflected in a negative light vehicle
+production index of minus 8% for the region, i.e., North America, in the first quarter as well as Packaging & Consumer Goods also impacting our
+sales in North America.
+
+And in line with expectations, the development in Consumer Brands reflected the subdued consumer sentiment, customer destocking and the
+overall increased uncertainty in the region. Ultimately, the development in North America materially affected the overall performance of both
+business units.
+
+So now back to the global level and starting with Adhesive Technologies. We reached sales of EUR2.7 billion in the first quarter. Organic sales
+growth was 1.1% backed by a balanced price and volume mix. And this despite the negative working day impact, which accounted for slightly
+more than 1 percentage point in the first quarter. Overall, Adhesive Technologies showed a very robust development in a challenging market
+environment. Pricing remained robust, which clearly shows the strength of our market position and the portfolio.
+
+Volume development was also in the positive territory and adjusted for the pronounced impact of more than 1 percentage point, resulting from
+a lower number of working days in the first quarter, OSG would have been above 2%. As Carsten mentioned earlier, we expect top line performance
+to accelerate in the course of the year, leading to a stronger second half, particularly driven by volumes, while pricing is expected to remain flattish
+and thus robust.
+
+Let me now turn to the performance in the individual business areas where we saw different dynamics. Mobility & Electronics was again the main
+growth driver with a plus of 3.1%. This increase was mainly driven by double-digit growth in Electronics and strong growth in Industrials. This could
+more than offset the muted performance of Automotive.
+
+Packaging & Consumer Goods recorded a slightly negative development. Packaging was supported by an ongoing recovery in demand, while
+performance in Consumer Goods was slightly below prior year, also reflecting softer markets. Craftsmen, Construction & Professional delivered
+organic sales growth of 0.4%. This was particularly driven by good development in Consumers & Craftsmen as well as Construction.
+
+Now moving to Consumer Brands. The business generated sales of EUR2.5 billion. Organic sales growth was minus 3.5%, and thus, within the
+expected range and reflecting high prior year comparables due to strong innovation launches in the first half of 2024.
+
+Please note that in 2025, top line contribution from innovation launches will be more skewed towards the second half. Pricing was positive at 2%.
+And as communicated previously, volume development was in the negative territory, reflecting muted consumer sentiment, customer destocking
+and supply chain challenges.
+
+6
+
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+©2025 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+
+
+
+MAY 08, 2025 / 7:00AM, HNKG_p.DE - Q1 2025 Henkel AG & Co KGaA Earnings Call
+
+Continued positive pricing reflects the ongoing valorization of our portfolio with strong innovations and sustained elevated marketing investments.
+As mentioned, volume development reflects the subdued consumer sentiment and customer destocking, particularly in the US, as well as supply
+chain challenges, which, in the meantime, we have mainly solved.
+
+As you know, this includes issues in the production side in Mexico, the change of provider in China in the course of the Vidal Sassoon integration
+with which we had doubled our sales in the country. We expect the volume development to sequentially improve in particular in the second half,
+supported by the fact that the supply chain challenges will have been resolved and a high sales contribution from innovation launches in the
+second half. Last, but not least, we will continue with our strong investments behind our brands to fuel further growth.
+
+And now looking at the performance by business area. Laundry & Home Care reported organic sales growth of minus 4.1%. Laundry Care was
+negative due to Fabric Cleaning, while Fabric Care continued to deliver very strong growth with strong contribution from our top Fabric Care brand
+Perwoll. Home Care delivered good growth, driven by significant growth in the dishwashing category with strong contributions from our key
+brands Pril and Somat. Growth in Hair, which comprises both the Professional and the Consumer business, remained below prior year levels.
+
+The Professional business was impacted by the muted consumer sentiment and consequently, less salon traffic, particularly in North America. In
+contrast, the Hair Consumer business delivered positive growth, mainly driven by Coloration and Styling with strong contribution from our
+Megabrand Schwarzkopf as well as Syoss.
+
+In Other Consumer Businesses, the growth remained below prior year's levels due to Body Care in North America and Europe. Now looking at macro
+expectations for fiscal 2025. In line with what we already told you in March, we see an increasingly volatile economic and geopolitical environment.
+As a result, several research institutes across the globe have lowered their growth expectations in regard to both industrial and also consumer
+markets.
+
+The global economy is expected to only grow at a more moderate pace in 2025. Amongst others, industrial production index and light vehicle
+production expectations have been lowered. Also, consumer spending is expected to be more muted versus the expectations at the beginning of
+the year, reflecting the generally subdued sentiment and the overall high uncertainty, in particular in North America.
+
+Inflation is expected to remain on elevated levels. And when it comes to currencies, we expect markets to remain highly volatile, also as a result of
+the current tariff implementations. The same also holds true for raw material prices.
+
+While we consider the direct impact from tariffs as manageable due to the fact that we source and produce the vast majority domestically, and
+this is true for both business units, the indirect impact on the overall economy remains uncertain.
+
+Looking at the US, for instance, this applies to around 90% of materials that we source and finished goods we produce. Besides the fact that we
+have already accounted for the high volatility with relatively wide guidance ranges, we are already implementing countermeasures in regard to
+sourcing and pricing to mitigate the impact. Of course, we will continue to monitor the situation closely.
+
+Closing this chapter with our outlook for fiscal 2025, which remains unchanged. Despite the fact that we are operating in an environment that has
+become significantly more challenging since beginning of the year, we continue to expect organic sales growth of 1.5% to 3.5% for the Group.
+
+For Adhesive Technologies, we guide 2% to 4%. And in Consumer Brands, we guide for 1% to 3%. In terms of phasing, we anticipated a slower start
+to 2025. However, we expect organic sales growth to accelerate in the course of the year, leading to a stronger second half of fiscal 2025 versus
+the first half.
+
+This holds true for both business units. For the adjusted EBIT margin, we continue to anticipate a level of 14% to 15.5% on Group level backed by
+already strong performance in the first quarter. For Adhesive Technologies, we expect 16% to 17.5% and for Consumer Brands, 13.5% to 15%.
+
+And for adjusted EPS growth at constant currencies, we continue to expect an increase in the low to high single-digit percentage range. Our
+expectations regarding FX, A&D, direct material prices, restructuring expenses and CapEx for fiscal 2025 remain unchanged. Although, as already
+
+7
+
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+©2025 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+
+
+
+MAY 08, 2025 / 7:00AM, HNKG_p.DE - Q1 2025 Henkel AG & Co KGaA Earnings Call
+
+mentioned earlier, we do see a high level of volatility, in particular when it comes to currencies and here, we expect the headwind that we see in
+Q1 to accelerate in the course of the year.
+
+And with that, back to you, Carsten.
+
+Carsten Knobel - Henkel AG & Co KGaA - Chairman of the Management Board
+
+Thank you, Marco. So let me summarize today's key takeaways. Our first quarter results came in below prior year levels, in line with what we had
+indicated in our full year call in March. Pricing contributed positive in both business units. Our Consumer business reported a minus 3.5% and thus,
+came in within the expected range, also reflecting high prior year comparables due to strong innovation launches in the first year of 2024.
+
+Pricing continued to be positive. Volume development was in the negative territory, reflecting muted consumer sentiment and customer destocking,
+particularly in the US, as well as the supply chain challenges, which in the meantime have been mainly solved.
+
+Adhesive Technologies delivered organic sales growth of plus 1.1% for the first quarter, despite the negative working day impact, which accounts
+for slightly more than 1 percentage point. Adjusted for this working day impact, organic sales growth would have been above 2%. Also, we saw a
+good balance between volumes and pricing both being in positive territory.
+
+In the meantime, we also succeeded in closing the divestment of our retailer branded business in North America earlier than initially anticipated.
+And with that, we concluded our strategic portfolio optimization program, which we had announced early 2022.
+
+In addition, we also saw strong margins, both gross profit and EBIT, which is quite encouraging to see. And despite the fact that we are operating
+in an environment that has become significantly more challenging since the beginning of the year, our outlook for 2025 remains unchanged. We
+expect top line acceleration in the course of the year and for the stronger second half and bottom line, well within our guidance range.
+
+And with this, let us move on to the Q&A. Marco and I are looking forward to taking your questions, as always.
+
+Q U E S T I O N S  A N D  A N S W E R S
+Operator
+
+Thank you. Mr. Knobel (Operator Instructions).
+
+Guillaume Delmas, UBS.
+
+Guillaume Delmas - UBS AG - Analyst
+
+Thank you very much and good morning Carsten and Marco. A couple of questions for me, please. The first one is on your volume growth, specifically
+in Consumer Brands. Can you maybe help us unpack, I mean, all the different moving parts that affected your volumes in Q1, so like the customer
+destocking, supply chain challenges, portfolio optimization.
+
+Basically, what I'm trying to get to is on an ex one-off, ex temporary factor basis, what would volumes have been in Q1? Will it still be negative,
+maybe flat? And I guess, it's just to give us a little bit of an idea of the underlying run rate for this business that should become visible from Q2?
+
+And also on this, at the time of the full year results in early March, you were expecting volumes to be positive for the year in Consumer Brands, just
+wondering if it is still the case? And then my second question on your margin guidance. You mentioned some strong growth and EBIT margin
+
+8
+
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+©2025 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+
+
+
+MAY 08, 2025 / 7:00AM, HNKG_p.DE - Q1 2025 Henkel AG & Co KGaA Earnings Call
+
+development in Q1. Likewise, you expect strong expansion for the year. Yet, you haven't updated your 2025 margin guidance like you did in Q1
+last year. So how should we reconcile this?
+
+Are you basically saying that you're well on track to deliver towards the top end of that margin guidance at this stage, but given how volatile and
+uncertain the macro is, you would rather keep for now a wide range of outcomes?
+
+Thank you very much.
+
+Carsten Knobel - Henkel AG & Co KGaA - Chairman of the Management Board
+
+Good morning, Guillaume. So thank you for your questions. So let's get started with your volume growth question. So as pointed out, the drivers
+for that volume development is, on the one side, reflected to the subdued consumer sentiment, it's particularly also to the customer destocking,
+particularly in the US.
+
+And also as you're rightly saying, as we pointed that out during our full year call related to the supply chain challenges, which, in the meantime,
+and I think that's important, have been mainly solved. There will be some, and I think we also indicated that there is an impact still also in the
+complete first half, and nevertheless, to a minor part because, as I said, the majority of these things have been solved.
+
+I hope that you understand that we will not go into every detail what these individual topics have an impact. But what you can take into account
+is, if you take on the one side, the market situation, I mean, the consumer sentiment; and on the other side, our supply chain challenges that this
+is roughly a similar magnitude in that.
+
+So that's for that part. You had a second part in that, which was related to the full year and the question of positive volumes, which we indicated
+in our full year 2024 call in March. And there is no change on that. That means we stick to our top line guidance for Consumer Brands, which is in
+the range of plus 1% to plus 3%. And our ambition in that context is also that we would like to get the volumes into slightly positive territory and
+there is no change on that.
+
+And the confidence behind that is, as we also indicated in our full year call, is the innovation pipeline for the second half of the year, which is
+different to in last year, where you remember where we told you that this was front-end loaded with first half year in 2024. That's to the situation
+of your first question.
+
+Coming to the second, which is related to our profitability. And again, as Marco pointed that out and also myself, I think we are very satisfied with
+our gross margin development in terms of start into the year, which is also something which we see in the course of starting into the second quarter
+in terms of April results and not only gross profit, but also strong bottom line margins.
+
+And I think you answered the question a little bit by yourself. Looking at the situation in which we are currently in, the volatility, the uncertainty,
+the things which are happening, we have on purpose taken a little bit wider range at the beginning of the year. And I think that's also, I would say
+that was a good decision to do that.
+
+We said today that we will be well within that range. And I hope you understand that at that point, we will not further detail it out at this point of
+time in the case of if that is at the top of that range or if we would change that range, I think it's well in that range. And that's, I think, for now, the
+right statement. I hope that answers your question, Guillaume.
+
+Operator
+
+Fulvio Cazzol, Berenberg.
+
+9
+
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+©2025 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+
+
+
+MAY 08, 2025 / 7:00AM, HNKG_p.DE - Q1 2025 Henkel AG & Co KGaA Earnings Call
+
+Fulvio Cazzol - Berenberg Bank - Analyst
+
+Yes, good morning and thank you for taking my two questions. The first one is on the Fabric & Home Care business in Europe, which declined in
+Q1. I was just wondering if you can provide a bit more color on what the drivers of this particular region were? Because I'm just wondering, is it the
+softer category or is it some market share developments have also not been favorable?
+
+I know you've got different country exposures, but Unilever, I think, reported high single-digit growth in their European fabric cleaning business
+in Q1. So I'm just trying to understand why the growth was so contrasted between the two companies?
+
+And then I'm sorry for repeating the similar question to Guillaume, but in terms of the guidance for the rest of the year for the Consumer Brands
+division, I think it implies between 2.5% to 5% organic growth for the rest of the year.
+
+And as you highlighted during the presentation, we need to see a meaningful inflection in volume growth for the business to achieve this and
+considering the consumer backdrop, which was quite subdued, I was wondering what is going to underpin this inflection? I mean is your innovation
+pipeline really enough or are you also relying on a recovery in the consumer sentiment in order to achieve that level of growth for the rest of the
+year?
+
+Thank you.
+
+Carsten Knobel - Henkel AG & Co KGaA - Chairman of the Management Board
+
+Yeah, good morning, Fulvio. Thanks for your two questions. So first, to your first one, which is what's related to Fabric Home Care, specifically in
+Europe. Europe recorded a negative OSG, as you pointed out, that was mainly due to a muted performance in Laundry & Home Care as well in
+other consumers.
+
+And the pressure here is on household budgets that is still visible. And hence, private label shares are still on elevated levels, in particular, in the
+Laundry & Home Care business. I think that's something which is not new, that is something which is accompanying us for years and decades.
+
+And in that context, I would say we lost also certain market shares that's correct on that, but that is also attributed to the thing I just said before.
+And for sure, it's always difficult to compare the one performance of a company to the other one.
+
+So therefore, I cannot comment what in the context of Unilever happens or not happens. But I think that is the situation. And only as a reference
+point, by contrast, we saw a positive performance in Hair in Europe, in that context. So I think it's within these volatile times and critical times, there
+is a shift to private label and the exposure of private label in Laundry & Home Care is stronger elsewhere in any other region related to that. That's
+maybe to the first.
+
+And to the second, as you said, it was more or less also already asked by Guillaume in that context. We continue to drive profitable growth by
+launching really impactful innovation, which addresses relevant consumer needs. And I think important is, we highlighted this again, that I think
+it is also important to support that with relevant investments in marketing in that context.
+
+And we have done that in the years '23, '24 to a significant higher level. And that is something which we continue to do and to see also in the course
+of 2025, which was part in Q1, and this will continue also throughout the whole year. And that is definitely a point which makes us confident that
+we will reach also the context of 1% to 3%, which we have guided.
+
+Another proof point is our top 10 performance of our top 10 brands, which significantly outperforms in terms of top line perspective. I mentioned
+that more than 400 basis points better growth if you take the last couple of years in context since we have been going into the merger, which is
+also valid in Q1 because you're looking for proof points why an acceleration of the top line performance can be.
+
+10
+
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+©2025 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+
+
+
+MAY 08, 2025 / 7:00AM, HNKG_p.DE - Q1 2025 Henkel AG & Co KGaA Earnings Call
+
+The other point is definitely that we have been solving the supply chain challenges, mainly in Q1, there will be a spillover effect of certain parts in
+beginning of Q2. And the other part, we are seeing customer destockings leveling out, especially in North America, which is also another, I would
+say, proof point that things which will go better for the supply chain topics. We have also seen in April proof points that these things have been
+solved.
+
+You have heard Marco talking about this situation in Asia when it comes to supply chain. That is what we see with really good OSG developments
+in April in that context. Same is with the destocking of customers in North America, especially in the professional area, where we have been also
+seeing good growth in North America.
+
+So a couple of points where we definitely believe that what we just said is that we are sticking to our guidance and that we have the ambition of
+positive, or bring positive volumes for the full year 2025 that we are sticking to that.
+
+For sure, it's ambitious, that's clear, but that's what we're here for, and that's what we are working on. Hope that helps.
+
+Fulvio Cazzol - Berenberg Bank - Analyst
+
+It does.
+
+Operator
+
+Rashad Kawan, Morgan Stanley.
+
+Rashad Kawan - Morgan Stanley - Analyst
+
+Hey, good morning, Leslie Carson and Marco. Thanks for taking my questions. First one, just obviously, clearly, the environment has changed since
+you last reported, you've talked about that in your remarks in the first few questions. Can you dig into that a bit more in terms of what you're seeing
+on the ground around changing consumption habits across both businesses?
+
+And then second question, can you talk through the outlook for the different industrial end markets you're exposed to? I mean autos clearly
+impacted by the uncertainty we're seeing in Electronics, very strong growth in China, in particular. Has there been a pull-through in demand ahead
+of tariffs there?
+
+And just given the uncertain environment overall and the more negative sentiment from what we’re hearing from your chemicals peers, what
+gives you confidence that you can still deliver on the Adhesives guidance for the year and improve over the course of the year, like you said?
+
+Thank you.
+
+Carsten Knobel - Henkel AG & Co KGaA - Chairman of the Management Board
+
+Good morning. So let's start again. The consumption, I think, was your point on both businesses in that context, so the overall consumer sentiment
+is increasingly impacted by the global uncertainty. However, it also continues to be more robust in Europe in comparison to the US. For instance,
+when we observed the salon traffic in the US, so the less salon traffic in the US. On the other side, I just made the comment of the destocking,
+especially for North America that we have seen beginning of quarter two. Yes, a different level or so that the destocking is not at the same elevated
+level anymore.
+
+11
+
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+©2025 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+
+
+
+MAY 08, 2025 / 7:00AM, HNKG_p.DE - Q1 2025 Henkel AG & Co KGaA Earnings Call
+
+With our differentiated and broad-based brand and product portfolio, I think we are covering different price points. And with that, I think we are
+also in a situation to make business within that, I would say, a more challenging situation and business. You also talked about the Henkel Adhesives
+situation. I think maybe starting with Automotive. For sure, automotive is a very challenging situation from a market perspective.
+
+At that point, you see that the light vehicle production is in Q1 significantly down, especially in North America, for example with a minus 8%. And
+yes, we see on the other side, no particular or significant pre-shipments impacting our Adhesives business for China. So in that context, yes,
+Automotive is muted.
+
+On the other side, you have heard me talking about Electronics & Industrials where we have seen some good growth drivers in the market and
+also with the results with double-digit and high growth, what we realized in Q1, we have been clearly seeing that we are not only participating,
+but over proportionately participating in that and therefore, we also see no change related to that.
+
+And maybe last point on that is the impact of working days. I talked about that the 1.1% in Q1 of Adhesive Technologies had an impact of roughly
+1% point and that would have meant a top line growth in Adhesives of a good 2% and that working day impact will be reverted or is to be reverted
+in the second half of the year.
+
+So yes, and I think that also goes back to the question of Guillaume, why we are not changing anything on the guidance. I think the volatility, the
+uncertainty is quite significantly out. And it's, for sure, to dealing with that. But I would like to come back to a point of our Adhesives business.
+
+We are serving 800 industries with 100,000 customers with our 20,000 products and solutions. There is no other company in the world of adhesive
+coatings and sealings who's doing that to that extent. So therefore, we are very confident and can be very proud of the business we are having.
+
+We are the world market leader. And in that context, I think we have quite a lot of positive things, which will help us to outperform the market,
+which for sure is in specific segments, maybe not the best at that point. But as I said, we are serving 800 industry segments and not everybody is
+in that situation like the automotive is, for sure.
+
+And independent of that, you also know that within automotive, we have a quite good, still good development of the electrical vehicles and I
+pointed that out several times before that we are more than well positioned in that context and that is the Component business in that context.
+
+So therefore, I would say quite a long answer now on your questions, but I wanted to give you, I would say, a kind of a background sentiment why
+we believe that in both businesses we're sticking to or we're confirming our guidance in the top line 2% to 4% for Adhesive Technologies, 1% to
+3% for Consumer Brands.
+
+And also maybe the last point, you know that we have been investing in the last couple of, I would say, 15 months into infrastructure businesses
+with Seal for Life and Critica Infrastructure, plus our own business. And there is definitely higher infrastructure spending in many states to be seen
+what we see that's also related that we see quite good developments of our top line in these businesses currently also for the full year, and that's
+also why we are well positioned in that context. Hope that answers, Rashad.
+
+Operator
+
+Tom Sykes, Deutsche Bank.
+
+Tom Skyes - Deutsche Bank - Analyst
+
+Yeah, morning, everybody. So firstly, just to confirm on what you just said on Adhesives. I wasn't quite clear. Do you think you can and you will
+accelerate in Adhesives even if autos remains where it is now? And then just on Consumer.
+
+12
+
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+©2025 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+
+
+
+MAY 08, 2025 / 7:00AM, HNKG_p.DE - Q1 2025 Henkel AG & Co KGaA Earnings Call
+
+I mean, all HPC or all staples companies are saying that H2 is going to be better, and they're all saying they've got an innovation pipeline that's
+better than before, and they're all saying they're going to spend more money to do it.
+
+So it's obviously going to be quite competitive and probably quite reliant on retailers restocking. So how much of an improvement in H2 in Consumer
+is going to come, do you think, from an improved sell-out? And how much is coming from an improved sell-in? And of that sell-in, how much is an
+end of North American destocking/moving into restocking for consumer, please?
+
+Carsten Knobel - Henkel AG & Co KGaA - Chairman of the Management Board
+
+So, Tom, good morning. I'm still looking for a question for Marco. It seems, Marco, that today is with me. Yeah, Tom, related to Henkel Adhesive
+Technologies. When you're saying you're not 100% sure that you understand everything. For sure, with, and I told you, with the 1.1% in Q1, for
+sure, we need to have an acceleration in the course of the year in order to get into our range of 2% to 4%, what we have been confirming today.
+
+And in that context, I think I gave the reasons in the answer before, and I think we should not repeat everything. But again, being the world number
+1, being in all industry segments across the world, Automotive is not the only segment. It's 1 out of 800.
+
+And I've given different examples, Infrastructure, Industrials segments, Telecom and Data, the topic of Electronics, where we see not only good
+size, but where we also see good results and where we have a good pipeline of products to bring that into execution. So therefore, I would say
+that's very clear, despite the volatile environment and also what other things.
+
+Consumer, I think whatever others are saying, I think we are trying to be clear on what impacted the negative results for the soft start into the year
+in quarter one, which is two parts, which is market, consumer sentiment and the other part self-inflicted topics, which are related mainly to supply
+chain challenges.
+
+We said that both have a similar magnitude how that impacted Q1 that will go out. I think we have been very clear that we have solved the supply
+chain challenges, mainly already in Q1. There will be still an impact in Q2 of that. As I said, there will be some spillover effects and some minor
+things which still needs to be solved, but not anymore for the second half of the year.
+
+Then I said that we have been seeing some positive signs on destocking in North America, especially when it comes to our Professional business.
+And for sure, the pipeline, I can only comment now for us. We have a significantly stronger pipeline innovation-wise in H2 than in H1. Hope that
+helps, Tom.
+
+Tom Skyes - Deutsche Bank - Analyst
+
+Yeah, no problem.
+
+Operator
+
+Patrick Folan, Barclays.
+
+Patrick Folan - Barclays Corporate & Investment Bank - Analyst
+
+Hi, good morning, Carsten, Marco, and Leslie, thanks for taking my questions. Just going back on the tougher macro comments, if the US development
+continues to deteriorate as it did at the same run rate throughout Q1, would this decline offset some of the expected innovation benefits you
+would have in the second half? Or would you even consider delaying any of the innovation launches due to the weaker macro?
+
+13
+
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+©2025 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+
+
+
+MAY 08, 2025 / 7:00AM, HNKG_p.DE - Q1 2025 Henkel AG & Co KGaA Earnings Call
+
+And my second question is just on your Laundry business. Can you maybe outline what the plan is to compete with private label in the US in the
+Laundry segment? Conscious, this is not just an issue for Henkel, but the wider branded manufacturers. But considering the environment is now
+worse than where we were in 2024, is this something where we should see the innovation impact come from?
+
+Thank you.
+
+Carsten Knobel - Henkel AG & Co KGaA - Chairman of the Management Board
+
+Patrick, good morning. So starting with your second question with the Laundry situation. So what I said before when I was talking about Laundry
+& Home Care and private label that especially in Europe, the private label situation is a more outspoken one in terms of that private label has a
+higher share in that business and is also always the one when we come into economic critical situations that the private label shares is over
+proportionately participating in that, but we also always see that this trend is going and coming back.
+
+In US, the situation is not at the same level. And to outperform private label, I think there are only two answers, which is better innovations or which
+is innovations and to have better quality on the products. And I think that's something which, for a branded business, is always the factor and in
+mind, that's also related to our situation that we are significantly spending behind our business.
+
+And to give you also a quantification of what I just said, the private label share in Europe is roughly 20% and in North America, it's a quarter of that,
+so roughly 5%. So there is a different level or significantly different level of impact.
+
+And maybe, Marco, you take the first question of Patrick, which was related to the macro environment and delay of certain things in context to Q1.
+
+Marco Swoboda - Henkel AG & Co KGaA - Executive Vice President - Finance, Purchasing, Global Business Solutions and Member of the Management
+Board
+
+Yeah. So maybe first, I mean, on the macro, yes, we have seen a significant decline in consumer sentiment, in particular in the US in the first quarter.
+You see that in many published indices. When we look at that also historically, I think it's fair to assume that low level will not persist for the entire
+year, at least that is when we look back and that has never happened to that magnitude.
+
+So that is also why many external forecasts to indicate a much better full year than what we had seen in the first quarter. Now I understand your
+question that asking whether we would revise maybe our phasing also of our in-house innovations that we bring to the market, I don't think that
+is what we would do.
+
+I mean, definitely, we want to come as soon as early and we have more or less a plan also done for the full year, when do we launch which product,
+in which market and that we will pull through and then we're going to deal with the overall sentiment as we go. But there's no reason to delay any
+introduction into the market.
+
+And for sure, as Carsten said that earlier, the pipeline that is more skewed towards the second half will, of course, help to offset an overall also weak
+environment. But from that point of view, we're going to deal with it going forward and the current assumption is that also the sentiment will
+improve, in particular in the second half based on what we hear from external forecast and also when we look at historic patterns.
+
+Operator
+
+Thank you. Ladies and gentlemen, thank you for your questions. I will now hand over to Mr. Knobel for his closing remarks.
+
+14
+
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+©2025 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
+
+
+
+MAY 08, 2025 / 7:00AM, HNKG_p.DE - Q1 2025 Henkel AG & Co KGaA Earnings Call
+
+Carsten Knobel - Henkel AG & Co KGaA - Chairman of the Management Board
+
+So first of all, thank you so much for dialing in and your interest in Henkel, and your questions. I fully understand the questions and for sure, the
+very volatile situation. But let me only point out one point, again. I talked quite a lot about our Henkel Adhesive Technologies business, how strong
+that business is. Since years since decades that we are the number 1, in that market, and that's the confidence why we will also continue to
+outperform.
+
+And the same in the meantime for me is very clear and valid for our Consumer business. You have heard me talking about that. We have been
+driving, over the last two years, the biggest transformation of our company in decades. And you have seen we have been growing in the last two
+years, 4.5%.
+
+We have been significantly improving gross margins and bottom line. We are getting closer to our mid-term ambition. Yes, there is currently the
+sentiment and some topics we have to solve. We will solve that. We are delivering on our strategy. And therefore, I'm also confident not only for
+the mid-term, I'm also confident for the short term means for the year 2025.
+
+I fully understand that there are still a lot of open questions, which are in the line. I hope for your understanding that we need to cut now. Nevertheless,
+the team will be there immediately after the call to clarify these questions immediately. And hopefully, we see each other for our half year results
+on August 7.
+
+Thanks for dialing in. Thanks for your patience, and see you soon. Bye.
+
+Operator
+
+Ladies and gentlemen, the conference is now over. Thank you for choosing Chorus Call, and thank you for participating in the conference. You
+may now disconnect your lines. Goodbye.
+
+D I S C L A I M E R
+
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Transcripts are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based upon
+current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, which are more
+specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are reasonable, any of the
+assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION,
+THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY
+RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE
+COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2025, Refinitiv. All Rights Reserved. 16349828-2025-05-09T09:56:45.183
+
+15
+
+REFINITIV STREETEVENTS | www.refinitiv.com | Contact Us
+
+©2025 Refinitiv. All rights reserved. Republication or redistribution of Refinitiv content, including by framing or similar means, is prohibited without the prior written
+consent of Refinitiv. 'Refinitiv' and the Refinitiv logo are registered trademarks of Refinitiv and its affiliated companies.
