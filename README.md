@@ -1,5 +1,5 @@
 # Predicting EPS Movement (Up/Down) from Earnings Call Transcripts
-Can the language used in earnings calls predict whether a company's earnings per share (EPS) increased?
+Can we predict whether a company’s EPS increased from the previous quarter using only the language in its quarterly earnings call transcript? We aim to identify whether investor-facing communication in earnings calls contains reliable signals of company performance, using conventional machine learning models and NNs trained on TF-IDF representations of transcript text.
 
 ---
 
@@ -13,16 +13,9 @@ Can the language used in earnings calls predict whether a company's earnings per
 ---
 
 ## Project Overview
-This project investigates whether the textual content of quarterly earnings call transcripts can be used to **predict changes in company performance**, specifically **whether EPS increased from the previous quarter**. <br>
-Building on our earlier work using **unsupervised learning** to uncover industry-specific linguistic patterns, we extend our analysis with **supervised classification** to explore predictive relationships between language and earnings outcomes.
+This project investigates whether the textual content of quarterly earnings call transcripts can be used to **predict changes in company performance**, specifically **whether EPS increased from the previous quarter**. Building on our earlier work using **unsupervised learning** to uncover industry-specific linguistic patterns, we extend our analysis with **supervised classification** to explore predictive relationships between language and earnings outcomes.
 
 ---
-
-# Problem Statement
-Can we predict whether a company’s EPS increased from the previous quarter using only the language in its quarterly earnings call transcript? <br>
-We aim to identify whether investor-facing communication in earnings calls contains reliable signals of company performance, using conventional machine learning models and NNs trained on TF-IDF representations of transcript text.
-
---
 
 ## Dataset
 
