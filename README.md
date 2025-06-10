@@ -38,7 +38,7 @@ We collected **200+ quarterly earnings call transcripts** from **30+ publicly tr
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 ### Supervised Learning (EPS Prediction)
 
